@@ -1,0 +1,1132 @@
+2025-03-14T09:00:00.194Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6469 200 86ms trace=128b2f330c5c7fd0
+2025-03-14T09:00:01.074Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=9531985d5d9dc9f81818e811892f902b
+2025-03-14T09:00:01.173Z INFO  [redis-master-0] DB 0: 876946 keys, used_memory=444MB
+2025-03-14T09:00:01.251Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1409 200 58ms trace=11e20b8f6b0d549b
+2025-03-14T09:00:01.383Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9029 200 57ms trace=d3ac94af0f21ddb6
+2025-03-14T09:00:01.549Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3658 200 83ms trace=953f48f1a09f76b5
+2025-03-14T09:00:02.179Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9594 200 53ms trace=f9ebdacc0cb1e29c
+2025-03-14T09:00:02.266Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9121 200 20ms trace=6b4cb2424a23d596
+2025-03-14T09:00:02.859Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1930 200 76ms trace=8f6d05584ef8aa38
+2025-03-14T09:00:03.084Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1689 200 77ms trace=a38fd547923a7369
+2025-03-14T09:00:03.316Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=b64ce4228c38fb2918f135d25f557203
+2025-03-14T09:00:03.933Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/977 200 82ms trace=7f15052434b9b5df
+2025-03-14T09:00:04.517Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7006 200 43ms trace=95e761d17731af10
+2025-03-14T09:00:04.927Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4912 200 34ms trace=2e05319acb5c7427
+2025-03-14T09:00:05.765Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4000 200 13ms trace=4cdd2055930d6eaf
+2025-03-14T09:00:06.342Z INFO  [redis-master-0] DB 0: 659583 keys, used_memory=492MB
+2025-03-14T09:00:07.128Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7354 200 39ms trace=faecbd389be4bcfc
+2025-03-14T09:00:07.288Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8388 200 56ms trace=c1d3fcff2a3af4d4
+2025-03-14T09:00:07.483Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8012 200 56ms trace=f646e1f40a097c97
+2025-03-14T09:00:08.207Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=92b1d3f28ede0d7ac3baea9e13deef86
+2025-03-14T09:00:08.595Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5738 200 79ms trace=9474031b7f26144b
+2025-03-14T09:00:08.705Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1534 200 37ms trace=b2715945795e8229
+2025-03-14T09:00:08.811Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/995 200 42ms trace=93f448b3a5aa3c81
+2025-03-14T09:00:09.692Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7302 200 39ms trace=62c33a4fb774eb52
+2025-03-14T09:00:10.087Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/370 200 62ms trace=2b0537e65affb229
+2025-03-14T09:00:10.246Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8089 200 10ms trace=c4aaeac137dc76fb
+2025-03-14T09:00:10.418Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4057 200 53ms trace=eab477d26415479c
+2025-03-14T09:00:10.966Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=66d2287672fdf2022a96fb1a14a0f9e7
+2025-03-14T09:00:11.290Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2244 200 58ms trace=8cdb305fdd2e1609
+2025-03-14T09:00:11.615Z INFO  [redis-master-0] DB 0: 770355 keys, used_memory=433MB
+2025-03-14T09:00:12.354Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6234 200 32ms trace=153e7c2a26a2c0bd
+2025-03-14T09:00:12.548Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3801 200 87ms trace=0316909e3bbbe9ea
+2025-03-14T09:00:13.439Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9653 200 26ms trace=482c9cbc43435cc5
+2025-03-14T09:00:13.628Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6865 200 71ms trace=9c1caaf75e8766ed
+2025-03-14T09:00:13.994Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2057 200 68ms trace=9e1a8ef4f341e07a
+2025-03-14T09:00:14.726Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/885 200 61ms trace=def88334e647cb8f
+2025-03-14T09:00:15.564Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=cc4169a3ae3a2b7fdfe01893f3aed0b6
+2025-03-14T09:00:16.005Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6522 200 54ms trace=1a81682c64e50cad
+2025-03-14T09:00:16.694Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6561 200 10ms trace=113db17d30cbc97d
+2025-03-14T09:00:17.185Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2660 200 17ms trace=99c94309570dc195
+2025-03-14T09:00:17.329Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4 200 75ms trace=895fd7b326b94c7f
+2025-03-14T09:00:17.741Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/418 200 12ms trace=353c631cdfd43f37
+2025-03-14T09:00:18.409Z INFO  [redis-master-0] DB 0: 597252 keys, used_memory=399MB
+2025-03-14T09:00:18.707Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5692 200 80ms trace=7961fd925d39d0a8
+2025-03-14T09:00:18.865Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7997 200 62ms trace=7bdc968b7afb2c68
+2025-03-14T09:00:19.224Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=bfeaa1551a28f7b324e4e25a15fc899e
+2025-03-14T09:00:20.022Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4338 200 64ms trace=b12aa1f6d42fddbb
+2025-03-14T09:00:20.590Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/379 200 29ms trace=f3b7a50df373ca53
+2025-03-14T09:00:21.000Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2402 200 72ms trace=06ec41adea057543
+2025-03-14T09:00:21.345Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1492 200 36ms trace=5de0099784b5a818
+2025-03-14T09:00:21.749Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3651 200 71ms trace=c77024208aa4248c
+2025-03-14T09:00:22.126Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3655 200 81ms trace=c9d488b1cfbf3360
+2025-03-14T09:00:22.991Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3923 200 54ms trace=cda6c6fdbd685167
+2025-03-14T09:00:23.263Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=5b06258e7e26f36a8483f8b8332dd331
+2025-03-14T09:00:23.332Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/458 200 38ms trace=4259405278e4b98d
+2025-03-14T09:00:24.081Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9915 200 47ms trace=cefe2a1f727d8349
+2025-03-14T09:00:24.861Z INFO  [redis-master-0] DB 0: 583248 keys, used_memory=426MB
+2025-03-14T09:00:25.126Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1674 200 32ms trace=325b55dd78572976
+2025-03-14T09:00:25.375Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7908 200 82ms trace=e67a9b75fc394724
+2025-03-14T09:00:26.275Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/32 200 64ms trace=a72991b9e8c14743
+2025-03-14T09:00:27.133Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1390 200 87ms trace=e8e727891eb20109
+2025-03-14T09:00:27.974Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3266 200 64ms trace=2db3997fe39639be
+2025-03-14T09:00:28.458Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=16353d03551fd8f9a2c68e45ca04c79f
+2025-03-14T09:00:28.903Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7589 200 54ms trace=f26149edbe4c5ce6
+2025-03-14T09:00:29.685Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2603 200 24ms trace=20859634fe3c9c8f
+2025-03-14T09:00:29.879Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9680 200 62ms trace=a7e6529bce76e9f4
+2025-03-14T09:00:30.545Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9763 200 63ms trace=effddeeaa842bc19
+2025-03-14T09:00:30.744Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8990 200 73ms trace=057a40b22188287e
+2025-03-14T09:00:31.602Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1684 200 70ms trace=ef02090bbfdefc15
+2025-03-14T09:00:31.784Z INFO  [redis-master-0] DB 0: 627441 keys, used_memory=491MB
+2025-03-14T09:00:32.669Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3458 200 6ms trace=3678bc8d40783f0a
+2025-03-14T09:00:33.008Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=9620bf0dc38084a03d93fd4c804c25d6
+2025-03-14T09:00:33.313Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8919 200 56ms trace=218e0b7bd58dcdb4
+2025-03-14T09:00:34.110Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5797 200 61ms trace=9556585ea997f351
+2025-03-14T09:00:34.580Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8220 200 19ms trace=26debfdb8825ae56
+2025-03-14T09:00:35.142Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/307 200 59ms trace=2ee0289dc6c91b92
+2025-03-14T09:00:35.186Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2455 200 25ms trace=7936d536243d3570
+2025-03-14T09:00:35.968Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1972 200 74ms trace=537390e50fcf31ca
+2025-03-14T09:00:36.538Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8696 200 74ms trace=c8c614b27b8444d1
+2025-03-14T09:00:37.373Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=0e8bec948f6f915fe21b37ca1b29fc99
+2025-03-14T09:00:37.608Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4538 200 8ms trace=1905d591c5b2e75a
+2025-03-14T09:00:38.111Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9204 200 6ms trace=e4ddf9b9c28ee907
+2025-03-14T09:00:38.604Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5335 200 81ms trace=816bee06f92e2339
+2025-03-14T09:00:39.264Z INFO  [redis-master-0] DB 0: 668520 keys, used_memory=405MB
+2025-03-14T09:00:39.587Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7412 200 68ms trace=ceaf4915888564e8
+2025-03-14T09:00:40.146Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4058 200 69ms trace=e040015ce064a114
+2025-03-14T09:00:40.758Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3320 200 60ms trace=6aa8b9e0231b3e14
+2025-03-14T09:00:41.199Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7244 200 43ms trace=abd0d7fb12926185
+2025-03-14T09:00:41.485Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=ab6286cd3672d6ae12b80aed6da79a87
+2025-03-14T09:00:42.327Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2005 200 22ms trace=b753a1eef0836085
+2025-03-14T09:00:43.043Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6000 200 21ms trace=e201552240cbacd0
+2025-03-14T09:00:43.561Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3598 200 15ms trace=e28af60465f42986
+2025-03-14T09:00:43.767Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3666 200 23ms trace=6e7836a4b4d19ec1
+2025-03-14T09:00:44.220Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5557 200 56ms trace=5b4b1b75321c5296
+2025-03-14T09:00:44.354Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5996 200 5ms trace=8dd63cb95685d624
+2025-03-14T09:00:44.845Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/297 200 52ms trace=84768b8c54dd0ba5
+2025-03-14T09:00:45.523Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=10755c97f5f554ed83239ef54ba2e161
+2025-03-14T09:00:45.678Z INFO  [redis-master-0] DB 0: 881583 keys, used_memory=480MB
+2025-03-14T09:00:45.825Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1378 200 36ms trace=0a227385459c945c
+2025-03-14T09:00:46.141Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2123 200 57ms trace=e9526a69d97e967b
+2025-03-14T09:00:47.019Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4238 200 54ms trace=895e8b6b263cfa5e
+2025-03-14T09:00:47.643Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8104 200 44ms trace=4770a08716e6fec3
+2025-03-14T09:00:48.501Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3004 200 57ms trace=1289bafae5316960
+2025-03-14T09:00:48.558Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1452 200 36ms trace=9bb183e11570266b
+2025-03-14T09:00:48.666Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4333 200 18ms trace=02f4b342742a8063
+2025-03-14T09:00:49.053Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=ed3a32a86af257488d959c31fe8ad4a1
+2025-03-14T09:00:49.729Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2118 200 8ms trace=b5a432cf86e3e726
+2025-03-14T09:00:49.881Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2646 200 36ms trace=2e5f950c0ce5af69
+2025-03-14T09:00:50.240Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4998 200 70ms trace=34b3ff60c26e7a42
+2025-03-14T09:00:50.736Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8194 200 89ms trace=4540f4262d8ad8c0
+2025-03-14T09:00:51.131Z INFO  [redis-master-0] DB 0: 821359 keys, used_memory=382MB
+2025-03-14T09:00:51.208Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/252 200 5ms trace=81728a07bbab27f6
+2025-03-14T09:00:51.442Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8426 200 63ms trace=ef44c0d53ee4da5a
+2025-03-14T09:00:51.590Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7081 200 87ms trace=8bc083117eb86c57
+2025-03-14T09:00:52.484Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=81b62bb5f86664ae64a149f5e3838b9e
+2025-03-14T09:00:53.228Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3526 200 32ms trace=32d90dcd57bb7d97
+2025-03-14T09:00:54.014Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2290 200 54ms trace=58f92deafd4bd030
+2025-03-14T09:00:54.911Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2127 200 4ms trace=a01d616f121ae3e6
+2025-03-14T09:00:55.212Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7058 200 23ms trace=15a0cce60e2ec40a
+2025-03-14T09:00:55.642Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8290 200 88ms trace=482cc78ef88ede10
+2025-03-14T09:00:55.930Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4802 200 8ms trace=2f733b05759eb559
+2025-03-14T09:00:56.245Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7305 200 3ms trace=5d385e064363e5d9
+2025-03-14T09:00:56.621Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=52d31e1b8c0d0033fc2325a9f8fdd208
+2025-03-14T09:00:56.696Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5072 200 30ms trace=2ed654115b491561
+2025-03-14T09:00:56.737Z INFO  [redis-master-0] DB 0: 575810 keys, used_memory=428MB
+2025-03-14T09:00:57.263Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4570 200 67ms trace=33736dcca7f0c99e
+2025-03-14T09:00:57.819Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/82 200 14ms trace=d129d06743a08f06
+2025-03-14T09:00:58.006Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6546 200 78ms trace=64dbc8d30aaaaf81
+2025-03-14T09:00:58.352Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4985 200 83ms trace=15a0a8ae3b996870
+2025-03-14T09:00:58.933Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2544 200 87ms trace=b74b589be48e9e02
+2025-03-14T09:00:59.371Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5344 200 66ms trace=48bfcbcf26433798
+2025-03-14T09:01:00.152Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=0b35b1de250e7b34a4aa07b49e6397d4
+2025-03-14T09:01:00.717Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7033 200 67ms trace=e8ee65a123a9a9da
+2025-03-14T09:01:01.527Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8264 200 75ms trace=d01a914cd5be785a
+2025-03-14T09:01:02.413Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9570 200 90ms trace=b17dd255f4c18226
+2025-03-14T09:01:02.688Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1395 200 6ms trace=221265400ab77988
+2025-03-14T09:01:03.097Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1719 200 51ms trace=738e0b77d5f860c3
+2025-03-14T09:01:03.708Z INFO  [redis-master-0] DB 0: 426623 keys, used_memory=460MB
+2025-03-14T09:01:04.389Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8708 200 90ms trace=7d42646f3e9b768f
+2025-03-14T09:01:04.432Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7487 200 11ms trace=eeb89ff1bf8e51aa
+2025-03-14T09:01:04.987Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=a8c7d9e01789819f8902dafce5d9fe81
+2025-03-14T09:01:05.094Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7764 200 35ms trace=130f27b2cf28f65e
+2025-03-14T09:01:05.374Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3363 200 32ms trace=a661f62cbd65680c
+2025-03-14T09:01:05.919Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6268 200 12ms trace=e91457db7aa068f1
+2025-03-14T09:01:06.253Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/766 200 81ms trace=a48c1d5ca1feb624
+2025-03-14T09:01:06.372Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9826 200 21ms trace=41023aed54ef125a
+2025-03-14T09:01:07.173Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4988 200 82ms trace=222930ae9158d4a8
+2025-03-14T09:01:07.706Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/994 200 65ms trace=f8f659ac44ce4ab3
+2025-03-14T09:01:08.434Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=acfb2d5e37bac233b1330c3f197a14e2
+2025-03-14T09:01:08.771Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8463 200 39ms trace=774510ca76f4251e
+2025-03-14T09:01:09.596Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1942 200 73ms trace=4fc9e91833020ccd
+2025-03-14T09:01:09.723Z INFO  [redis-master-0] DB 0: 890866 keys, used_memory=440MB
+2025-03-14T09:01:10.059Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7520 200 12ms trace=81b1c025d1e4d0a3
+2025-03-14T09:01:10.374Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6339 200 29ms trace=f21201e4eaa3556c
+2025-03-14T09:01:10.490Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9527 200 14ms trace=bf5b411b24491df6
+2025-03-14T09:01:10.798Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5891 200 19ms trace=d1f9bdfe9a762d54
+2025-03-14T09:01:11.358Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4581 200 17ms trace=5d7cfed1b40de56d
+2025-03-14T09:01:11.634Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=7c73b6c9e04b0dcee5d00a4d7f7595b5
+2025-03-14T09:01:11.699Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2607 200 3ms trace=7ddfcbc9f3308ce5
+2025-03-14T09:01:12.200Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6643 200 41ms trace=24056360ba28a679
+2025-03-14T09:01:12.592Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6163 200 43ms trace=d71961891ef3ea44
+2025-03-14T09:01:12.633Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5318 200 46ms trace=65f456aad6cff718
+2025-03-14T09:01:12.873Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/193 200 40ms trace=5f49f0fc40d28406
+2025-03-14T09:01:13.315Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6393 200 78ms trace=5c57722e138efef9
+2025-03-14T09:01:13.793Z INFO  [redis-master-0] DB 0: 796181 keys, used_memory=415MB
+2025-03-14T09:01:14.120Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1667 200 9ms trace=a97766fbd5ad5360
+2025-03-14T09:01:14.452Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=3fd3be98261f40dfef82d1a3a28cf7b1
+2025-03-14T09:01:14.938Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8372 200 43ms trace=c5ef5cfb3099f271
+2025-03-14T09:01:15.781Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7009 200 6ms trace=c2fbd8a3cfdcc257
+2025-03-14T09:01:16.230Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9080 200 73ms trace=b835e8a534145e87
+2025-03-14T09:01:16.320Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6732 200 60ms trace=c0aed9c59d6b023f
+2025-03-14T09:01:17.019Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4690 200 65ms trace=e9729f3f0c89c001
+2025-03-14T09:01:17.189Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2798 200 63ms trace=57fa49e56a34b371
+2025-03-14T09:01:17.533Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4191 200 86ms trace=67fd5499429a7079
+2025-03-14T09:01:18.244Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=8eaca2887bb1d1244d039b723d1926ac
+2025-03-14T09:01:18.687Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1962 200 24ms trace=296259c8a4a915d0
+2025-03-14T09:01:18.939Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8202 200 66ms trace=3853933d8ce621ef
+2025-03-14T09:01:19.319Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7373 200 57ms trace=8c3ba85923bc9152
+2025-03-14T09:01:19.556Z INFO  [redis-master-0] DB 0: 527971 keys, used_memory=391MB
+2025-03-14T09:01:19.946Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9108 200 14ms trace=3d37664251bcd77a
+2025-03-14T09:01:20.250Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9333 200 28ms trace=0524137fe322e96d
+2025-03-14T09:01:20.712Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6273 200 55ms trace=862fe231beef67fb
+2025-03-14T09:01:21.137Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4428 200 46ms trace=0fe321ecc08a58d7
+2025-03-14T09:01:21.687Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=5c327a6df7ba38b69304106e470b4fad
+2025-03-14T09:01:22.430Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8248 200 70ms trace=ca51e152a12f3a94
+2025-03-14T09:01:22.564Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4441 200 34ms trace=66567bc4627292f8
+2025-03-14T09:01:23.060Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7076 200 42ms trace=d07884b7d9435541
+2025-03-14T09:01:23.230Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/529 200 57ms trace=c3813ce6b5a29061
+2025-03-14T09:01:23.871Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8026 200 3ms trace=643ab9e212b92a01
+2025-03-14T09:01:24.390Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7356 200 34ms trace=1bea705ec879b663
+2025-03-14T09:01:24.588Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2492 200 69ms trace=ae9c78bdf8cd9ec3
+2025-03-14T09:01:24.739Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=b374fab6b8c3a4d2d34d1c0df1058667
+2025-03-14T09:01:25.441Z INFO  [redis-master-0] DB 0: 843814 keys, used_memory=477MB
+2025-03-14T09:01:25.568Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9036 200 8ms trace=c844b8fd0059865a
+2025-03-14T09:01:25.846Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9329 200 7ms trace=b70ba858a53fddc9
+2025-03-14T09:01:26.017Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4126 200 70ms trace=6ffb726aa2e3f93a
+2025-03-14T09:01:26.839Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1838 200 15ms trace=4ce3b0cc1202952f
+2025-03-14T09:01:27.475Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3141 200 52ms trace=393cbcdd42c927b9
+2025-03-14T09:01:27.516Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/172 200 71ms trace=ff125eb44d307fe4
+2025-03-14T09:01:27.841Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5184 200 85ms trace=e23f03ccd6e3a71e
+2025-03-14T09:01:28.129Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=8c0856a43c19c31586ba22dd79ad8999
+2025-03-14T09:01:28.198Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6748 200 86ms trace=0e28b64f4eb19fca
+2025-03-14T09:01:28.436Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8165 200 89ms trace=6b86290ba5acd341
+2025-03-14T09:01:28.739Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3733 200 88ms trace=ecd7570b6ca06496
+2025-03-14T09:01:29.011Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8077 200 7ms trace=568a8c29b2217139
+2025-03-14T09:01:29.786Z INFO  [redis-master-0] DB 0: 620492 keys, used_memory=426MB
+2025-03-14T09:01:30.231Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3246 200 3ms trace=4ac7ccc3cc0c6682
+2025-03-14T09:01:30.787Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1105 200 29ms trace=f848a9567ee5e857
+2025-03-14T09:01:31.146Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3178 200 32ms trace=38b079e17711b757
+2025-03-14T09:01:31.457Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=1be7f3cf4b80b828e3ab6283c2ae35d2
+2025-03-14T09:01:32.004Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9996 200 26ms trace=392bc552e57f7691
+2025-03-14T09:01:32.471Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/925 200 79ms trace=ec032e6b25795c18
+2025-03-14T09:01:32.566Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3489 200 6ms trace=989bc9dcf95fe8a0
+2025-03-14T09:01:33.031Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/850 200 10ms trace=64b0bb142f217e72
+2025-03-14T09:01:33.800Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5148 200 17ms trace=145103c7ff5e1d1f
+2025-03-14T09:01:34.177Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3125 200 26ms trace=ef95eee8a70828a7
+2025-03-14T09:01:34.981Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7662 200 7ms trace=aa1813454fd3e758
+2025-03-14T09:01:35.763Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=fc27d6835fb6d625d6d106fb60ed33a0
+2025-03-14T09:01:36.256Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2774 200 16ms trace=1407ab3300bc22cb
+2025-03-14T09:01:36.582Z INFO  [redis-master-0] DB 0: 442343 keys, used_memory=424MB
+2025-03-14T09:01:36.748Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9194 200 29ms trace=5b4c0d7361502dee
+2025-03-14T09:01:37.629Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7086 200 14ms trace=b48bb0750c9c20ef
+2025-03-14T09:01:37.869Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6107 200 72ms trace=7243d47ceb64c5c4
+2025-03-14T09:01:38.240Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5968 200 63ms trace=a1b49bf707c0909c
+2025-03-14T09:01:38.533Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6632 200 8ms trace=08ec379a602533dc
+2025-03-14T09:01:38.637Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1016 200 35ms trace=bf4e302c31e7aed1
+2025-03-14T09:01:38.741Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=5cebe21356cd42d29b09ab55e6077d79
+2025-03-14T09:01:39.124Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/715 200 36ms trace=b77570a4bf168da7
+2025-03-14T09:01:39.488Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4516 200 41ms trace=b8b8f27000f72d3c
+2025-03-14T09:01:40.352Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1071 200 6ms trace=3bdea8c3d375eff1
+2025-03-14T09:01:40.878Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7631 200 52ms trace=40449aa0ca304218
+2025-03-14T09:01:41.752Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8086 200 19ms trace=7f1d490eed97ec76
+2025-03-14T09:01:41.979Z INFO  [redis-master-0] DB 0: 404564 keys, used_memory=482MB
+2025-03-14T09:01:42.329Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2480 200 80ms trace=53eab0313c73d5f4
+2025-03-14T09:01:42.840Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5929 200 79ms trace=830ae19e143a5180
+2025-03-14T09:01:43.082Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=3f4f8b9d28f1a81bc0bd1d8464457ea4
+2025-03-14T09:01:43.188Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/555 200 64ms trace=8b6bfeae8d76d7a1
+2025-03-14T09:01:43.392Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6989 200 16ms trace=1279688cfce205cd
+2025-03-14T09:01:44.071Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1378 200 29ms trace=6bca9b3f18af266c
+2025-03-14T09:01:44.837Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7324 200 25ms trace=2207c6c03bf449fd
+2025-03-14T09:01:45.348Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3850 200 71ms trace=c61c96dbd8d4250d
+2025-03-14T09:01:46.165Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1986 200 40ms trace=47868e4a4b354e93
+2025-03-14T09:01:46.479Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6111 200 35ms trace=42a55162bcf1fcb5
+2025-03-14T09:01:46.722Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=3ece9f2c2f8c6c083f5783ea707c5f3d
+2025-03-14T09:01:46.919Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4610 200 77ms trace=538ae1c130312932
+2025-03-14T09:01:47.364Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4124 200 34ms trace=86bc2b9981e004fb
+2025-03-14T09:01:47.640Z INFO  [redis-master-0] DB 0: 740598 keys, used_memory=483MB
+2025-03-14T09:01:48.349Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7601 200 7ms trace=012664f61a327537
+2025-03-14T09:01:49.227Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3787 200 60ms trace=5fb65b55ea14843a
+2025-03-14T09:01:49.567Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3816 200 18ms trace=3087de350ce66f73
+2025-03-14T09:01:50.454Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9556 200 27ms trace=133ad73dee1fdde0
+2025-03-14T09:01:51.018Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2913 200 60ms trace=428bf7739a60f919
+2025-03-14T09:01:51.851Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=019f7781f2198825aa2d6c38c71c588c
+2025-03-14T09:01:52.543Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9768 200 82ms trace=37b79c485985ea3f
+2025-03-14T09:01:52.960Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5571 200 21ms trace=3437ccaa0b4e7f7c
+2025-03-14T09:01:53.039Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9821 200 86ms trace=3414c2dce9f8f71f
+2025-03-14T09:01:53.917Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5362 200 55ms trace=5f2ee40dada65cc4
+2025-03-14T09:01:54.592Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5116 200 12ms trace=080e31b034128822
+2025-03-14T09:01:55.193Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7922 200 11ms trace=19f48c75687dd512
+2025-03-14T09:01:56.047Z INFO  [redis-master-0] DB 0: 607249 keys, used_memory=464MB
+2025-03-14T09:01:56.245Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8750 200 14ms trace=29e78b06a72ed508
+2025-03-14T09:01:56.692Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=fcfd36d168e7ed23456b312cb2061ecc
+2025-03-14T09:01:57.415Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5040 200 56ms trace=0d25f954f4042f1e
+2025-03-14T09:01:58.218Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9282 200 48ms trace=6a9c2a336a01260f
+2025-03-14T09:01:59.043Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5961 200 85ms trace=6406f458327bcda3
+2025-03-14T09:01:59.497Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3337 200 3ms trace=e6d143186f25630d
+2025-03-14T09:01:59.970Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1861 200 14ms trace=93ea6a9467fde1c3
+2025-03-14T09:02:00.481Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2664 200 19ms trace=0d3be8ee03cc2f9b
+2025-03-14T09:02:00.666Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6500 200 14ms trace=9f48250d92a73f9d
+2025-03-14T09:02:01.085Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=2558d6c02bf3977581247dd4bcbc58a3
+2025-03-14T09:02:01.415Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2652 200 69ms trace=eced8ded2bfa1f10
+2025-03-14T09:02:01.566Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6288 200 65ms trace=ce0843c2c0e908a8
+2025-03-14T09:02:01.914Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2076 200 8ms trace=e9ad2bc7f9bd6bbb
+2025-03-14T09:02:02.448Z INFO  [redis-master-0] DB 0: 564902 keys, used_memory=386MB
+2025-03-14T09:02:03.139Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6356 200 14ms trace=b659f768e77b0475
+2025-03-14T09:02:03.883Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2626 200 84ms trace=db495244c92bdd5a
+2025-03-14T09:02:04.558Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6628 200 81ms trace=3234752bd8aa7be3
+2025-03-14T09:02:04.785Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9264 200 30ms trace=6655b9f00aadacf0
+2025-03-14T09:02:05.355Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=1f80a4e85bf508a062320fa3280f005d
+2025-03-14T09:02:05.647Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3156 200 8ms trace=8ff5ba77e244d05f
+2025-03-14T09:02:05.726Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5312 200 18ms trace=997a20be63cc537b
+2025-03-14T09:02:06.329Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5018 200 86ms trace=4ee6f4ff6b89d463
+2025-03-14T09:02:06.624Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6976 200 52ms trace=5e113423a8a9ea62
+2025-03-14T09:02:07.179Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7182 200 25ms trace=00e5e81305fbec3a
+2025-03-14T09:02:07.720Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7624 200 33ms trace=c379023e7262b8a9
+2025-03-14T09:02:08.558Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7509 200 25ms trace=7924dedecf7eda11
+2025-03-14T09:02:09.007Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=5bcb937020e27c17112ed1df1b69567e
+2025-03-14T09:02:09.487Z INFO  [redis-master-0] DB 0: 591539 keys, used_memory=391MB
+2025-03-14T09:02:10.043Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8359 200 87ms trace=0a68253a0a6fb154
+2025-03-14T09:02:10.216Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1348 200 43ms trace=b86bb4d6c7132891
+2025-03-14T09:02:10.337Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/890 200 67ms trace=60bb9aeee5160931
+2025-03-14T09:02:11.180Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2232 200 6ms trace=10fe52d4db68f275
+2025-03-14T09:02:11.969Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1796 200 27ms trace=fb52882f21b1aed2
+2025-03-14T09:02:12.303Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2706 200 90ms trace=b898a70cc9d35f16
+2025-03-14T09:02:12.410Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5750 200 81ms trace=40918a58c194ff53
+2025-03-14T09:02:12.612Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=4665ea199d106a37e58376fb52e71cf8
+2025-03-14T09:02:12.799Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4165 200 67ms trace=eb7f1414f6de2fbe
+2025-03-14T09:02:13.052Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9698 200 36ms trace=8189ac459da968f2
+2025-03-14T09:02:13.418Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6100 200 7ms trace=2e9dde7332eddf6f
+2025-03-14T09:02:13.623Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4558 200 89ms trace=e539cb1653ec4b93
+2025-03-14T09:02:14.048Z INFO  [redis-master-0] DB 0: 488469 keys, used_memory=481MB
+2025-03-14T09:02:14.205Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8696 200 9ms trace=dbb8d36ba2e5c7d7
+2025-03-14T09:02:14.708Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9097 200 69ms trace=b050864e947dbe2d
+2025-03-14T09:02:15.006Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8777 200 83ms trace=64edfce5db4a18fc
+2025-03-14T09:02:15.801Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=60307b7543c6ed1e5f186904cc342416
+2025-03-14T09:02:16.432Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2396 200 49ms trace=c3bf64e954b13301
+2025-03-14T09:02:16.924Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3770 200 25ms trace=be5c39319d892098
+2025-03-14T09:02:17.267Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8456 200 35ms trace=a3a517594f60e846
+2025-03-14T09:02:17.986Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5123 200 3ms trace=08a6ab0fbf433e03
+2025-03-14T09:02:18.178Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4768 200 81ms trace=6ea6d05ea0288056
+2025-03-14T09:02:18.742Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5966 200 9ms trace=7d076c0b21cc4751
+2025-03-14T09:02:19.409Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/747 200 5ms trace=00ab68b80decb3b5
+2025-03-14T09:02:20.029Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=85e9251c1b3a953c4dc1d3275aded3ca
+2025-03-14T09:02:20.615Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3675 200 55ms trace=4d187e3e956636e6
+2025-03-14T09:02:21.258Z INFO  [redis-master-0] DB 0: 470111 keys, used_memory=406MB
+2025-03-14T09:02:21.936Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7781 200 23ms trace=039cd862227ee409
+2025-03-14T09:02:22.700Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2447 200 60ms trace=104c968a1886a7ba
+2025-03-14T09:02:22.888Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4420 200 54ms trace=43a538c4cfc31601
+2025-03-14T09:02:22.985Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9214 200 47ms trace=a5464f6d983fd973
+2025-03-14T09:02:23.479Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9862 200 69ms trace=7e2b86d1bbc81f54
+2025-03-14T09:02:23.688Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7 200 8ms trace=88122e140fc05531
+2025-03-14T09:02:23.753Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=28c26bb23cd7dcef2f87466e67eee099
+2025-03-14T09:02:24.590Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1719 200 4ms trace=8d0949799cd5f2bb
+2025-03-14T09:02:24.831Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2331 200 55ms trace=84ac8fe63313a101
+2025-03-14T09:02:25.529Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8306 200 85ms trace=6a4d76e6a43dede7
+2025-03-14T09:02:25.747Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8333 200 42ms trace=4cde3e5a10530be2
+2025-03-14T09:02:25.836Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7831 200 71ms trace=600a673201a01d42
+2025-03-14T09:02:26.323Z INFO  [redis-master-0] DB 0: 790692 keys, used_memory=496MB
+2025-03-14T09:02:26.445Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7414 200 25ms trace=ff21dd5a39d7c140
+2025-03-14T09:02:26.752Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3806 200 85ms trace=1f8e652109eff2b4
+2025-03-14T09:02:27.135Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=b1f2ad8becd87a48bfe95413e42a872f
+2025-03-14T09:02:27.903Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/861 200 37ms trace=8dc508c6a2c81c32
+2025-03-14T09:02:28.389Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8573 200 36ms trace=a45a52094bad8e0e
+2025-03-14T09:02:28.516Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8314 200 4ms trace=42a785002b7604fe
+2025-03-14T09:02:29.317Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3323 200 23ms trace=ea3ab6d2bf03c644
+2025-03-14T09:02:29.553Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6369 200 45ms trace=3d3a190299ea4514
+2025-03-14T09:02:30.238Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8788 200 63ms trace=d6f7515178de3361
+2025-03-14T09:02:30.992Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/105 200 6ms trace=f4a887536fed41d7
+2025-03-14T09:02:31.774Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=4ec8c223e27f8be89201d55a3bdc2efd
+2025-03-14T09:02:32.214Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9591 200 12ms trace=e929840090b13f30
+2025-03-14T09:02:32.402Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/540 200 6ms trace=1b4f463f1ca505c1
+2025-03-14T09:02:33.078Z INFO  [redis-master-0] DB 0: 887036 keys, used_memory=400MB
+2025-03-14T09:02:33.263Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/471 200 6ms trace=236e536d0aa989b4
+2025-03-14T09:02:33.961Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/699 200 11ms trace=0bf3d0a7bc9df599
+2025-03-14T09:02:34.605Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5955 200 28ms trace=f45eaf1cd14bb7f5
+2025-03-14T09:02:35.325Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1081 200 52ms trace=3f1fb2411b6bf273
+2025-03-14T09:02:35.573Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1835 200 7ms trace=f30224c508d0323c
+2025-03-14T09:02:36.444Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=d337264b16646a40a2592559c0f621ad
+2025-03-14T09:02:37.131Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4709 200 64ms trace=21f5986819918b8a
+2025-03-14T09:02:37.981Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3359 200 40ms trace=5625e67151b315ec
+2025-03-14T09:02:38.288Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/343 200 47ms trace=ee1addc841b73d54
+2025-03-14T09:02:38.377Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6030 200 44ms trace=f6c8a64ac4ecbfa2
+2025-03-14T09:02:38.932Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7801 200 39ms trace=bee33d4a9e475394
+2025-03-14T09:02:39.779Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6766 200 6ms trace=84c46f726fbb28f3
+2025-03-14T09:02:40.610Z INFO  [redis-master-0] DB 0: 451537 keys, used_memory=424MB
+2025-03-14T09:02:41.371Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/789 200 71ms trace=3771690c90ebc2c3
+2025-03-14T09:02:42.142Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=93151cf917448971d3eca751dcbbb757
+2025-03-14T09:02:42.356Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7145 200 3ms trace=33b893a58607bfbf
+2025-03-14T09:02:43.176Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/885 200 3ms trace=7da693705909a958
+2025-03-14T09:02:43.719Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3024 200 66ms trace=58e1290d97b1ac9d
+2025-03-14T09:02:44.025Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9471 200 23ms trace=d0b3a17548a28354
+2025-03-14T09:02:44.781Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3794 200 66ms trace=1c23edee2a7147ea
+2025-03-14T09:02:45.606Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1326 200 65ms trace=fdb9ba32c9b4bc96
+2025-03-14T09:02:46.220Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1714 200 83ms trace=5b09b845539ef49c
+2025-03-14T09:02:46.357Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=e44fbd3e65047845edb27a0f66b9aaf9
+2025-03-14T09:02:46.485Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6917 200 85ms trace=5f381d790671ce23
+2025-03-14T09:02:46.835Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4313 200 57ms trace=8b80fd3ae6b6122f
+2025-03-14T09:02:47.050Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6215 200 83ms trace=f1a4bf3b3bcb9bce
+2025-03-14T09:02:47.561Z INFO  [redis-master-0] DB 0: 466521 keys, used_memory=448MB
+2025-03-14T09:02:48.373Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9919 200 85ms trace=5936578308aca106
+2025-03-14T09:02:48.747Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8549 200 22ms trace=d7d5ccbede3521af
+2025-03-14T09:02:49.464Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9073 200 44ms trace=769177522b67a9fd
+2025-03-14T09:02:50.209Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4215 200 77ms trace=204546433b246b47
+2025-03-14T09:02:50.591Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=b25201e9e2979619a4880c457646cf57
+2025-03-14T09:02:51.150Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3139 200 37ms trace=c1364fe54d2f9bba
+2025-03-14T09:02:52.036Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2533 200 22ms trace=3f617877f98a5a34
+2025-03-14T09:02:52.410Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9878 200 69ms trace=293256b6593ff3df
+2025-03-14T09:02:52.785Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3102 200 36ms trace=f478d090f9a3500b
+2025-03-14T09:02:52.929Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2697 200 87ms trace=3207d5a31a04f280
+2025-03-14T09:02:53.123Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2431 200 41ms trace=4c22b1f4bbb91047
+2025-03-14T09:02:53.443Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3215 200 16ms trace=e951acbaa352b6b5
+2025-03-14T09:02:53.592Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=636a5479e29f9ecb34d982fb47e2cc36
+2025-03-14T09:02:54.107Z INFO  [redis-master-0] DB 0: 417789 keys, used_memory=381MB
+2025-03-14T09:02:54.956Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7153 200 31ms trace=fb1b0902801fe30b
+2025-03-14T09:02:55.299Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7591 200 5ms trace=41d8bf61244dd37f
+2025-03-14T09:02:56.094Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6631 200 3ms trace=3e06571bbdae9f93
+2025-03-14T09:02:56.851Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9405 200 78ms trace=a5aef8a6bfc5056e
+2025-03-14T09:02:57.125Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9565 200 32ms trace=2e771bd6adfa09b0
+2025-03-14T09:02:57.292Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7437 200 58ms trace=4282c8435021b420
+2025-03-14T09:02:58.049Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1604 200 56ms trace=c849ed813e0dac1c
+2025-03-14T09:02:58.498Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=280da853a12e6df3b66f47acb6910780
+2025-03-14T09:02:58.971Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7910 200 61ms trace=9f1f2193050842f5
+2025-03-14T09:02:59.541Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3000 200 86ms trace=c736c45253fb51b9
+2025-03-14T09:02:59.979Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8026 200 16ms trace=4050284509c3e7c0
+2025-03-14T09:03:00.242Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2636 200 28ms trace=5924204384eb99bd
+2025-03-14T09:03:00.385Z INFO  [redis-master-0] DB 0: 844155 keys, used_memory=453MB
+2025-03-14T09:03:00.979Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3359 200 63ms trace=041f8d71831ef5c3
+2025-03-14T09:03:01.830Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6061 200 69ms trace=690c9bf857c52302
+2025-03-14T09:03:02.337Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3443 200 90ms trace=647a6c082f0db088
+2025-03-14T09:03:02.903Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=baa6b8e61f55411eeec4e799c3406a1a
+2025-03-14T09:03:03.307Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/928 200 35ms trace=61c00cbe463c4650
+2025-03-14T09:03:03.409Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/219 200 12ms trace=ea59fdda6b2838e0
+2025-03-14T09:03:04.092Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5770 200 77ms trace=1bf85d1143e15c55
+2025-03-14T09:03:04.442Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6562 200 70ms trace=380ab1d7f8b44bc2
+2025-03-14T09:03:04.955Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3474 200 24ms trace=edee65ef2119c05c
+2025-03-14T09:03:05.824Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3165 200 63ms trace=8fe2c3f4a4672c0c
+2025-03-14T09:03:06.095Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2397 200 48ms trace=a3882a8aaa8173cf
+2025-03-14T09:03:06.985Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=69cd2483d0f11e05cb95f372d198e3b8
+2025-03-14T09:03:07.326Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8983 200 86ms trace=c7a4084b200ae258
+2025-03-14T09:03:08.219Z INFO  [redis-master-0] DB 0: 646101 keys, used_memory=425MB
+2025-03-14T09:03:08.532Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6163 200 90ms trace=fb9ebfb840e898f2
+2025-03-14T09:03:09.267Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3046 200 64ms trace=ce31175200b09f63
+2025-03-14T09:03:10.125Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4608 200 48ms trace=a786effc3eb62c1c
+2025-03-14T09:03:10.493Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7857 200 65ms trace=9f94c7556db1bc28
+2025-03-14T09:03:10.620Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5939 200 22ms trace=4d9c7671edc10021
+2025-03-14T09:03:10.718Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1398 200 75ms trace=531f98d1e7e2e607
+2025-03-14T09:03:11.560Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=d4d1e96987d8891723f15ddff14f10cb
+2025-03-14T09:03:12.248Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9543 200 4ms trace=02f04abfa845063a
+2025-03-14T09:03:12.361Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4801 200 35ms trace=19fcafba9bb308bd
+2025-03-14T09:03:12.547Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3828 200 26ms trace=73b3a2cfc6bbf658
+2025-03-14T09:03:13.390Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2502 200 29ms trace=67093677e772436e
+2025-03-14T09:03:13.601Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9987 200 80ms trace=c8020ffdfa281648
+2025-03-14T09:03:13.733Z INFO  [redis-master-0] DB 0: 750464 keys, used_memory=495MB
+2025-03-14T09:03:14.579Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4867 200 28ms trace=b15adcf27e9508cb
+2025-03-14T09:03:15.162Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1289 200 59ms trace=e1f77a88abd5a1ae
+2025-03-14T09:03:15.321Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=6b46159a43b5e6701e50f1348e18a929
+2025-03-14T09:03:16.207Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2283 200 63ms trace=8ea4dc667e3a46a3
+2025-03-14T09:03:16.742Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7653 200 21ms trace=7dca9202b34ed4fa
+2025-03-14T09:03:17.292Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2698 200 72ms trace=dce58d7d997f7df0
+2025-03-14T09:03:17.338Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2628 200 44ms trace=b2258e5777cc40da
+2025-03-14T09:03:17.887Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4864 200 62ms trace=6d0227c25ffd3d40
+2025-03-14T09:03:18.619Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1236 200 26ms trace=5c418d05a3151d0c
+2025-03-14T09:03:19.321Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/468 200 5ms trace=0bbe27a89c13aef3
+2025-03-14T09:03:20.059Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=5498c004ffbd8d4aee7653c9bc8df872
+2025-03-14T09:03:20.621Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7933 200 65ms trace=e5c69b8ec1d6023d
+2025-03-14T09:03:20.695Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3496 200 56ms trace=207c9f6ca01235b8
+2025-03-14T09:03:21.081Z INFO  [redis-master-0] DB 0: 449527 keys, used_memory=490MB
+2025-03-14T09:03:21.495Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5593 200 63ms trace=8689a21ec74d5921
+2025-03-14T09:03:22.324Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3453 200 39ms trace=578a628f6f6894cc
+2025-03-14T09:03:22.621Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9078 200 9ms trace=4a059e92d3a43d90
+2025-03-14T09:03:23.024Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8090 200 54ms trace=80f5b4a3556ecb72
+2025-03-14T09:03:23.582Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5650 200 29ms trace=7e005bd9a7913051
+2025-03-14T09:03:24.432Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=512d126e313b259a54b59e2d1e308b51
+2025-03-14T09:03:24.778Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2091 200 78ms trace=a2839f31f9061ffb
+2025-03-14T09:03:25.621Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/657 200 54ms trace=8de63750b9015459
+2025-03-14T09:03:26.219Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9406 200 9ms trace=4ce76f146602ec12
+2025-03-14T09:03:26.265Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/761 200 27ms trace=ebe2eb3bd26c0cf8
+2025-03-14T09:03:26.928Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/986 200 67ms trace=8b2ca282e8ea1b43
+2025-03-14T09:03:27.353Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2410 200 83ms trace=b247801dac77a055
+2025-03-14T09:03:28.098Z INFO  [redis-master-0] DB 0: 712637 keys, used_memory=492MB
+2025-03-14T09:03:28.222Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3482 200 8ms trace=a2330a67aac0a780
+2025-03-14T09:03:28.730Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=19f2d5ff2c84fe81c33ea73ea0123246
+2025-03-14T09:03:28.955Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/606 200 56ms trace=19c14c26c647ebd1
+2025-03-14T09:03:29.008Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6044 200 20ms trace=4f314b00c95ab050
+2025-03-14T09:03:29.775Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4228 200 41ms trace=6bfa15352f4d8051
+2025-03-14T09:03:30.141Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/335 200 58ms trace=a44ab3ad90fb2d7d
+2025-03-14T09:03:30.236Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8156 200 75ms trace=0a14c57985abe2ed
+2025-03-14T09:03:31.068Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6899 200 76ms trace=eb2b50b5b21a30cc
+2025-03-14T09:03:31.565Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1102 200 4ms trace=631bcb09ae120a3c
+2025-03-14T09:03:32.213Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=a8ce4082f00e60f8fe3d856b978b6641
+2025-03-14T09:03:32.739Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6758 200 73ms trace=153a8e301a1f80d1
+2025-03-14T09:03:33.262Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3478 200 22ms trace=03f9c73ea07c30a8
+2025-03-14T09:03:33.306Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/153 200 90ms trace=1f25d23dab5b95f4
+2025-03-14T09:03:33.436Z INFO  [redis-master-0] DB 0: 514423 keys, used_memory=491MB
+2025-03-14T09:03:33.608Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7739 200 5ms trace=b82763ba46839f5b
+2025-03-14T09:03:33.896Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7386 200 26ms trace=0cd5e3e3ec3cd40d
+2025-03-14T09:03:34.728Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2373 200 13ms trace=a0ed72774b0b708d
+2025-03-14T09:03:35.494Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8161 200 61ms trace=eeae4612ab670e4d
+2025-03-14T09:03:35.794Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=b79b14f30d7b2ea8f6dd6015e9dc8561
+2025-03-14T09:03:35.845Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/993 200 4ms trace=a6941c22e2220a7f
+2025-03-14T09:03:36.721Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1306 200 52ms trace=4fffa8e14fa1cc6f
+2025-03-14T09:03:37.507Z WARN  [redis-master-0] Can't save in background: fork: Cannot allocate memory
+2025-03-14T09:03:38.161Z WARN  [kubelet] Container redis in pod redis-master-0 exceeded memory limit 512Mi
+2025-03-14T09:03:38.370Z ERROR [kubelet] Container redis terminated: reason=OOMKilled exitCode=137
+2025-03-14T09:03:39.264Z WARN  [kubelet] Back-off restarting failed container redis in pod redis-master-0
+2025-03-14T09:03:39.927Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/980 200 43ms trace=f2e1eecd5e18c712
+2025-03-14T09:03:40.712Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7189 200 63ms trace=2a9dcb87ad47f8fa
+2025-03-14T09:03:41.568Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1913 200 49ms trace=a5176da0f4324d92
+2025-03-14T09:03:42.252Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6848 200 64ms trace=c7311fda62bfb10e
+2025-03-14T09:03:42.570Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9287 200 45ms trace=47a7fde04ad9f598
+2025-03-14T09:03:42.672Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=b4093893a6a476a3f954dd9e9f316305
+2025-03-14T09:03:43.533Z INFO  [redis-master-0] DB 0: 833800 keys, used_memory=456MB
+2025-03-14T09:03:44.193Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:03:44.976Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=03f7d891fa3a0776
+2025-03-14T09:03:45.867Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[99e4226426afd434] retry: Retry in 55s
+2025-03-14T09:03:46.505Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7022 200 34ms trace=6329cfd3606de4eb
+2025-03-14T09:03:46.930Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9860 200 32ms trace=73866561ceb71a8f
+2025-03-14T09:03:47.675Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/28 200 44ms trace=449d27f94356e358
+2025-03-14T09:03:47.876Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9612 200 8ms trace=d54ea03549dc8a9f
+2025-03-14T09:03:48.747Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9371 200 21ms trace=f9b1de86461af27f
+2025-03-14T09:03:49.142Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:03:49.729Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=8a3c350215c6b9a6
+2025-03-14T09:03:50.335Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[cc21a87a7c1964bb] retry: Retry in 26s
+2025-03-14T09:03:51.181Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3835 200 42ms trace=0ebc4be59b5dae4e
+2025-03-14T09:03:51.625Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7624 200 29ms trace=413649b2ed0e4528
+2025-03-14T09:03:52.265Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=628da935caaa8e5002660c0ac04a4a4c
+2025-03-14T09:03:52.858Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1437 200 71ms trace=5ae82b36ce7bb22b
+2025-03-14T09:03:53.136Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6524 200 77ms trace=e59d25528562da19
+2025-03-14T09:03:54.029Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8551 200 44ms trace=8194455d7a018e0c
+2025-03-14T09:03:54.262Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:03:54.519Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=1799a7da313b7e29
+2025-03-14T09:03:54.744Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[b378f0cbce4d2a2a] retry: Retry in 20s
+2025-03-14T09:03:55.375Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9248 200 48ms trace=c79664706709ab4c
+2025-03-14T09:03:55.944Z INFO  [redis-master-0] DB 0: 849288 keys, used_memory=399MB
+2025-03-14T09:03:56.029Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8082 200 50ms trace=1b2a9134ddca8b0c
+2025-03-14T09:03:56.716Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7593 200 13ms trace=50d7941d27f9c55d
+2025-03-14T09:03:56.787Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5652 200 38ms trace=9b6d4eb584fb1f3f
+2025-03-14T09:03:56.848Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=fd8b289c346388d10898a37e1815f07d
+2025-03-14T09:03:57.385Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9613 200 75ms trace=42f803f436ad61dd
+2025-03-14T09:03:57.861Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:03:58.000Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=72658833f24dcbf1
+2025-03-14T09:03:58.825Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[d19ee43f97d6b91b] retry: Retry in 40s
+2025-03-14T09:03:59.125Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/621 200 46ms trace=fe9f0bb4337405bf
+2025-03-14T09:03:59.552Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1371 200 6ms trace=08e9500c0d0e2c33
+2025-03-14T09:03:59.970Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7509 200 65ms trace=d8799bfef27c07f5
+2025-03-14T09:04:00.622Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6511 200 18ms trace=f5947675b4d514c0
+2025-03-14T09:04:00.925Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5222 200 75ms trace=a40085d33bb3830a
+2025-03-14T09:04:01.650Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:02.208Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=2ec37ac964a36674
+2025-03-14T09:04:02.707Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[28e3f65ad98592ee] retry: Retry in 25s
+2025-03-14T09:04:03.485Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3633 200 25ms trace=f11425e409e3c3c3
+2025-03-14T09:04:03.787Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=e71aeba50f2cc3465a1d6349f0f058c5
+2025-03-14T09:04:03.855Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/771 200 36ms trace=8369e01ac94fc1ab
+2025-03-14T09:04:04.621Z INFO  [redis-master-0] DB 0: 787748 keys, used_memory=462MB
+2025-03-14T09:04:04.718Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1656 200 21ms trace=c14473ca5153a4e3
+2025-03-14T09:04:04.961Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4896 200 78ms trace=70f7bc6f976a45a2
+2025-03-14T09:04:05.108Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7713 200 44ms trace=41cb712f5f26f21f
+2025-03-14T09:04:05.275Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:05.698Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=61307c057b375698
+2025-03-14T09:04:05.910Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[3d0b8c4370fe98a0] retry: Retry in 53s
+2025-03-14T09:04:06.643Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/207 200 62ms trace=e99f4a92b79c2b63
+2025-03-14T09:04:07.501Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/591 200 23ms trace=d534c087ed7c5da0
+2025-03-14T09:04:07.620Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6113 200 20ms trace=727ea8e2c73fa908
+2025-03-14T09:04:07.759Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=d79da6a362948bfeedc46fb9ed0a656a
+2025-03-14T09:04:08.442Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1232 200 60ms trace=56fbc2f1f8e96431
+2025-03-14T09:04:09.324Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3832 200 64ms trace=a0d09c621d98a474
+2025-03-14T09:04:09.510Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:09.889Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=bc6e9d5f38be1ce3
+2025-03-14T09:04:09.987Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[b6b6a4d22e242fc8] retry: Retry in 30s
+2025-03-14T09:04:10.175Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7193 200 22ms trace=6b13490744329463
+2025-03-14T09:04:10.467Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2551 200 6ms trace=922c6c73456746fe
+2025-03-14T09:04:10.849Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2750 200 36ms trace=1bf702d87db2a17e
+2025-03-14T09:04:11.214Z INFO  [redis-master-0] DB 0: 639172 keys, used_memory=495MB
+2025-03-14T09:04:11.370Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2513 200 68ms trace=a18943f60e8de9c3
+2025-03-14T09:04:11.626Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9175 200 64ms trace=49469368d5d50f76
+2025-03-14T09:04:11.788Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=f87fcf8e339d7cf8c13de7cf41febb34
+2025-03-14T09:04:12.270Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:12.577Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=3d19ce0eff828a31
+2025-03-14T09:04:12.860Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[63e08fb218fa029e] retry: Retry in 20s
+2025-03-14T09:04:13.066Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/942 200 40ms trace=fa8792bf24f432ad
+2025-03-14T09:04:13.122Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7244 200 67ms trace=82c2c4ba57459cec
+2025-03-14T09:04:13.615Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/32 200 70ms trace=2f91f0c5495125cc
+2025-03-14T09:04:14.100Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/665 200 55ms trace=46df761b37e035bc
+2025-03-14T09:04:14.325Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2263 200 26ms trace=c53beebd858b089a
+2025-03-14T09:04:15.093Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:15.312Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=99c453ef325baf8e
+2025-03-14T09:04:15.433Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[1661392bd4376fb5] retry: Retry in 58s
+2025-03-14T09:04:16.221Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8118 200 38ms trace=34be81ec2ce1a325
+2025-03-14T09:04:16.888Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3149 200 77ms trace=33c955324edbfef8
+2025-03-14T09:04:16.938Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=850203abbb933a15b136d5fb10d16824
+2025-03-14T09:04:17.716Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/908 200 69ms trace=58ff0624cf869269
+2025-03-14T09:04:18.044Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8078 200 14ms trace=68d6174303f43676
+2025-03-14T09:04:18.865Z INFO  [redis-master-0] DB 0: 649883 keys, used_memory=397MB
+2025-03-14T09:04:19.177Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4069 200 26ms trace=d4e53bb190292165
+2025-03-14T09:04:19.254Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:19.461Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=5f04b0c2b3c721a8
+2025-03-14T09:04:20.089Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[dbaaae92984b0aa9] retry: Retry in 2s
+2025-03-14T09:04:20.661Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7304 200 69ms trace=1eeae9381243749c
+2025-03-14T09:04:21.432Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4010 200 44ms trace=b6105065c774b19e
+2025-03-14T09:04:22.062Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1003 200 40ms trace=1b917a1ddf700a5f
+2025-03-14T09:04:22.608Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7315 200 68ms trace=87cf894b069076ac
+2025-03-14T09:04:23.471Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=3e587e62054bcbcb22662de7898e8dda
+2025-03-14T09:04:23.740Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2989 200 24ms trace=4fd986321a48ef9f
+2025-03-14T09:04:24.348Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:25.224Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=07b2e68af4921539
+2025-03-14T09:04:25.283Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[ed22c33018b2594d] retry: Retry in 46s
+2025-03-14T09:04:25.522Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4284 200 5ms trace=99722a0ed65b6171
+2025-03-14T09:04:26.152Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7602 200 69ms trace=b3e090aa3d05a4cb
+2025-03-14T09:04:26.297Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5746 200 15ms trace=2dd11155b793be67
+2025-03-14T09:04:26.616Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2017 200 62ms trace=95fdadc97e5c0a1d
+2025-03-14T09:04:27.435Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4582 200 17ms trace=1f1d72021f3dd788
+2025-03-14T09:04:27.890Z INFO  [redis-master-0] DB 0: 863700 keys, used_memory=397MB
+2025-03-14T09:04:28.162Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:28.352Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=92a5bc52ab34e0fd
+2025-03-14T09:04:28.865Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[65886209bf1fc521] retry: Retry in 12s
+2025-03-14T09:04:29.555Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6370 200 56ms trace=d6f8112998d7a0c1
+2025-03-14T09:04:30.212Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=f872266665483c3c0944e14c868ebb8e
+2025-03-14T09:04:31.047Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/5952 200 46ms trace=3d895a436694b89e
+2025-03-14T09:04:31.819Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7137 200 75ms trace=fc5f26b9cdebbef6
+2025-03-14T09:04:32.693Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6564 200 74ms trace=532b51fc0db5a939
+2025-03-14T09:04:32.883Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5791 200 34ms trace=6c111d32ded8ddd2
+2025-03-14T09:04:33.296Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:33.447Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=2fffb94b87e26636
+2025-03-14T09:04:33.557Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[6edbbe9453089e3f] retry: Retry in 14s
+2025-03-14T09:04:34.282Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/342 200 31ms trace=6bb4d3fd23b02845
+2025-03-14T09:04:35.117Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7434 200 84ms trace=cf2c39e40bf895d7
+2025-03-14T09:04:35.192Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4355 200 89ms trace=45ffb65d9f9bc6d3
+2025-03-14T09:04:35.875Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=0928ca2ceca468e9ce6ba18b8ad12fc9
+2025-03-14T09:04:36.017Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4106 200 18ms trace=037fb23b8532b56c
+2025-03-14T09:04:36.299Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/646 200 39ms trace=4e2f76c21cf070c7
+2025-03-14T09:04:37.002Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:37.212Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=0f7265191ed14e6a
+2025-03-14T09:04:37.860Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[f4c1f93ef5866403] retry: Retry in 60s
+2025-03-14T09:04:38.174Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1385 200 62ms trace=88a92e3c971a80e9
+2025-03-14T09:04:38.365Z INFO  [redis-master-0] DB 0: 630674 keys, used_memory=395MB
+2025-03-14T09:04:38.539Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4811 200 55ms trace=49ce7f4f93cce111
+2025-03-14T09:04:38.828Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1440 200 72ms trace=d6f9ac8b4983cdd8
+2025-03-14T09:04:39.492Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9342 200 31ms trace=62fb96f0a67dd1a7
+2025-03-14T09:04:40.093Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6010 200 61ms trace=8c4bad76e44d9ef0
+2025-03-14T09:04:40.443Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=d19e2a95780e21047a54c2e39ce070a2
+2025-03-14T09:04:40.514Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:40.802Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=38b98187556b29dd
+2025-03-14T09:04:41.035Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[8bc11ff7832fe3f2] retry: Retry in 26s
+2025-03-14T09:04:41.480Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/195 200 48ms trace=dca332df298c21ba
+2025-03-14T09:04:41.851Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9121 200 44ms trace=4519feb07dccdf5b
+2025-03-14T09:04:42.112Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4842 200 10ms trace=0593c11ac5aa385e
+2025-03-14T09:04:42.716Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1095 200 80ms trace=591631cddf0bbe3e
+2025-03-14T09:04:43.429Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1017 200 69ms trace=d596a703634c9328
+2025-03-14T09:04:43.831Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:44.624Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=1bf76e53c349dc1a
+2025-03-14T09:04:45.197Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[fd43345c39a48c48] retry: Retry in 45s
+2025-03-14T09:04:45.395Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6829 200 46ms trace=5a3a701cab11f5e0
+2025-03-14T09:04:46.126Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3318 200 81ms trace=d9991d0c9c5a8a4f
+2025-03-14T09:04:46.449Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=18554f8c848c7bccd6c67dc3d239bf0b
+2025-03-14T09:04:47.245Z INFO  [redis-master-0] DB 0: 848928 keys, used_memory=475MB
+2025-03-14T09:04:47.560Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2086 200 55ms trace=1a7592a5deee7382
+2025-03-14T09:04:48.020Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9011 200 77ms trace=7f7545c01e110eb0
+2025-03-14T09:04:48.645Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2452 200 56ms trace=c89fa771d99619cd
+2025-03-14T09:04:49.321Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:49.982Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=612aff071c6c347d
+2025-03-14T09:04:50.485Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[75391799b1511400] retry: Retry in 20s
+2025-03-14T09:04:50.886Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4800 200 48ms trace=86afe7df6403e571
+2025-03-14T09:04:51.535Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6300 200 85ms trace=01bb277e526e2f0b
+2025-03-14T09:04:52.086Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6237 200 59ms trace=2f287d984cce4a50
+2025-03-14T09:04:52.437Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2376 200 58ms trace=608302a7934f906c
+2025-03-14T09:04:53.072Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=eb8fb862d256ddf8168290053b603d92
+2025-03-14T09:04:53.443Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9963 200 34ms trace=5368de8bf57181a7
+2025-03-14T09:04:53.919Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:53.969Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=0c252a09068c1935
+2025-03-14T09:04:54.271Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[e55929b1909f8ff1] retry: Retry in 33s
+2025-03-14T09:04:54.860Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5119 200 71ms trace=ff92655e9eb7ce5b
+2025-03-14T09:04:55.429Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8475 200 90ms trace=63b76c866e182b31
+2025-03-14T09:04:55.835Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/668 200 79ms trace=59e2221fad1d2cb9
+2025-03-14T09:04:56.338Z INFO  [redis-master-0] DB 0: 896972 keys, used_memory=381MB
+2025-03-14T09:04:56.447Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8606 200 32ms trace=68d63e751955da89
+2025-03-14T09:04:56.999Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6569 200 86ms trace=edac6e6c8fb3e428
+2025-03-14T09:04:57.231Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:04:57.702Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=66d1eec97c993a3a
+2025-03-14T09:04:58.192Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[9fe60efbc46f9c9a] retry: Retry in 59s
+2025-03-14T09:04:58.583Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8686 200 14ms trace=5cdb039e2bb4754a
+2025-03-14T09:04:58.948Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=d376a8331338eb2bfa7a2cf05ddd479a
+2025-03-14T09:04:59.512Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2877 200 17ms trace=e4fead80a7eac1c8
+2025-03-14T09:05:00.258Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5626 200 68ms trace=f8a7d8c3e35d60a4
+2025-03-14T09:05:00.944Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2563 200 70ms trace=d0f00a154a389d63
+2025-03-14T09:05:01.196Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8273 200 27ms trace=2eb26aa76989d89e
+2025-03-14T09:05:01.881Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:02.499Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=1b4b76d59a6692d4
+2025-03-14T09:05:02.900Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[fe6652b991e2cd45] retry: Retry in 42s
+2025-03-14T09:05:03.680Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/694 200 55ms trace=c9a27dd402bf7217
+2025-03-14T09:05:04.034Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9060 200 3ms trace=4df0de9beac29dbf
+2025-03-14T09:05:04.174Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9605 200 4ms trace=078f6a4cab090579
+2025-03-14T09:05:04.415Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=8da1c6a4c4daf9407f73d6f22cd986e8
+2025-03-14T09:05:04.727Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8708 200 68ms trace=24caabd0ff429589
+2025-03-14T09:05:05.355Z INFO  [redis-master-0] DB 0: 504095 keys, used_memory=432MB
+2025-03-14T09:05:05.519Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2382 200 23ms trace=c26e527084b76cbd
+2025-03-14T09:05:05.588Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:05.730Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=2ba83bac137d42bc
+2025-03-14T09:05:06.305Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[d2b95b817d8c9a18] retry: Retry in 31s
+2025-03-14T09:05:06.785Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1018 200 86ms trace=af3fa0220332a06a
+2025-03-14T09:05:07.155Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2359 200 33ms trace=4683beba5a9592b1
+2025-03-14T09:05:07.228Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4369 200 83ms trace=dbfce1c01975ee17
+2025-03-14T09:05:07.332Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5717 200 27ms trace=9fbea64073289c32
+2025-03-14T09:05:07.392Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/896 200 31ms trace=655fcf16e3fa79a9
+2025-03-14T09:05:08.028Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=708c51620b3e93e1f5a92f83c3992a90
+2025-03-14T09:05:08.703Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:08.987Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=390ff0f43fd40dd8
+2025-03-14T09:05:09.072Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[ee4a6e5528ce935c] retry: Retry in 39s
+2025-03-14T09:05:09.434Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/101 200 61ms trace=6b1ab7b44dbdbf12
+2025-03-14T09:05:09.732Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8120 200 11ms trace=ad62558b3e30851d
+2025-03-14T09:05:10.463Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9582 200 31ms trace=4f24f88269dace38
+2025-03-14T09:05:11.231Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7937 200 5ms trace=de432e5ecaf21612
+2025-03-14T09:05:11.360Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2843 200 24ms trace=6106c0645bbfd7f6
+2025-03-14T09:05:11.591Z INFO  [redis-master-0] DB 0: 404001 keys, used_memory=492MB
+2025-03-14T09:05:12.036Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:12.651Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=1d69311d5ce96511
+2025-03-14T09:05:13.034Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[df19a22888a3df20] retry: Retry in 26s
+2025-03-14T09:05:13.486Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1073 200 18ms trace=d36948f66c1a58d1
+2025-03-14T09:05:14.093Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4014 200 52ms trace=778e384b30f2300d
+2025-03-14T09:05:14.423Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=08f03e7b6f81f00a3cb77b2e582fc771
+2025-03-14T09:05:15.143Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/415 200 46ms trace=27e8a103ce0c0701
+2025-03-14T09:05:15.905Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2128 200 14ms trace=4508f0a2324078b2
+2025-03-14T09:05:16.800Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2094 200 74ms trace=7790c627717cad81
+2025-03-14T09:05:17.003Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:17.419Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=376afb435a58e0c1
+2025-03-14T09:05:18.198Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[607c196667b80c22] retry: Retry in 42s
+2025-03-14T09:05:18.451Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4871 200 63ms trace=34568a23813c855c
+2025-03-14T09:05:18.954Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2146 200 36ms trace=e64d52a098906251
+2025-03-14T09:05:19.595Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6030 200 71ms trace=67766a7f3f0a483a
+2025-03-14T09:05:20.157Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3483 200 19ms trace=c02cbb7cdf54fa50
+2025-03-14T09:05:20.322Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=8ae75d3f176a8b518355ce73ad87e50d
+2025-03-14T09:05:21.115Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6305 200 6ms trace=b7ddc1a8a85353b1
+2025-03-14T09:05:21.473Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:21.528Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=b5f0bd5f63d2c4cb
+2025-03-14T09:05:21.656Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[2d52f71fb1d57573] retry: Retry in 51s
+2025-03-14T09:05:22.024Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3086 200 87ms trace=1be4e39ee42d981a
+2025-03-14T09:05:22.133Z INFO  [redis-master-0] DB 0: 694644 keys, used_memory=496MB
+2025-03-14T09:05:22.997Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8198 200 41ms trace=10df8af2315cefd1
+2025-03-14T09:05:23.355Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1441 200 31ms trace=204a397049df9b07
+2025-03-14T09:05:23.803Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4627 200 48ms trace=d82830a66743ca59
+2025-03-14T09:05:24.636Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2166 200 38ms trace=07922a932d281ed0
+2025-03-14T09:05:25.371Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:26.229Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=b0e25386a9e2612e
+2025-03-14T09:05:26.628Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[699e3b2ae59e1f0c] retry: Retry in 3s
+2025-03-14T09:05:27.388Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7579 200 34ms trace=d8c244d2fffc0920
+2025-03-14T09:05:27.838Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=1902bac1a0fad25ae7f29ab15a241c92
+2025-03-14T09:05:28.176Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1888 200 37ms trace=9be1f820e9a5cb18
+2025-03-14T09:05:28.440Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/663 200 54ms trace=9bc899940a3d5804
+2025-03-14T09:05:28.921Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3246 200 41ms trace=61784ea427fc0342
+2025-03-14T09:05:29.001Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9050 200 42ms trace=a3689b02a1240051
+2025-03-14T09:05:29.619Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:30.518Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=91f659b63a479870
+2025-03-14T09:05:31.067Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[8551cc0eb77555e7] retry: Retry in 18s
+2025-03-14T09:05:31.793Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9426 200 47ms trace=003faf7bef886112
+2025-03-14T09:05:32.687Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4692 200 8ms trace=daa96ad5e0075c62
+2025-03-14T09:05:33.326Z INFO  [redis-master-0] DB 0: 718445 keys, used_memory=469MB
+2025-03-14T09:05:33.616Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1822 200 7ms trace=518c959fca9ba76d
+2025-03-14T09:05:33.871Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=bfe0ddc7587d62b0ea1b73d8c6f15fe1
+2025-03-14T09:05:34.338Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6450 200 81ms trace=38866458d4287253
+2025-03-14T09:05:34.917Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1474 200 47ms trace=f319c55af244bf16
+2025-03-14T09:05:35.410Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:35.798Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=80c981cfb10e0b0c
+2025-03-14T09:05:36.594Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[d47a2ebbb03bed0c] retry: Retry in 55s
+2025-03-14T09:05:37.274Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7419 200 68ms trace=ad34df240de6a4fd
+2025-03-14T09:05:37.524Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7019 200 89ms trace=d8b86cdc830aa30d
+2025-03-14T09:05:38.065Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3102 200 8ms trace=b3e6c1bff3c9df16
+2025-03-14T09:05:38.372Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2860 200 72ms trace=f82b89f329e7fe61
+2025-03-14T09:05:38.653Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8912 200 36ms trace=f6aeedff3febb019
+2025-03-14T09:05:38.753Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=69611b9458e400455b9a78bc2b0564e3
+2025-03-14T09:05:38.999Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:39.690Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=231ee9584f806351
+2025-03-14T09:05:39.869Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[b4fc2ba0aface5fd] retry: Retry in 33s
+2025-03-14T09:05:40.403Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3898 200 33ms trace=83f00b7601815723
+2025-03-14T09:05:40.898Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2181 200 85ms trace=b2b365fd59f959ab
+2025-03-14T09:05:41.074Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2325 200 78ms trace=3da32b0f90325da2
+2025-03-14T09:05:41.455Z INFO  [redis-master-0] DB 0: 729987 keys, used_memory=484MB
+2025-03-14T09:05:42.056Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6958 200 24ms trace=aaa1de16ad518396
+2025-03-14T09:05:42.709Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7556 200 54ms trace=34d1bd92d4c79ec8
+2025-03-14T09:05:43.455Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:43.791Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=5c48784e032ac419
+2025-03-14T09:05:44.329Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[0b1c0cc934d8c73a] retry: Retry in 5s
+2025-03-14T09:05:44.680Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3230 200 17ms trace=4f152945b39d9ec4
+2025-03-14T09:05:44.835Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2644 200 44ms trace=77fa10a371f0456f
+2025-03-14T09:05:45.457Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=8eba65142b084bd94a1d0c725cebfc57
+2025-03-14T09:05:45.543Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/178 200 62ms trace=fad5cbf0fdfc191e
+2025-03-14T09:05:45.668Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5435 200 75ms trace=1bda7ad143b1bddb
+2025-03-14T09:05:46.208Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7115 200 65ms trace=c8ac1ba730974c01
+2025-03-14T09:05:46.256Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:46.663Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=1749a883eb681073
+2025-03-14T09:05:47.362Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[a0b3d93449358889] retry: Retry in 41s
+2025-03-14T09:05:48.070Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4120 200 86ms trace=14014c5a3ef919e0
+2025-03-14T09:05:48.875Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/454 200 6ms trace=65309eccc6419adb
+2025-03-14T09:05:49.218Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6028 200 26ms trace=a35a947df6471bab
+2025-03-14T09:05:49.956Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2761 200 16ms trace=b806c5c2c8dca895
+2025-03-14T09:05:50.846Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=53a0df349de64869be08e40d4f7309cc
+2025-03-14T09:05:51.274Z INFO  [redis-master-0] DB 0: 496753 keys, used_memory=462MB
+2025-03-14T09:05:51.641Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3773 200 50ms trace=8d17219c22e75c2c
+2025-03-14T09:05:52.538Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:53.429Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=3d47fd0740e8a62d
+2025-03-14T09:05:53.528Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[1b73d2960a8f8e5b] retry: Retry in 38s
+2025-03-14T09:05:54.407Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6607 200 9ms trace=3768bcfef1e72aa7
+2025-03-14T09:05:54.880Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8185 200 23ms trace=4cb0c399fee1d63a
+2025-03-14T09:05:55.515Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1315 200 21ms trace=3a3d6466b01fb83c
+2025-03-14T09:05:55.696Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7262 200 84ms trace=66c13550f845a62b
+2025-03-14T09:05:55.776Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7201 200 64ms trace=37e0e32130d933b3
+2025-03-14T09:05:55.818Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:05:55.890Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=9c597af8d7402ecc
+2025-03-14T09:05:56.783Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[82e3e9aec9738a76] retry: Retry in 29s
+2025-03-14T09:05:57.113Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1180 200 87ms trace=83be43900e2806fc
+2025-03-14T09:05:57.880Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=100e44d756b2fc0fe3ffedb66bd44acd
+2025-03-14T09:05:57.929Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2889 200 24ms trace=4bb5a34660fa86a0
+2025-03-14T09:05:58.422Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9231 200 89ms trace=9148ac6e591d3eb1
+2025-03-14T09:05:58.942Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1394 200 72ms trace=844bb0be52dda740
+2025-03-14T09:05:59.420Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8761 200 83ms trace=278470e2dd8c0f96
+2025-03-14T09:05:59.870Z INFO  [redis-master-0] DB 0: 719330 keys, used_memory=459MB
+2025-03-14T09:06:00.740Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:01.609Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=b90759c50f5cb6a8
+2025-03-14T09:06:02.341Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[9bf12a8054dfec11] retry: Retry in 44s
+2025-03-14T09:06:02.959Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9358 200 56ms trace=5e5f1a0ff3eb5ef5
+2025-03-14T09:06:03.671Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/2243 200 41ms trace=57e9a372dd81d987
+2025-03-14T09:06:04.359Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/457 200 27ms trace=adbe36b538f4aa22
+2025-03-14T09:06:05.156Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=259c6be515d01935b0fcebae72853369
+2025-03-14T09:06:05.788Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6096 200 74ms trace=f1741ae594ad393d
+2025-03-14T09:06:06.196Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8684 200 33ms trace=70fd7c459097b75e
+2025-03-14T09:06:06.503Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:06.659Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=2e355b293a2cb393
+2025-03-14T09:06:06.906Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[bff5ee6f8c51309f] retry: Retry in 9s
+2025-03-14T09:06:07.803Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4154 200 86ms trace=3002a032184f9ba2
+2025-03-14T09:06:08.529Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4122 200 65ms trace=8dd456393a1c07c9
+2025-03-14T09:06:08.800Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8868 200 76ms trace=1ceebc19b25c7f15
+2025-03-14T09:06:09.365Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9642 200 75ms trace=d9fe527d1489dcef
+2025-03-14T09:06:10.100Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1204 200 59ms trace=dd0cd31622607f88
+2025-03-14T09:06:10.655Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=d6ab1c89b6f05dd481da248e8cf1af43
+2025-03-14T09:06:11.336Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:12.114Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=1a22c7ca83e14710
+2025-03-14T09:06:12.625Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[af9b278bd488b0a4] retry: Retry in 27s
+2025-03-14T09:06:12.840Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3140 200 75ms trace=c66516e379a0b631
+2025-03-14T09:06:12.975Z INFO  [redis-master-0] DB 0: 471723 keys, used_memory=427MB
+2025-03-14T09:06:13.073Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6625 200 33ms trace=5f52208c0c16bf54
+2025-03-14T09:06:13.128Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9738 200 30ms trace=4cc8365075af45a8
+2025-03-14T09:06:13.892Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2222 200 57ms trace=e37d169ae895c151
+2025-03-14T09:06:14.568Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3304 200 75ms trace=eae199b61d5db2bf
+2025-03-14T09:06:14.780Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:15.195Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=d76ad77ebed4c56e
+2025-03-14T09:06:15.584Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[c37c7dbecdda241f] retry: Retry in 49s
+2025-03-14T09:06:15.635Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4189 200 18ms trace=5f7de0023d42c2e5
+2025-03-14T09:06:16.429Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8597 200 48ms trace=7d2e51d5b8c68286
+2025-03-14T09:06:16.513Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=19825a915a7b356a9a92489bd1091910
+2025-03-14T09:06:17.115Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5364 200 80ms trace=08bdd2711ceb8f72
+2025-03-14T09:06:17.403Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4172 200 48ms trace=b1a5409831722549
+2025-03-14T09:06:17.464Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9526 200 59ms trace=ca8aa1471d1353f7
+2025-03-14T09:06:18.003Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:18.156Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=ccfa336812e1988d
+2025-03-14T09:06:18.460Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[267671b42f6dc6a6] retry: Retry in 37s
+2025-03-14T09:06:19.203Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6240 200 21ms trace=e01a6ea5969bd713
+2025-03-14T09:06:19.794Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4403 200 59ms trace=06568c8203887155
+2025-03-14T09:06:20.184Z INFO  [redis-master-0] DB 0: 479132 keys, used_memory=442MB
+2025-03-14T09:06:20.719Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/519 200 7ms trace=2eaa3de513193d6a
+2025-03-14T09:06:21.596Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/9830 200 53ms trace=79cb35abd7cc2577
+2025-03-14T09:06:21.798Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=64b6eaaa72d69b79d8593f6fb1632468
+2025-03-14T09:06:22.463Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8471 200 12ms trace=544b316a5c6611ff
+2025-03-14T09:06:22.821Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:22.995Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=9fe70a1396d756e0
+2025-03-14T09:06:23.079Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[2b734818361d0299] retry: Retry in 54s
+2025-03-14T09:06:23.863Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7664 200 45ms trace=77e96a0d93b90dcb
+2025-03-14T09:06:24.265Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5151 200 3ms trace=9443efe955e3aa7e
+2025-03-14T09:06:24.646Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3713 200 5ms trace=759bbe563fad6bbb
+2025-03-14T09:06:24.732Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2390 200 88ms trace=45cd7f0824c64fcb
+2025-03-14T09:06:25.051Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1041 200 67ms trace=4316dd14fdc9bd19
+2025-03-14T09:06:25.673Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:26.300Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=959c064f8734bd6d
+2025-03-14T09:06:26.482Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[b2d80f0bfdffacba] retry: Retry in 4s
+2025-03-14T09:06:27.311Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1561 200 28ms trace=6d1ed982c6386c01
+2025-03-14T09:06:27.999Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=5ce7b2c7195793c8a276ac02925f8467
+2025-03-14T09:06:28.851Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3901 200 21ms trace=127098caae6be47a
+2025-03-14T09:06:29.672Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5596 200 49ms trace=da6b876d8247bb4d
+2025-03-14T09:06:30.362Z INFO  [redis-master-0] DB 0: 528556 keys, used_memory=424MB
+2025-03-14T09:06:31.134Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6652 200 45ms trace=b44817f20f799649
+2025-03-14T09:06:31.861Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5296 200 64ms trace=5e066b6b80f4a9f6
+2025-03-14T09:06:32.729Z ERROR [api-gateway-7d9f8b6c5-x2k4p] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:33.009Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=596787a8ff2359a8
+2025-03-14T09:06:33.203Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[34929c9822b7ff5e] retry: Retry in 2s
+2025-03-14T09:06:33.707Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6636 200 60ms trace=9198163065651e31
+2025-03-14T09:06:33.919Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9615 200 11ms trace=4d2e6a0024d10dbf
+2025-03-14T09:06:34.274Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4131 200 76ms trace=a8ab06288d200f6a
+2025-03-14T09:06:34.662Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=95560de930b36275ebd55d5a12d0ee52
+2025-03-14T09:06:35.300Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2929 200 41ms trace=5a7e4dbc949a5ee0
+2025-03-14T09:06:35.705Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7017 200 11ms trace=7c093a7dd6ada4f9
+2025-03-14T09:06:35.924Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:36.246Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=41ee1761e5d1bb2c
+2025-03-14T09:06:36.845Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[c22c831705e80be4] retry: Retry in 12s
+2025-03-14T09:06:37.159Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3882 200 5ms trace=0c35b29937e37148
+2025-03-14T09:06:37.657Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/3283 200 80ms trace=dd33cf9d485acab3
+2025-03-14T09:06:38.360Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1632 200 28ms trace=bbe02c433de2633d
+2025-03-14T09:06:38.532Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9848 200 9ms trace=12cd4650144d8e2c
+2025-03-14T09:06:39.400Z INFO  [redis-master-0] DB 0: 828010 keys, used_memory=492MB
+2025-03-14T09:06:39.789Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2240 200 3ms trace=45482e5e302c5d57
+2025-03-14T09:06:40.378Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=a3cffa6a03d77f2ae01cf99ba479ef0f
+2025-03-14T09:06:40.446Z ERROR [celery-worker-5c6d7f8b9-q8w2z] redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+Traceback (most recent call last):
+  File "/app/services/cache.py", line 88, in get_session
+    return self.client.get(key)
+  File "/usr/local/lib/python3.11/site-packages/redis/client.py", line 1329, in get
+    return self.execute_command('GET', name, **options)
+redis.exceptions.ConnectionError: Error 111 connecting to redis-master:6379. Connection refused.
+2025-03-14T09:06:40.703Z ERROR [checkout-svc-6b7c8d9e4-m3n5v] HTTP 503 POST /checkout upstream api-gateway unavailable req=53a5e5895250f595
+2025-03-14T09:06:41.510Z WARN  [celery-worker-5c6d7f8b9-q8w2z] Task orders.process[a6207b2806ef0532] retry: Retry in 33s
+2025-03-14T09:06:42.174Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5535 200 25ms trace=dd018ce50eb4ea73
+2025-03-14T09:06:43.029Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/745 200 14ms trace=9cdfeddda055eefc
+2025-03-14T09:06:43.863Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8100 200 79ms trace=41cbe3fd6649647b
+2025-03-14T09:06:43.916Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/422 200 43ms trace=a7729aa0906b6ef7

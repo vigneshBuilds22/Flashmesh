@@ -1,0 +1,197 @@
+{
+  "upload_id": "49d92bf8cd45",
+  "filename": "k8s_redis_oom.log",
+  "mock": false,
+  "log_preview": "2025-03-14T09:00:00.194Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6469 200 86ms trace=128b2f330c5c7fd0\n2025-03-14T09:00:01.074Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=9531985d5d9dc9f81818e811892f902b\n2025-03-14T09:00:01.173Z INFO  [redis-master-0] DB 0: 876946 keys, used_memory=444MB\n2025-03-14T09:00:01.251Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1409 200 58ms trace=11e20b8f6b0d549b\n2025-03-14T09:00:01.383Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9029 200 57ms trace=d3ac94af0f21ddb6\n2025-03-14T09:00:01.549Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3658 200 83ms trace=953f48f1a09f76b5\n2025-03-14T09:00:02.179Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9594 200 53ms trace=f9ebdacc0cb1e29c\n2025-03-14T09:00:02.266Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9121 200 20ms trace=6b4cb2424a23d596\n2025-03-14T09:00:02.859Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1930 200 76ms trace=8f6d05584ef8aa38\n2025-03-14T09:00:03.084Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1689 200 77ms trace=a38fd547923a7369\n2025-03-14T09:00:03.316Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=b64ce4228c38fb2918f135d25f557203\n2025-03-14T09:00:03.933Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/977 200 82ms trace=7f15052434b9b5df\n2025-03-14T09:00:04.517Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7006 200 43ms trace=95e761d17731af10\n2025-03-14T09:00:04.927Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4912 200 34ms trace=2e05319acb5c7427\n2025-03-14T09:00:05.765Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4000 200 13ms trace=4cdd2055930d6eaf\n2025-03-14T09:00:06.342Z INFO  [redis-master-0] DB 0: 659583 keys, used_memory=492MB\n2025-03-14T09:00:07.128Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7354 200 39ms trace=faecbd389be4bcfc\n2025-03-14T09:00:07.288Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8388 200 56ms trace=c1d3fcff2a3af4d4\n2025-03-14T09:00:07.483Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8012 200 56ms trace=f646e1f40a097c97\n2025-03-14T09:00:08.207Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=92b1d3f28ede0d7ac3baea9e13deef86\n2025-03-14T09:00:08.595Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5738 200 79ms trace=9474031b7f26144b\n2025-03-14T09:00:08.705Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1534 200 37ms trace=b2715945795e8229\n2025-03-14T09:00:08.811Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/995 200 42ms trace=93f448b3a5aa3c81\n2025-03-14T09:00:09.692Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7302 200 39ms trace=62c33a4fb774eb52\n2025-03-14T09:00:10.087Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/370 200 62ms trace=2b0537e65affb229\n2025-03-14T09:00:10.246Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8089 200 10ms trace=c4aaeac137dc76fb\n2025-03-14T09:00:10.418Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4057 200 53ms trace=eab477d26415479c\n2025-03-14T09:00:10.966Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=66d2287672fdf2022a96fb1a14a0f9e7\n2025-03-14T09:00:11.290Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2244 200 58ms trace=8cdb305fdd2e1609\n2025-03-14T09:00:11.615Z INFO  [redis-master-0] DB 0: 770355 keys, used_memory=433MB\n2025-03-14T09:00:12.354Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6234 200 32ms trace=153e7c2a26a2c0bd\n2025-03-14T09:00:12.548Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3801 200 87ms trace=0316909e3bbbe9ea\n2025-03-14T09:00:13.439Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9653 200 26ms trace=482c9cbc43435cc5\n2025-03-14T09:00:13.628Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6865 200 71ms trace=9c1caaf75e8766ed\n2025-03-14T09:00:13.994Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2057 200 68ms trace=9e1a8ef4f341e07a\n2025-03-14T09:00:14.726Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/885 200 61ms trace=def88334e647cb8f\n2025-03-14T09:00:15.564Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=cc4169a3ae3a2b7fdfe01893f3aed0b6\n2025-03-14T09:00:16.005Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6522 200 54ms trace=1a81682c64e50cad\n2025-03-14T09:00:16.694Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6561 200 10ms trace=113db17d30cbc97d\n2025-03-14T09:00:17.185Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2660 200 17ms trace=99c94309570dc195\n2025-03-14T09:00:17.329Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4 200 75ms trace=895fd7b326b94c7f\n2025-03-14T09:00:17.741Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/418 200 12ms trace=353c631cdfd43f37\n2025-03-14T09:00:18.409Z INFO  [redis-master-0] DB 0: 597252 keys, used_memory=399MB\n2025-03-14T09:00:18.707Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5692 200 80ms trace=7961fd925d39d0a8\n2025-03-14T09:00:18.865Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7997 200 62ms trace=7bdc968b7afb2c68\n2025-03-14T09:00:19.224Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=bfeaa1551a28f7b324e4e25a15fc899e\n2025-03-14T09:00:20.022Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4338 200 64ms trace=b12aa1f6d42fddbb\n2025-03-14T09:00:20.590Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/379 200 29ms trace=f3b7a50df373ca53\n2025-03-14T09:00:21.000Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2402 200 72ms trace=06ec41adea057543\n2025-03-14T09:00:21.345Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1492 200 36ms trace=5de0099784b5a818\n2025-03-14T09:00:21.749Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3651 200 71ms trace=c77024208aa4248c\n2025-03-14T09:00:22.126Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3655 200 81ms trace=c9d488b1cfbf3360\n2025-03-14T09:00:22.991Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3923 200 54ms trace=cda6c6fdbd685167\n2025-03-14T09:00:23.263Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=5b06258e7e26f36a8483f8b8332dd331\n2025-03-14T09:00:23.332Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/458 200 38ms trace=4259405278e4b98d\n2025-03-14T09:00:24.081Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9915 200 47ms trace=cefe2a1f727d8349\n2025-03-14T09:00:24.861Z INFO  [redis-master-0] DB 0: 583248 keys, used_memory=426MB\n2025-03-14T09:00:25.126Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1674 200 32ms trace=325b55dd78572976\n2025-03-14T09:00:25.375Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7908 200 82ms trace=e67a9b75fc394724\n2025-03-14T09:00:26.275Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/32 200 64ms trace=a72991b9e8c14743",
+  "state_graph": {
+    "state": {
+      "primary_root_cause": "Redis master container in pod redis-master-0 exceeded memory limit 512Mi and was OOMKilled",
+      "secondary_effects": [
+        "celery workers ConnectionError to redis-master:6379",
+        "checkout service HTTP 503 upstream unavailable",
+        "orders.process task retry storms",
+        "kubelet back-off restarting failed container"
+      ],
+      "dependency_chain": [
+        "Redis master OOMKilled",
+        "Redis service down",
+        "Celery workers lose connection",
+        "Checkout service returns 503",
+        "User-visible API failures"
+      ],
+      "severity": "critical",
+      "recommended_search_query": "redis master pod OOMKilled 512Mi memory limit Cannot allocate memory connection refused celery"
+    },
+    "nodes": [
+      {
+        "id": "root",
+        "label": "Redis master container in pod redis-master-0 exceeded memory limit 512Mi and was OOMKilled",
+        "kind": "root_cause"
+      },
+      {
+        "id": "dep0",
+        "label": "Redis master OOMKilled",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep1",
+        "label": "Redis service down",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep2",
+        "label": "Celery workers lose connection",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep3",
+        "label": "Checkout service returns 503",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep4",
+        "label": "User-visible API failures",
+        "kind": "dependency"
+      },
+      {
+        "id": "eff0",
+        "label": "celery workers ConnectionError to redis-master:6379",
+        "kind": "effect"
+      },
+      {
+        "id": "eff1",
+        "label": "checkout service HTTP 503 upstream unavailable",
+        "kind": "effect"
+      },
+      {
+        "id": "eff2",
+        "label": "orders.process task retry storms",
+        "kind": "effect"
+      },
+      {
+        "id": "eff3",
+        "label": "kubelet back-off restarting failed container",
+        "kind": "effect"
+      }
+    ],
+    "edges": [
+      {
+        "source": "root",
+        "target": "dep0",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep0",
+        "target": "dep1",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep1",
+        "target": "dep2",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep2",
+        "target": "dep3",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep3",
+        "target": "dep4",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep4",
+        "target": "eff0",
+        "relation": "causes"
+      },
+      {
+        "source": "dep4",
+        "target": "eff1",
+        "relation": "causes"
+      },
+      {
+        "source": "dep4",
+        "target": "eff2",
+        "relation": "causes"
+      },
+      {
+        "source": "dep4",
+        "target": "eff3",
+        "relation": "causes"
+      }
+    ]
+  },
+  "grounding": {
+    "provider": "tavily",
+    "query": "redis master pod OOMKilled 512Mi memory limit Cannot allocate memory connection refused celery",
+    "answer": "The sources indicate that a Redis pod was OOMKilled due to exceeding its memory limit of 512Mi. To address this, it is recommended to check the pod's resource usage with `kubectl top pod redis-0 -n redis` and review the Redis memory configuration with `kubectl exec -it redis-0 -n redis -- redis-cli config get maxmemory`. If the memory limit is unset, it should be set to prevent OOM kills, for example, with `kubectl exec -it redis-0 -n redis -- redis-cli config set maxmemory 512mb`. Additionally, persistent volume issues should be checked as they can cause pod failures. The sources also suggest increasing the allocated memory for pods and scaling out to reduce per-pod pressure.",
+    "results": [
+      {
+        "title": "ArgoCD Runbook: Redis Memory Full",
+        "url": "https://oneuptime.com/blog/post/2026-02-26-argocd-runbook-redis-memory-full/view",
+        "snippet": "Redis pod shows high memory usage close to its limit; Redis pod restarts with OOMKilled status. Impact Assessment. Severity: P2. Impact: All",
+        "score": 0.680136
+      },
+      {
+        "title": "2042210 – Redis pod crashing with OOMKilled in ACM 2.4 running on OCP 4.8",
+        "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2042210",
+        "snippet": "on the other search- pods should recover once the Redis pod stabilizes, but you could also manually restart the pods to reestablish the connection.   ```  Comment 4  Felix Dewaleyne    2022-01-24 10:35:36 UTC   ``` expending the memory limit wasn't enough, the connection errors continued as reported by the customer (raising to 10gb and then 16gb). could there be other changes to make?  no logs were provided, so I did ask for a new set.   ```  Comment 5  Felix Dewaleyne    2022-01-26 10:20:24 UTC   ``` it turns out that the PV what the Redis is using was full and there were no space left. By de",
+        "score": 0.6158511
+      },
+      {
+        "title": "How to Debug Redis Pods in Kubernetes",
+        "url": "https://oneuptime.com/blog/post/2026-03-31-redis-debug-pods-kubernetes/view",
+        "snippet": "If Redis is being killed by OOM, check memory usage:\n\n```\n# Check pod resource usage kubectl top pod redis-0 -n redis # Check OOM events kubectl get events -n redis --sort-by='.lastTimestamp' | grep OOM\n```\n\nReview the Redis memory configuration:\n\n```\nkubectl exec -it redis-0 -n redis -- redis-cli config get maxmemory\n```\n\nOutput shows unset (unlimited) memory:\n\n```\n1) \"maxmemory\" 2) \"0\"\n```\n\nSet a limit to prevent OOM kills:\n\n```\nkubectl exec -it redis-0 -n redis -- redis-cli config set maxmemory 512mb kubectl exec -it redis-0 -n redis -- redis-cli config set maxmemory-policy allkeys-lru\n```\n",
+        "score": 0.61279696
+      },
+      {
+        "title": "Redis OOM-killed by the kernel: RSS, overcommit, and recovery",
+        "url": "https://www.netdata.cloud/guides/redis/redis-out-of-memory-oom-killed",
+        "snippet": "if($i==\"omem\") print $(i+1)}' | sort -rn | head -20 redis-cli CLIENT LIST | awk -F'[= ]' '{for(i=1;i<=NF;i++) if($i==\"omem\") print $(i+1)}' | sort -rn | head -20 '[= ]''{for(i=1;i<=NF;i++) if($i==\"omem\") print $(i+1)}'   # Configured memory limit # Configured memory limit # Configured memory limitredis-cli CONFIG GET maxmemory redis-cli CONFIG GET maxmemory [...] | Cause | What it looks like | First thing to check |\n --- \n| Allocator fragmentation | `mem_fragmentation_ratio` sustained above 1.5, stable `used_memory`, climbing `used_memory_rss` | `redis-cli INFO memory` for `mem_fragmentation_r",
+        "score": 0.54913354
+      },
+      {
+        "title": "OOMKilled Pods: A guide to troubleshooting. - DEV Community",
+        "url": "https://dev.to/vijayendrahunasgi/oomkilled-pods-a-guide-to-troubleshooting-2c03",
+        "snippet": "## 4. Stabilization: Stop the Bleeding\n\nWhenever we see issues like OOMKilled, it results in downtime and to avoid it we need to first stop the bleeding like first aid. Here's how we can stablized app by increasing replicas (so that we get some breather) then increase allocated memory for pods and perform restart if needed.\n\n`kubectl scale deploy/memory-leak --replicas=4\nkubectl set resources deploy/memory-leak --limits=memory=512Mi --requests=memory=256Mi\nkubectl rollout restart deploy/memory-leak`\n\nThen we need to check resource usage:\n\n`kubectl top pod --sort-by=memory\nkubectl get events --",
+        "score": 0.50446826
+      }
+    ]
+  },
+  "reasoning": {
+    "root_cause_analysis": "Redis master pod redis-master-0 exceeded 512Mi memory limit and was OOMKilled, triggering downstream service failures.",
+    "remediation_plan": [
+      "Check pod resource usage: kubectl top pod redis-master-0 -n <namespace>",
+      "Review Redis maxmemory config: redis-cli config get maxmemory",
+      "Set maxmemory limit if unset: redis-cli config set maxmemory 512mb",
+      "Configure maxmemory-policy allkeys-lru to evict keys under pressure",
+      "Inspect persistent volume utilization for full disk conditions",
+      "Scale out Redis replicas or increase pod memory allocation to reduce per-pod pressure",
+      "Restart affected services after pod stabilization"
+    ],
+    "fix_recommendation": "Set Redis maxmemory to 512mb and maxmemory-policy to allkeys-lru; verify persistent volume capacity; scale out Redis replicas if pressure persists.",
+    "confidence_score": 0.94
+  },
+  "metrics": {
+    "original_tokens": 57290,
+    "state_tokens": 123,
+    "tokens_saved": 57167,
+    "reduction_pct": 99.8,
+    "compression_ratio": 465.8,
+    "baseline_cost_usd": 0.03545,
+    "flashmesh_cost_usd": 0.00183,
+    "cost_saved_usd": 0.03363,
+    "cost_reduction_pct": 94.8,
+    "pipeline_tokens_used": 30730,
+    "dedup_lines_removed": 811,
+    "stage_latency_ms": {
+      "preprocess": 33,
+      "state_extraction": 19400,
+      "state_graph": 1,
+      "grounding": 7161,
+      "reasoning": 10495
+    },
+    "note": "Cost figures are estimates from configured per-token prices."
+  }
+}

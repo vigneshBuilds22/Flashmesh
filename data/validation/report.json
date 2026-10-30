@@ -1,0 +1,252 @@
+{
+  "model": "nvidia/Nemotron-3_5-Lightning",
+  "complete": true,
+  "rows": [
+    {
+      "file": "k8s_redis_oom.log",
+      "category": "memory",
+      "expected_tool": "increase_memory_limit",
+      "raw_tokens": 57290,
+      "extraction_latency_ms": 19845,
+      "state_tokens": 176,
+      "extraction_tokens_billed": 27346,
+      "state": {
+        "primary_root_cause": "Redis master pod exceeded its memory limit and was OOMKilled, causing connection failures across dependent services.",
+        "secondary_effects": [
+          "Connection refused on redis-master:6379",
+          "HTTP 503 errors from api-gateway and checkout-svc",
+          "Celery task retries with exponential backoff",
+          "Checkout service unavailable due to upstream api-gateway failure",
+          "Task backlog accumulation and retry loops",
+          "Redis restart with fluctuating memory usage under limit"
+        ],
+        "dependency_chain": [
+          "Redis master pod OOMKilled",
+          "Connection refused on redis-master:6379",
+          "Celery workers lose redis connectivity",
+          "API gateway returns HTTP 503",
+          "Checkout service degradation and 503 responses",
+          "Task retries and backlog accumulation"
+        ],
+        "severity": "critical",
+        "recommended_search_query": "redis master OOMKilled fork Cannot allocate memory Kubernetes redis exceptions.ConnectionError Error 111 connecting to redis-master:6379 Python 3.11"
+      },
+      "flashmesh": {
+        "tool": "increase_memory_limit",
+        "arguments": {
+          "service": "redis-master",
+          "new_limit_mb": 2048
+        },
+        "rationale": "Redis master pod OOMKilled due to exceeded memory limit, requiring increased allocation to restore connectivity.",
+        "valid_call": true,
+        "validation_error": null,
+        "executed": {
+          "ok": true,
+          "simulated": true,
+          "tool": "increase_memory_limit",
+          "args": {
+            "service": "redis-master",
+            "new_limit_mb": 2048
+          }
+        },
+        "correct": true,
+        "grounded": true,
+        "ungrounded_args": [],
+        "input_tokens_est": 180,
+        "tokens_billed": 3240,
+        "latency_ms": 28389
+      },
+      "raw_control": {
+        "tool": "increase_memory_limit",
+        "arguments": {
+          "service": "redis-master",
+          "new_limit_mb": 1024
+        },
+        "rationale": "redis-master pod was OOMKilled due to memory exhaustion with 512Mi limit, causing cascading checkout-svc and celery-worker failures; increasing memory limit will prevent recurrence",
+        "valid_call": true,
+        "validation_error": null,
+        "executed": {
+          "ok": true,
+          "simulated": true,
+          "tool": "increase_memory_limit",
+          "args": {
+            "service": "redis-master",
+            "new_limit_mb": 1024
+          }
+        },
+        "correct": true,
+        "grounded": true,
+        "ungrounded_args": [],
+        "input_tokens_est": 57293,
+        "tokens_billed": 76284,
+        "latency_ms": 22688
+      }
+    },
+    {
+      "file": "bad_release_checkout.log",
+      "category": "deployment",
+      "expected_tool": "rollback_release",
+      "raw_tokens": 45152,
+      "extraction_latency_ms": 23344,
+      "state_tokens": 143,
+      "extraction_tokens_billed": 7345,
+      "state": {
+        "primary_root_cause": "Release v2.4.0 of checkout-svc lacked the required PAYMENT_GATEWAY_URL configuration key, triggering a KeyError at config.py line 41",
+        "secondary_effects": [
+          "Pod CrashLoopBackOff",
+          "Ingress 502 errors",
+          "No healthy service endpoints",
+          "Checkout endpoint unavailable"
+        ],
+        "dependency_chain": [
+          "Missing PAYMENT_GATEWAY_URL in v2.4.0 config",
+          "KeyError in config.py load_settings",
+          "Container process exit with code 1",
+          "CrashLoopBackOff state",
+          "Ingress routes to unhealthy pods",
+          "HTTP 502 returned to users"
+        ],
+        "severity": "critical",
+        "recommended_search_query": "checkout-svc v2.4.0 PAYMENT_GATEWAY_URL KeyError config.py"
+      },
+      "flashmesh": {
+        "tool": "rollback_release",
+        "arguments": {
+          "service": "checkout-svc",
+          "to_version": "v2.3.0"
+        },
+        "rationale": "The root cause is a missing PAYMENT_GATEWAY_URL key in v2.4.0, so rolling back to the last stable version restores correct configuration and stops the CrashLoopBackOff cascade.",
+        "valid_call": true,
+        "validation_error": null,
+        "executed": {
+          "ok": true,
+          "simulated": true,
+          "tool": "rollback_release",
+          "args": {
+            "service": "checkout-svc",
+            "to_version": "v2.3.0"
+          }
+        },
+        "correct": true,
+        "grounded": false,
+        "ungrounded_args": [
+          "to_version"
+        ],
+        "input_tokens_est": 147,
+        "tokens_billed": 3067,
+        "latency_ms": 40006
+      },
+      "raw_control": {
+        "tool": "rollback_release",
+        "arguments": {
+          "service": "checkout-svc",
+          "to_version": "v2.3.9"
+        },
+        "rationale": "The v2.4.0 deployment introduced a KeyError for PAYMENT_GATEWAY_URL causing CrashLoopBackOff and 502 errors, so rolling back to the stable v2.3.9 resolves the configuration issue.",
+        "valid_call": true,
+        "validation_error": null,
+        "executed": {
+          "ok": true,
+          "simulated": true,
+          "tool": "rollback_release",
+          "args": {
+            "service": "checkout-svc",
+            "to_version": "v2.3.9"
+          }
+        },
+        "correct": true,
+        "grounded": true,
+        "ungrounded_args": [],
+        "input_tokens_est": 45155,
+        "tokens_billed": 61478,
+        "latency_ms": 14478
+      }
+    },
+    {
+      "file": "traffic_spike_gateway.log",
+      "category": "traffic",
+      "expected_tool": "scale_deployment",
+      "raw_tokens": 47107,
+      "extraction_latency_ms": 30029,
+      "state_tokens": 154,
+      "extraction_tokens_billed": 5184,
+      "state": {
+        "primary_root_cause": "Marketing campaign launch caused request rate to surge from 220 to 2400 rps, exceeding HPA scaling limits and CPU capacity",
+        "secondary_effects": [
+          "HPA at max replicas cannot scale further",
+          "CPU throttled at 97% limit",
+          "HTTP 504 gateway timeouts",
+          "Worker pool exhausted 64/64 busy",
+          "Request queue depth buildup"
+        ],
+        "dependency_chain": [
+          "Marketing campaign launch",
+          "Traffic surge to 2400 rps",
+          "HPA scaling limit reached",
+          "CPU throttling at 97% limit",
+          "Request queue depth increase",
+          "HTTP 504 gateway timeouts",
+          "Worker pool exhaustion and request rejections"
+        ],
+        "severity": "critical",
+        "recommended_search_query": "api-gateway CPU throttled 97% HPA maxReplicas worker pool exhausted 504 gateway timeout"
+      },
+      "flashmesh": {
+        "tool": "scale_deployment",
+        "arguments": {
+          "service": "api-gateway",
+          "replicas": 10
+        },
+        "rationale": "Traffic surge to 2400 rps has exceeded HPA scaling limits and CPU capacity, requiring immediate replica increase to restore service capacity.",
+        "valid_call": true,
+        "validation_error": null,
+        "executed": {
+          "ok": true,
+          "simulated": true,
+          "tool": "scale_deployment",
+          "args": {
+            "service": "api-gateway",
+            "replicas": 10
+          }
+        },
+        "correct": true,
+        "grounded": true,
+        "ungrounded_args": [],
+        "input_tokens_est": 158,
+        "tokens_billed": 2033,
+        "latency_ms": 31213
+      },
+      "raw_control": {
+        "tool": "scale_deployment",
+        "arguments": {
+          "service": "api-gateway",
+          "replicas": 14
+        },
+        "rationale": "Traffic spike to 2400 rps (10x baseline) exceeded capacity with HPA capped at maxReplicas=3 while desired=14, causing worker pool exhaustion, CPU throttling at 97%, and 504 timeouts; scaling deployment to 14 replicas resolves capacity constraint.",
+        "valid_call": true,
+        "validation_error": null,
+        "executed": {
+          "ok": true,
+          "simulated": true,
+          "tool": "scale_deployment",
+          "args": {
+            "service": "api-gateway",
+            "replicas": 14
+          }
+        },
+        "correct": true,
+        "grounded": true,
+        "ungrounded_args": [],
+        "input_tokens_est": 47110,
+        "tokens_billed": 66912,
+        "latency_ms": 26842
+      }
+    }
+  ],
+  "summary": {
+    "flashmesh_correct": "3/3",
+    "raw_control_correct": "3/3",
+    "flashmesh_grounded": "2/3",
+    "raw_control_grounded": "3/3"
+  }
+}

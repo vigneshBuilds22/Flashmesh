@@ -1,0 +1,5 @@
+[
+  {"file": "k8s_redis_oom.log",       "category": "memory",     "expected_tool": "increase_memory_limit"},
+  {"file": "bad_release_checkout.log", "category": "deployment", "expected_tool": "rollback_release"},
+  {"file": "traffic_spike_gateway.log","category": "traffic",    "expected_tool": "scale_deployment"}
+]

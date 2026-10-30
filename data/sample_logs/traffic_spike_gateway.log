@@ -1,0 +1,963 @@
+2025-05-09T18:00:00.113Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=193 trace=90c0216feef79906
+2025-05-09T18:00:00.275Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=219 trace=df42f74f5a868ee3
+2025-05-09T18:00:00.459Z INFO  [api-gateway-0] GET /api/v1/items 200 9ms rps=198 trace=69cdb62d079893db
+2025-05-09T18:00:01.083Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=249 trace=6fd07b3d13c2e923
+2025-05-09T18:00:01.662Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=191 trace=b1d2044286d61dda
+2025-05-09T18:00:02.064Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=205 trace=b47e660ce12fbd8d
+2025-05-09T18:00:02.208Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=242 trace=142549233161c940
+2025-05-09T18:00:02.746Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=251 trace=22886dbe16cbcfcf
+2025-05-09T18:00:03.093Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=208 trace=45c2d579b3bbdf48
+2025-05-09T18:00:03.287Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=234 trace=cb47cb07ef59cf74
+2025-05-09T18:00:03.347Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=255 trace=af8b5cf0ff1d7849
+2025-05-09T18:00:03.972Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=201 trace=c4ecdf62161e4bcf
+2025-05-09T18:00:04.543Z INFO  [api-gateway-0] GET /api/v1/items 200 7ms rps=193 trace=4c444f511c9ad163
+2025-05-09T18:00:04.891Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=184 trace=d46a3f3f262c8d3b
+2025-05-09T18:00:05.121Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=254 trace=c1e36123c4445b4d
+2025-05-09T18:00:05.246Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=188 trace=cb4e878af54b63c9
+2025-05-09T18:00:05.507Z INFO  [api-gateway-1] GET /api/v1/items 200 19ms rps=232 trace=55e6200959bf6b54
+2025-05-09T18:00:05.771Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=181 trace=c52be303e605475f
+2025-05-09T18:00:06.058Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=254 trace=86af700e5ea41e77
+2025-05-09T18:00:06.441Z INFO  [api-gateway-2] GET /api/v1/items 200 27ms rps=238 trace=3c00c0c5a6cd3c67
+2025-05-09T18:00:06.905Z INFO  [api-gateway-0] GET /api/v1/items 200 17ms rps=199 trace=40e0840a3620a2bd
+2025-05-09T18:00:07.407Z INFO  [api-gateway-1] GET /api/v1/items 200 19ms rps=222 trace=3cfe03db2f509dd9
+2025-05-09T18:00:08.071Z INFO  [api-gateway-1] GET /api/v1/items 200 38ms rps=253 trace=92c96dd34142f857
+2025-05-09T18:00:08.133Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=209 trace=4d2e8a1810d6c553
+2025-05-09T18:00:08.694Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=184 trace=3f750feeca522f49
+2025-05-09T18:00:09.287Z INFO  [api-gateway-0] GET /api/v1/items 200 10ms rps=244 trace=710d66073e93f311
+2025-05-09T18:00:09.550Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=251 trace=2357beabfd63bb9e
+2025-05-09T18:00:09.969Z INFO  [api-gateway-2] GET /api/v1/items 200 27ms rps=188 trace=12babc7ae9378ac2
+2025-05-09T18:00:10.405Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=209 trace=fe1920e3569176d4
+2025-05-09T18:00:10.656Z INFO  [api-gateway-1] GET /api/v1/items 200 23ms rps=251 trace=f1a64ef997e26566
+2025-05-09T18:00:10.765Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=186 trace=086c480e7fbca4cb
+2025-05-09T18:00:11.194Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=200 trace=11512ad524ba4ccf
+2025-05-09T18:00:11.444Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=208 trace=5185a682ee757ce1
+2025-05-09T18:00:11.834Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=198 trace=b6eb32abcdb7350d
+2025-05-09T18:00:12.201Z INFO  [api-gateway-0] GET /api/v1/items 200 17ms rps=210 trace=b39ebf3222bd2053
+2025-05-09T18:00:12.483Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=227 trace=ba106a005f4fef04
+2025-05-09T18:00:12.646Z INFO  [api-gateway-1] GET /api/v1/items 200 14ms rps=189 trace=2f515141fbc57c05
+2025-05-09T18:00:13.041Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=195 trace=523f330a4e94ec00
+2025-05-09T18:00:13.268Z INFO  [api-gateway-2] GET /api/v1/items 200 12ms rps=215 trace=85a01c2486e33c51
+2025-05-09T18:00:13.861Z INFO  [api-gateway-2] GET /api/v1/items 200 33ms rps=247 trace=f276e5024306a0ce
+2025-05-09T18:00:13.995Z INFO  [api-gateway-0] GET /api/v1/items 200 19ms rps=182 trace=ebf2493513a22002
+2025-05-09T18:00:14.351Z INFO  [api-gateway-2] GET /api/v1/items 200 37ms rps=203 trace=f7132703290b8e30
+2025-05-09T18:00:14.729Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=217 trace=caf4a74c7bcffb75
+2025-05-09T18:00:15.381Z INFO  [api-gateway-1] GET /api/v1/items 200 27ms rps=257 trace=d893db0eff52f6ef
+2025-05-09T18:00:15.921Z INFO  [api-gateway-1] GET /api/v1/items 200 7ms rps=204 trace=f1ae4a4425bb0b4b
+2025-05-09T18:00:16.441Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=236 trace=959c5150c3407200
+2025-05-09T18:00:16.891Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=216 trace=0ba5fe5429af5537
+2025-05-09T18:00:17.108Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=182 trace=3840b00606352903
+2025-05-09T18:00:17.582Z INFO  [api-gateway-1] GET /api/v1/items 200 9ms rps=239 trace=2ebc82b5064dd8b6
+2025-05-09T18:00:17.972Z INFO  [api-gateway-0] GET /api/v1/items 200 15ms rps=218 trace=0aa2a783f8cf307b
+2025-05-09T18:00:18.356Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=227 trace=79121ee3b00f8d59
+2025-05-09T18:00:18.652Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=201 trace=24c760c75b487e63
+2025-05-09T18:00:19.285Z INFO  [api-gateway-2] GET /api/v1/items 200 31ms rps=234 trace=963e29bc8a455da3
+2025-05-09T18:00:19.796Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=242 trace=ad7b00673bbc4e83
+2025-05-09T18:00:20.472Z INFO  [api-gateway-2] GET /api/v1/items 200 15ms rps=239 trace=8fb8dac282441eaa
+2025-05-09T18:00:20.807Z INFO  [api-gateway-0] GET /api/v1/items 200 25ms rps=210 trace=9568c6cd8e1113e9
+2025-05-09T18:00:21.260Z INFO  [api-gateway-0] GET /api/v1/items 200 26ms rps=216 trace=18d0b4d0a39060d2
+2025-05-09T18:00:21.949Z INFO  [api-gateway-2] GET /api/v1/items 200 5ms rps=224 trace=8f305e537abe8cbd
+2025-05-09T18:00:22.103Z INFO  [api-gateway-1] GET /api/v1/items 200 37ms rps=228 trace=006be4f1af84891e
+2025-05-09T18:00:22.651Z INFO  [api-gateway-1] GET /api/v1/items 200 22ms rps=243 trace=d8cae7f492ff1c18
+2025-05-09T18:00:23.338Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=187 trace=51ca9a4d17063b97
+2025-05-09T18:00:23.887Z INFO  [api-gateway-2] GET /api/v1/items 200 35ms rps=187 trace=249d8a3fa42c0ca0
+2025-05-09T18:00:23.954Z INFO  [api-gateway-1] GET /api/v1/items 200 39ms rps=236 trace=15a9f9f40cdf1f49
+2025-05-09T18:00:24.280Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=254 trace=660aa331d43d706f
+2025-05-09T18:00:24.362Z INFO  [api-gateway-1] GET /api/v1/items 200 17ms rps=244 trace=6d1b034f1a330ea7
+2025-05-09T18:00:24.763Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=189 trace=dbff46c87d6880fc
+2025-05-09T18:00:25.296Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=220 trace=aa6d3339d75550c2
+2025-05-09T18:00:25.851Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=205 trace=37163fc6a5883c0d
+2025-05-09T18:00:26.347Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=211 trace=bab20a63cc243204
+2025-05-09T18:00:26.667Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=195 trace=79c6aac9d091d380
+2025-05-09T18:00:27.017Z INFO  [api-gateway-2] GET /api/v1/items 200 20ms rps=185 trace=cf06ce04eb671aaf
+2025-05-09T18:00:27.080Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=240 trace=a4e39935cab096fd
+2025-05-09T18:00:27.745Z INFO  [api-gateway-2] GET /api/v1/items 200 30ms rps=188 trace=aace4c31f9f10890
+2025-05-09T18:00:27.948Z INFO  [api-gateway-0] GET /api/v1/items 200 21ms rps=216 trace=63d33bf3df10f4e1
+2025-05-09T18:00:28.306Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=258 trace=c65c821bb1b9c45e
+2025-05-09T18:00:28.613Z INFO  [api-gateway-2] GET /api/v1/items 200 13ms rps=187 trace=de23710e6fa9dd1f
+2025-05-09T18:00:29.070Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=252 trace=f184505043b2b37a
+2025-05-09T18:00:29.615Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=208 trace=b6072f44626ce250
+2025-05-09T18:00:30.016Z INFO  [api-gateway-0] GET /api/v1/items 200 6ms rps=200 trace=cbb05c967ff9af9f
+2025-05-09T18:00:30.290Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=199 trace=6e69b7b8840d3a78
+2025-05-09T18:00:30.653Z INFO  [api-gateway-1] GET /api/v1/items 200 22ms rps=203 trace=a5d8d11d06e433b6
+2025-05-09T18:00:30.966Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=222 trace=ed5709cd54154557
+2025-05-09T18:00:31.061Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=248 trace=94a7afc3f3b8f98e
+2025-05-09T18:00:31.735Z INFO  [api-gateway-1] GET /api/v1/items 200 34ms rps=187 trace=1befd5e75551b711
+2025-05-09T18:00:32.061Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=242 trace=090fe47710dcb351
+2025-05-09T18:00:32.199Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=186 trace=c1ae46c379187c17
+2025-05-09T18:00:32.777Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=205 trace=94ae2101eeca3819
+2025-05-09T18:00:33.189Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=221 trace=11e957bb65f7a7e2
+2025-05-09T18:00:33.576Z INFO  [api-gateway-0] GET /api/v1/items 200 27ms rps=217 trace=dc206eed86e3c87b
+2025-05-09T18:00:34.270Z INFO  [api-gateway-2] GET /api/v1/items 200 31ms rps=207 trace=eb8ce4c7682215ff
+2025-05-09T18:00:34.551Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=195 trace=6ed812146de8b9f7
+2025-05-09T18:00:35.078Z INFO  [api-gateway-2] GET /api/v1/items 200 31ms rps=260 trace=cf0328e48e19bb52
+2025-05-09T18:00:35.774Z INFO  [api-gateway-2] GET /api/v1/items 200 21ms rps=255 trace=6b6f7ab68a8bfd82
+2025-05-09T18:00:35.826Z INFO  [api-gateway-2] GET /api/v1/items 200 10ms rps=204 trace=c41d434d2e8f5371
+2025-05-09T18:00:35.924Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=203 trace=f80d7b2c8d21134d
+2025-05-09T18:00:36.243Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=214 trace=cc1b5d5dc456e862
+2025-05-09T18:00:36.325Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=238 trace=6eb638d40f8d2748
+2025-05-09T18:00:36.474Z INFO  [api-gateway-1] GET /api/v1/items 200 17ms rps=212 trace=e795360ee371528e
+2025-05-09T18:00:36.571Z INFO  [api-gateway-2] GET /api/v1/items 200 9ms rps=180 trace=76ff15cc44f8d5ca
+2025-05-09T18:00:37.240Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=234 trace=92bbb19d7f8b7282
+2025-05-09T18:00:37.530Z INFO  [api-gateway-1] GET /api/v1/items 200 20ms rps=258 trace=0be1949368aa986b
+2025-05-09T18:00:37.659Z INFO  [api-gateway-2] GET /api/v1/items 200 13ms rps=211 trace=920046bf0e03ec78
+2025-05-09T18:00:38.184Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=229 trace=be3492c512a794c1
+2025-05-09T18:00:38.624Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=259 trace=353c89a41b095e11
+2025-05-09T18:00:38.915Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=255 trace=50caf926dfaea5c9
+2025-05-09T18:00:39.608Z INFO  [api-gateway-0] GET /api/v1/items 200 26ms rps=218 trace=388fe01405a0878f
+2025-05-09T18:00:40.169Z INFO  [api-gateway-2] GET /api/v1/items 200 31ms rps=231 trace=e3159c7fdea85da1
+2025-05-09T18:00:40.405Z INFO  [api-gateway-1] GET /api/v1/items 200 7ms rps=191 trace=448e6c8ab545019b
+2025-05-09T18:00:40.904Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=235 trace=73f9a01d3467aad0
+2025-05-09T18:00:41.389Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=259 trace=6940975e05f88ead
+2025-05-09T18:00:41.740Z INFO  [api-gateway-2] GET /api/v1/items 200 10ms rps=238 trace=793a9d20bc290f49
+2025-05-09T18:00:42.420Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=228 trace=e5e31c31ad884db9
+2025-05-09T18:00:42.976Z INFO  [api-gateway-1] GET /api/v1/items 200 9ms rps=209 trace=3a8fd2994bd781be
+2025-05-09T18:00:43.634Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=235 trace=a745bdc43673aaeb
+2025-05-09T18:00:43.979Z INFO  [api-gateway-0] GET /api/v1/items 200 10ms rps=249 trace=fade84ab963989ae
+2025-05-09T18:00:44.368Z INFO  [api-gateway-2] GET /api/v1/items 200 30ms rps=182 trace=6a87bb08d7031ff4
+2025-05-09T18:00:44.760Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=191 trace=6138e56f9d0ffbb0
+2025-05-09T18:00:45.026Z INFO  [api-gateway-1] GET /api/v1/items 200 24ms rps=205 trace=e9a9e3b5bf57277b
+2025-05-09T18:00:45.510Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=254 trace=d23f627c0d36a472
+2025-05-09T18:00:45.770Z INFO  [api-gateway-2] GET /api/v1/items 200 30ms rps=188 trace=fa4a952697212407
+2025-05-09T18:00:46.157Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=254 trace=4066a3767a6a024b
+2025-05-09T18:00:46.459Z INFO  [api-gateway-2] GET /api/v1/items 200 40ms rps=232 trace=283913188b57a713
+2025-05-09T18:00:46.524Z INFO  [api-gateway-0] GET /api/v1/items 200 25ms rps=245 trace=058240a8f349cff6
+2025-05-09T18:00:46.845Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=247 trace=7ec5612ef4065a44
+2025-05-09T18:00:47.219Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=242 trace=e7fa6dab4a053e31
+2025-05-09T18:00:47.689Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=192 trace=0c5712a59b18af34
+2025-05-09T18:00:48.200Z INFO  [api-gateway-1] GET /api/v1/items 200 38ms rps=251 trace=708c6b88fdbca4aa
+2025-05-09T18:00:48.823Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=225 trace=c248a4106ebe9cb9
+2025-05-09T18:00:48.916Z INFO  [api-gateway-0] GET /api/v1/items 200 5ms rps=218 trace=b12204fb8bc24abd
+2025-05-09T18:00:49.128Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=207 trace=b4913e7f615306ee
+2025-05-09T18:00:49.448Z INFO  [api-gateway-0] GET /api/v1/items 200 27ms rps=254 trace=837ea01a898e457e
+2025-05-09T18:00:49.512Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=230 trace=67934144a8412a93
+2025-05-09T18:00:49.704Z INFO  [api-gateway-1] GET /api/v1/items 200 20ms rps=206 trace=0682a4e32d8c953b
+2025-05-09T18:00:49.864Z INFO  [api-gateway-0] GET /api/v1/items 200 6ms rps=204 trace=055a68aa43af79ca
+2025-05-09T18:00:50.404Z INFO  [api-gateway-0] GET /api/v1/items 200 6ms rps=217 trace=54a55345dc0a3281
+2025-05-09T18:00:50.660Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=221 trace=cfc0dfb1564985ae
+2025-05-09T18:00:50.923Z INFO  [api-gateway-1] GET /api/v1/items 200 25ms rps=183 trace=eadc222a711dc686
+2025-05-09T18:00:51.546Z INFO  [api-gateway-1] GET /api/v1/items 200 37ms rps=225 trace=8c7d07993930e536
+2025-05-09T18:00:51.814Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=199 trace=f6d8d535a5bd4bac
+2025-05-09T18:00:52.203Z INFO  [api-gateway-1] GET /api/v1/items 200 32ms rps=202 trace=2eab3eacd3e1e2ad
+2025-05-09T18:00:52.849Z INFO  [api-gateway-2] GET /api/v1/items 200 15ms rps=240 trace=9ac798385aec4f31
+2025-05-09T18:00:53.245Z INFO  [api-gateway-0] GET /api/v1/items 200 25ms rps=208 trace=5d4122747aa706e3
+2025-05-09T18:00:53.345Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=186 trace=b2195762d9a11722
+2025-05-09T18:00:53.449Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=254 trace=18600d4406407e50
+2025-05-09T18:00:53.820Z INFO  [api-gateway-0] GET /api/v1/items 200 27ms rps=242 trace=88857d8499a062ea
+2025-05-09T18:00:54.255Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=233 trace=e8ae30df055a304a
+2025-05-09T18:00:54.924Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=214 trace=aac245120b358738
+2025-05-09T18:00:55.120Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=186 trace=c78dd33577aaf87d
+2025-05-09T18:00:55.455Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=182 trace=3fe9497b5b1a6eec
+2025-05-09T18:00:55.863Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=217 trace=42cd209e4cbac78d
+2025-05-09T18:00:55.918Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=219 trace=978f01166a9e1f0d
+2025-05-09T18:00:56.134Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=194 trace=d8950499299803d9
+2025-05-09T18:00:56.272Z INFO  [api-gateway-1] GET /api/v1/items 200 37ms rps=204 trace=8b86db884fd7d220
+2025-05-09T18:00:56.949Z INFO  [api-gateway-2] GET /api/v1/items 200 33ms rps=244 trace=69c4eac33e82b5d6
+2025-05-09T18:00:57.388Z INFO  [api-gateway-1] GET /api/v1/items 200 37ms rps=213 trace=71ab69ea77f69274
+2025-05-09T18:00:57.969Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=208 trace=05afce5648f72490
+2025-05-09T18:00:58.312Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=184 trace=cbdf190ba5dd6b9f
+2025-05-09T18:00:58.392Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=216 trace=30f63db685969527
+2025-05-09T18:00:58.808Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=227 trace=f1b2b793be9a793c
+2025-05-09T18:00:59.313Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=244 trace=3a021fa78d88de8f
+2025-05-09T18:00:59.947Z INFO  [api-gateway-2] GET /api/v1/items 200 17ms rps=189 trace=3f368c7b1c0952e2
+2025-05-09T18:01:00.534Z INFO  [api-gateway-1] GET /api/v1/items 200 39ms rps=234 trace=8e5e0af683cae117
+2025-05-09T18:01:00.891Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=246 trace=fd8786e15b557344
+2025-05-09T18:01:01.008Z INFO  [api-gateway-2] GET /api/v1/items 200 12ms rps=181 trace=25f49255ddcf8240
+2025-05-09T18:01:01.446Z INFO  [api-gateway-2] GET /api/v1/items 200 12ms rps=237 trace=fd58ebf98ff9f267
+2025-05-09T18:01:01.931Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=255 trace=9517b2980e51679c
+2025-05-09T18:01:02.148Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=211 trace=7fda0f8fac976130
+2025-05-09T18:01:02.409Z INFO  [api-gateway-1] GET /api/v1/items 200 39ms rps=223 trace=93e80ba3fd5cd70c
+2025-05-09T18:01:03.095Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=181 trace=b8b6444a3852efa4
+2025-05-09T18:01:03.354Z INFO  [api-gateway-2] GET /api/v1/items 200 9ms rps=211 trace=4fa50928c30b374c
+2025-05-09T18:01:03.735Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=246 trace=f9fd7d9719ef8f4e
+2025-05-09T18:01:04.427Z INFO  [api-gateway-0] GET /api/v1/items 200 21ms rps=204 trace=cbeb86f5d07e3d47
+2025-05-09T18:01:04.696Z INFO  [api-gateway-0] GET /api/v1/items 200 8ms rps=224 trace=b9e688b308c26c72
+2025-05-09T18:01:04.879Z INFO  [api-gateway-0] GET /api/v1/items 200 6ms rps=200 trace=793dd3f4e2ef5207
+2025-05-09T18:01:05.579Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=203 trace=a2976a1f51cfef03
+2025-05-09T18:01:05.736Z INFO  [api-gateway-2] GET /api/v1/items 200 5ms rps=185 trace=902c4f5dddac1723
+2025-05-09T18:01:06.087Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=229 trace=a5d9e126b708eecd
+2025-05-09T18:01:06.316Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=184 trace=97444ec93d6c0841
+2025-05-09T18:01:06.641Z INFO  [api-gateway-1] GET /api/v1/items 200 17ms rps=190 trace=4070da7f10dec79a
+2025-05-09T18:01:06.871Z INFO  [api-gateway-2] GET /api/v1/items 200 20ms rps=228 trace=ef90607c4a37f6f6
+2025-05-09T18:01:07.033Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=220 trace=01cfb7d87e53f2dd
+2025-05-09T18:01:07.133Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=255 trace=1f3cd5876251fcd9
+2025-05-09T18:01:07.716Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=194 trace=5c1972dd07261cb3
+2025-05-09T18:01:08.379Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=222 trace=25f91d7b63aa6b71
+2025-05-09T18:01:09.025Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=206 trace=02e8ccd3800f2113
+2025-05-09T18:01:09.576Z INFO  [api-gateway-2] GET /api/v1/items 200 20ms rps=237 trace=7c074e03308da7e2
+2025-05-09T18:01:09.659Z INFO  [api-gateway-0] GET /api/v1/items 200 39ms rps=184 trace=3082949621496b2c
+2025-05-09T18:01:10.091Z INFO  [api-gateway-1] GET /api/v1/items 200 19ms rps=235 trace=602d22d89e9fc245
+2025-05-09T18:01:10.298Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=224 trace=112d43f9d3457b99
+2025-05-09T18:01:10.489Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=258 trace=e57008ab099c476f
+2025-05-09T18:01:10.558Z INFO  [api-gateway-0] GET /api/v1/items 200 29ms rps=198 trace=b6974c25162507e5
+2025-05-09T18:01:10.645Z INFO  [api-gateway-0] GET /api/v1/items 200 26ms rps=257 trace=ea938c70fd11ab9b
+2025-05-09T18:01:10.723Z INFO  [api-gateway-2] GET /api/v1/items 200 12ms rps=209 trace=2e10cc714963ba82
+2025-05-09T18:01:10.958Z INFO  [api-gateway-1] GET /api/v1/items 200 12ms rps=235 trace=12dbae4833576793
+2025-05-09T18:01:11.653Z INFO  [api-gateway-2] GET /api/v1/items 200 15ms rps=189 trace=d3941b942b2bf1a5
+2025-05-09T18:01:12.241Z INFO  [api-gateway-1] GET /api/v1/items 200 31ms rps=199 trace=9171219460cfedc9
+2025-05-09T18:01:12.801Z INFO  [api-gateway-0] GET /api/v1/items 200 29ms rps=180 trace=4eb3410d796b79ff
+2025-05-09T18:01:12.881Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=204 trace=55f4a518ce74f2f4
+2025-05-09T18:01:12.930Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=217 trace=4934c9588ab6a1f8
+2025-05-09T18:01:13.105Z INFO  [api-gateway-0] GET /api/v1/items 200 29ms rps=227 trace=b4ef91c8ecb06207
+2025-05-09T18:01:13.255Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=213 trace=4c05ab0b48d55b8f
+2025-05-09T18:01:13.594Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=203 trace=64b3f303a0c9eea9
+2025-05-09T18:01:13.983Z INFO  [api-gateway-1] GET /api/v1/items 200 12ms rps=251 trace=1ee712d0fad11fbc
+2025-05-09T18:01:14.448Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=255 trace=ad3a4c5f9aff3fa3
+2025-05-09T18:01:15.078Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=209 trace=7bb99a73d6d7b971
+2025-05-09T18:01:15.394Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=213 trace=7f26eb4f6758abe2
+2025-05-09T18:01:16.011Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=187 trace=a0f6307d6f2fd88f
+2025-05-09T18:01:16.643Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=221 trace=9b5936b3f4891473
+2025-05-09T18:01:17.081Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=237 trace=db72699daafb0db5
+2025-05-09T18:01:17.151Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=226 trace=b19a8a788192dd8e
+2025-05-09T18:01:17.811Z INFO  [api-gateway-0] GET /api/v1/items 200 39ms rps=213 trace=615cc2d032dd80d3
+2025-05-09T18:01:18.421Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=180 trace=00429c5b1d7a3b60
+2025-05-09T18:01:18.463Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=215 trace=fdca8c0d781786d2
+2025-05-09T18:01:19.022Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=188 trace=b74d4fa86e660e32
+2025-05-09T18:01:19.300Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=239 trace=7963da7adb4f887b
+2025-05-09T18:01:19.771Z INFO  [api-gateway-1] GET /api/v1/items 200 25ms rps=251 trace=3dcd930265c0c9fb
+2025-05-09T18:01:20.131Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=248 trace=9e6597caaf7dcb1d
+2025-05-09T18:01:20.326Z INFO  [api-gateway-2] GET /api/v1/items 200 17ms rps=196 trace=995736a69dd876b2
+2025-05-09T18:01:20.531Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=233 trace=d8358afb69faed5d
+2025-05-09T18:01:20.758Z INFO  [api-gateway-2] GET /api/v1/items 200 17ms rps=253 trace=acad9417ac5d5713
+2025-05-09T18:01:21.165Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=227 trace=eeeff228192e10f7
+2025-05-09T18:01:21.241Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=212 trace=4170ac92af0c1a02
+2025-05-09T18:01:21.841Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=194 trace=a44005f20eafc28d
+2025-05-09T18:01:21.907Z INFO  [api-gateway-1] GET /api/v1/items 200 19ms rps=192 trace=9615c49507a0b59f
+2025-05-09T18:01:22.112Z INFO  [api-gateway-0] GET /api/v1/items 200 15ms rps=248 trace=20caf23d5925510d
+2025-05-09T18:01:22.247Z INFO  [api-gateway-2] GET /api/v1/items 200 27ms rps=195 trace=abd4c2f25f72367d
+2025-05-09T18:01:22.667Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=254 trace=dcf281aa3da55eed
+2025-05-09T18:01:22.762Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=221 trace=71ad3399497878f3
+2025-05-09T18:01:23.094Z INFO  [api-gateway-2] GET /api/v1/items 200 32ms rps=239 trace=02c169eb361c58b2
+2025-05-09T18:01:23.585Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=241 trace=e8ef510199fd3f5e
+2025-05-09T18:01:24.146Z INFO  [api-gateway-0] GET /api/v1/items 200 37ms rps=214 trace=89f85b250f0b6b2d
+2025-05-09T18:01:24.320Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=192 trace=f57b40f1fd9390d4
+2025-05-09T18:01:24.657Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=257 trace=6b8789238177bb4a
+2025-05-09T18:01:24.983Z INFO  [api-gateway-1] GET /api/v1/items 200 35ms rps=230 trace=7ad23566aea45e75
+2025-05-09T18:01:25.388Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=185 trace=664eacd6b39bde72
+2025-05-09T18:01:25.974Z INFO  [api-gateway-0] GET /api/v1/items 200 14ms rps=236 trace=91a032c3262e1092
+2025-05-09T18:01:26.447Z INFO  [api-gateway-0] GET /api/v1/items 200 19ms rps=198 trace=a653b51a71caafd3
+2025-05-09T18:01:26.789Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=229 trace=e96d7310e36aa82c
+2025-05-09T18:01:27.047Z INFO  [api-gateway-2] GET /api/v1/items 200 5ms rps=180 trace=2b36d0dce2c3be60
+2025-05-09T18:01:27.581Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=200 trace=1d067cef22d334e3
+2025-05-09T18:01:27.686Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=207 trace=72266d63553741ce
+2025-05-09T18:01:27.913Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=216 trace=0c7283c8ef7d15d6
+2025-05-09T18:01:28.296Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=234 trace=133e1c34c7bc70f0
+2025-05-09T18:01:28.447Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=222 trace=66d295e97856bc9f
+2025-05-09T18:01:28.698Z INFO  [api-gateway-0] GET /api/v1/items 200 16ms rps=240 trace=4d16f53f7ea89ee4
+2025-05-09T18:01:29.052Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=189 trace=ec6f69cb6b519bc5
+2025-05-09T18:01:29.253Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=221 trace=b95530650f7bff88
+2025-05-09T18:01:29.719Z INFO  [api-gateway-0] GET /api/v1/items 200 37ms rps=210 trace=d81db13a23d28f31
+2025-05-09T18:01:30.318Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=216 trace=2bdf50413fb1d951
+2025-05-09T18:01:30.923Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=201 trace=be65933998507bc0
+2025-05-09T18:01:31.231Z INFO  [api-gateway-0] GET /api/v1/items 200 26ms rps=233 trace=b24bf439de62947a
+2025-05-09T18:01:31.500Z INFO  [api-gateway-1] GET /api/v1/items 200 9ms rps=195 trace=187bebdd8267824c
+2025-05-09T18:01:31.776Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=233 trace=d8aca7087f0d4b2e
+2025-05-09T18:01:32.475Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=205 trace=13bc8e9f5e729ad1
+2025-05-09T18:01:32.695Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=196 trace=b3e1cace17010ad7
+2025-05-09T18:01:33.252Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=258 trace=c5187745fa946816
+2025-05-09T18:01:33.914Z INFO  [api-gateway-1] GET /api/v1/items 200 31ms rps=210 trace=fabc3adaa5fa3587
+2025-05-09T18:01:34.337Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=195 trace=4012e931a5b3955e
+2025-05-09T18:01:34.737Z INFO  [api-gateway-1] GET /api/v1/items 200 27ms rps=251 trace=44b08adcd8c6d311
+2025-05-09T18:01:34.934Z INFO  [api-gateway-1] GET /api/v1/items 200 29ms rps=185 trace=626d36c3405114ac
+2025-05-09T18:01:35.296Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=202 trace=e9419b7cebd9c929
+2025-05-09T18:01:35.645Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=194 trace=2467679eb323f926
+2025-05-09T18:01:36.338Z INFO  [api-gateway-2] GET /api/v1/items 200 10ms rps=248 trace=c709ba36412e56ed
+2025-05-09T18:01:36.879Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=188 trace=b3115e425a513ab2
+2025-05-09T18:01:37.403Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=234 trace=4738e242ce58722e
+2025-05-09T18:01:37.755Z INFO  [api-gateway-2] GET /api/v1/items 200 35ms rps=183 trace=a387a03a359e355f
+2025-05-09T18:01:38.378Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=204 trace=1eb231b1030bdb85
+2025-05-09T18:01:38.847Z INFO  [api-gateway-0] GET /api/v1/items 200 10ms rps=257 trace=03df4d0c8dd6875c
+2025-05-09T18:01:39.134Z INFO  [api-gateway-1] GET /api/v1/items 200 34ms rps=256 trace=51c28ec77ce2fd5b
+2025-05-09T18:01:39.500Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=233 trace=5a849bb170360927
+2025-05-09T18:01:39.804Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=259 trace=c1c4854fec2b1d4b
+2025-05-09T18:01:40.432Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=223 trace=a1264c5fcecca9b9
+2025-05-09T18:01:40.564Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=192 trace=17b3dc9280fff3f9
+2025-05-09T18:01:40.787Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=218 trace=512530b0fdf07eff
+2025-05-09T18:01:41.418Z INFO  [api-gateway-1] GET /api/v1/items 200 23ms rps=190 trace=741c8f56c207851a
+2025-05-09T18:01:41.494Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=220 trace=1e9924b5ab5bb14b
+2025-05-09T18:01:41.695Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=232 trace=83f5a1f5ce4c3c97
+2025-05-09T18:01:42.357Z INFO  [api-gateway-2] GET /api/v1/items 200 33ms rps=191 trace=25238824d1700be5
+2025-05-09T18:01:42.445Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=194 trace=23dfcd6d70627952
+2025-05-09T18:01:42.961Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=260 trace=9c1c4f94c757b997
+2025-05-09T18:01:43.340Z INFO  [api-gateway-0] GET /api/v1/items 200 26ms rps=233 trace=7e0bdfa9004adf3d
+2025-05-09T18:01:43.940Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=207 trace=59175b8a11c17ed9
+2025-05-09T18:01:44.253Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=232 trace=854281e454126b3c
+2025-05-09T18:01:44.501Z INFO  [api-gateway-1] GET /api/v1/items 200 34ms rps=185 trace=0f38ce7441dc098f
+2025-05-09T18:01:45.017Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=197 trace=3292b87398ac88b1
+2025-05-09T18:01:45.637Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=254 trace=00c378f37d5e8638
+2025-05-09T18:01:45.895Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=260 trace=79e0534828a91bf4
+2025-05-09T18:01:46.385Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=254 trace=a5577c4e35686c76
+2025-05-09T18:01:46.548Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=234 trace=e93b8f6a3b33bc7f
+2025-05-09T18:01:46.681Z INFO  [api-gateway-0] GET /api/v1/items 200 35ms rps=196 trace=5a4040cee878a6ae
+2025-05-09T18:01:46.813Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=248 trace=5913b5bac6ae60d4
+2025-05-09T18:01:47.300Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=239 trace=5ec4c555c6f1bd90
+2025-05-09T18:01:47.806Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=252 trace=25213b6ab29da378
+2025-05-09T18:01:48.003Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=229 trace=5bf90a099006755f
+2025-05-09T18:01:48.076Z INFO  [api-gateway-2] GET /api/v1/items 200 10ms rps=234 trace=f139ab52ab2c49e4
+2025-05-09T18:01:48.345Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=190 trace=394dc6cb511546ff
+2025-05-09T18:01:48.762Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=197 trace=97225ad90f132e2a
+2025-05-09T18:01:49.435Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=202 trace=1af38a072f2fb7bd
+2025-05-09T18:01:49.824Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=209 trace=b95727812fb3efb6
+2025-05-09T18:01:49.949Z INFO  [api-gateway-0] GET /api/v1/items 200 17ms rps=228 trace=7857006d50bd68c6
+2025-05-09T18:01:50.081Z INFO  [api-gateway-2] GET /api/v1/items 200 24ms rps=185 trace=7d3222ad73b0075c
+2025-05-09T18:01:50.484Z INFO  [api-gateway-0] GET /api/v1/items 200 35ms rps=192 trace=f7ff0188cb288059
+2025-05-09T18:01:50.792Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=256 trace=f58be6e357dd3e4d
+2025-05-09T18:01:51.375Z INFO  [api-gateway-0] GET /api/v1/items 200 15ms rps=222 trace=ee0b9d703357ae07
+2025-05-09T18:01:51.643Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=218 trace=712ffaf6e75ed972
+2025-05-09T18:01:51.760Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=206 trace=e5d906d416648583
+2025-05-09T18:01:52.225Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=186 trace=4920f4cf4bb5d23f
+2025-05-09T18:01:52.564Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=189 trace=db2e3914985802c3
+2025-05-09T18:01:53.029Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=211 trace=bb34d6116759ea52
+2025-05-09T18:01:53.681Z INFO  [api-gateway-1] GET /api/v1/items 200 33ms rps=209 trace=1022ef677ff85229
+2025-05-09T18:01:53.773Z INFO  [api-gateway-1] GET /api/v1/items 200 31ms rps=214 trace=4abd65e18bd959f8
+2025-05-09T18:01:54.222Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=217 trace=044e935a5e7eb2b8
+2025-05-09T18:01:54.729Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=222 trace=7dcef83294e12d44
+2025-05-09T18:01:55.155Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=259 trace=01ef79e40d403b0e
+2025-05-09T18:01:55.498Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=194 trace=078f7e673cd52998
+2025-05-09T18:01:56.030Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=183 trace=01ecff5e5c3afbf5
+2025-05-09T18:01:56.524Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=200 trace=6b4e34bf062987c0
+2025-05-09T18:01:56.667Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=243 trace=5800821518da8c6c
+2025-05-09T18:01:57.102Z INFO  [api-gateway-1] GET /api/v1/items 200 37ms rps=229 trace=f7f88f72cad5f876
+2025-05-09T18:01:57.287Z INFO  [api-gateway-2] GET /api/v1/items 200 24ms rps=239 trace=888c4434f54ca108
+2025-05-09T18:01:57.919Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=186 trace=c0853664d5426478
+2025-05-09T18:01:58.590Z INFO  [api-gateway-2] GET /api/v1/items 200 40ms rps=186 trace=799de4bb996a42af
+2025-05-09T18:01:58.765Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=254 trace=e5c199cf2a248e03
+2025-05-09T18:01:59.381Z INFO  [api-gateway-1] GET /api/v1/items 200 14ms rps=242 trace=bc4392631ccbfd68
+2025-05-09T18:02:00.070Z INFO  [api-gateway-1] GET /api/v1/items 200 32ms rps=180 trace=398153b5540691e2
+2025-05-09T18:02:00.497Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=190 trace=b59791bc68ccb83c
+2025-05-09T18:02:01.009Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=255 trace=b35d5ec3ef501858
+2025-05-09T18:02:01.589Z INFO  [api-gateway-0] GET /api/v1/items 200 7ms rps=236 trace=3fa9b0377ac2199f
+2025-05-09T18:02:01.975Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=254 trace=61ab6201e2a5a174
+2025-05-09T18:02:02.488Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=196 trace=8d7e7dd045fd828b
+2025-05-09T18:02:03.041Z INFO  [api-gateway-0] GET /api/v1/items 200 16ms rps=222 trace=690a16656269ce75
+2025-05-09T18:02:03.608Z INFO  [api-gateway-1] GET /api/v1/items 200 38ms rps=235 trace=9895da4f2215868d
+2025-05-09T18:02:03.966Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=209 trace=3e93bbf9b528e1c3
+2025-05-09T18:02:04.208Z INFO  [api-gateway-1] GET /api/v1/items 200 35ms rps=257 trace=597e4364b41747f0
+2025-05-09T18:02:04.549Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=196 trace=eeb4fd68173de522
+2025-05-09T18:02:04.803Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=210 trace=3e0c03b71986129d
+2025-05-09T18:02:04.964Z INFO  [api-gateway-0] GET /api/v1/items 200 21ms rps=250 trace=71c9d57d1a35a79b
+2025-05-09T18:02:05.288Z INFO  [api-gateway-2] GET /api/v1/items 200 35ms rps=196 trace=59e879d5bf2ec0db
+2025-05-09T18:02:05.849Z INFO  [api-gateway-1] GET /api/v1/items 200 38ms rps=257 trace=b34df9f1a98a34d0
+2025-05-09T18:02:06.221Z INFO  [api-gateway-2] GET /api/v1/items 200 13ms rps=198 trace=f888e70941e304cb
+2025-05-09T18:02:06.477Z INFO  [api-gateway-0] GET /api/v1/items 200 19ms rps=194 trace=098e135df3359dbe
+2025-05-09T18:02:06.936Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=252 trace=1303d2feae3800f6
+2025-05-09T18:02:07.036Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=187 trace=bb09b4d5830b91c6
+2025-05-09T18:02:07.575Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=205 trace=512f2a50aa4399ac
+2025-05-09T18:02:08.060Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=188 trace=e66aaf33c2e13f88
+2025-05-09T18:02:08.487Z INFO  [api-gateway-2] GET /api/v1/items 200 30ms rps=239 trace=3482a03ff175898e
+2025-05-09T18:02:08.680Z INFO  [api-gateway-1] GET /api/v1/items 200 33ms rps=250 trace=1bd09723b74284e8
+2025-05-09T18:02:08.880Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=211 trace=3a0c504fd5dc27ef
+2025-05-09T18:02:09.060Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=255 trace=224bd7b4e9bcf209
+2025-05-09T18:02:09.121Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=219 trace=2cd368859d18e608
+2025-05-09T18:02:09.523Z INFO  [api-gateway-0] GET /api/v1/items 200 26ms rps=189 trace=a9fe375d594cbaa0
+2025-05-09T18:02:09.618Z WARN  [ingress] Request rate jumped to 2400 rps (baseline 220 rps) after marketing campaign launch
+2025-05-09T18:02:10.220Z WARN  [hpa] api-gateway at maxReplicas=3, desired=14, cannot scale further
+2025-05-09T18:02:10.313Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=257 trace=cede79857c20af8b
+2025-05-09T18:02:10.428Z INFO  [api-gateway-1] GET /api/v1/items 200 34ms rps=181 trace=9d44b8fa99ec6b07
+2025-05-09T18:02:11.084Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1496
+2025-05-09T18:02:11.750Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=5d0454525dac5781
+2025-05-09T18:02:11.853Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:12.553Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=242 trace=32ab514697ea611b
+2025-05-09T18:02:12.628Z INFO  [api-gateway-2] GET /api/v1/items 200 18ms rps=239 trace=e5aea08fe675b22a
+2025-05-09T18:02:13.317Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=250 trace=eae04f4e5368d67d
+2025-05-09T18:02:13.716Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=220 trace=1089a7a6465457cf
+2025-05-09T18:02:13.855Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2051
+2025-05-09T18:02:14.299Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=1fd479e0be7ae43d
+2025-05-09T18:02:14.432Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:14.994Z INFO  [api-gateway-1] GET /api/v1/items 200 27ms rps=185 trace=9f25432556e76bab
+2025-05-09T18:02:15.234Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=218 trace=530f190a39ec55be
+2025-05-09T18:02:15.288Z INFO  [api-gateway-2] GET /api/v1/items 200 24ms rps=233 trace=b02999ffe5407ea3
+2025-05-09T18:02:15.626Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=247 trace=441ae0db9c87bc02
+2025-05-09T18:02:16.213Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1067
+2025-05-09T18:02:16.670Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=e4d0ffbc597103d1
+2025-05-09T18:02:17.001Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:17.650Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=228 trace=58be01820e255fc0
+2025-05-09T18:02:17.823Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=248 trace=9df53debc676341f
+2025-05-09T18:02:18.024Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=259 trace=9acc6bb970335939
+2025-05-09T18:02:18.538Z INFO  [api-gateway-0] GET /api/v1/items 200 29ms rps=220 trace=f6e84b8c82a80639
+2025-05-09T18:02:18.853Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2603
+2025-05-09T18:02:19.287Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=11e9f95ad27092d0
+2025-05-09T18:02:19.350Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:19.487Z INFO  [api-gateway-0] GET /api/v1/items 200 15ms rps=218 trace=9b6c59927434e06b
+2025-05-09T18:02:19.964Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=206 trace=bedd2eb4e3933bd0
+2025-05-09T18:02:20.263Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=256 trace=cf6fc66194ef1f3f
+2025-05-09T18:02:20.380Z INFO  [api-gateway-1] GET /api/v1/items 200 11ms rps=245 trace=b0417a40f2e10048
+2025-05-09T18:02:20.549Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2959
+2025-05-09T18:02:21.187Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=d33e951a004fc455
+2025-05-09T18:02:21.361Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:21.909Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=183 trace=b3328bf572de96d1
+2025-05-09T18:02:22.224Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=180 trace=77a87f4aece58a31
+2025-05-09T18:02:22.383Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=233 trace=b831f244544aa369
+2025-05-09T18:02:23.015Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=245 trace=d5b2106e869bcb4b
+2025-05-09T18:02:23.337Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2001
+2025-05-09T18:02:23.734Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=c56e23b415eca6cf
+2025-05-09T18:02:24.179Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:24.428Z INFO  [api-gateway-0] GET /api/v1/items 200 5ms rps=192 trace=1753dd7ef6a475c5
+2025-05-09T18:02:25.071Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=240 trace=e80319c329cde3f0
+2025-05-09T18:02:25.161Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=259 trace=f49f1f1e63c62d58
+2025-05-09T18:02:25.504Z INFO  [api-gateway-1] GET /api/v1/items 200 19ms rps=190 trace=04a119b7389fe2ef
+2025-05-09T18:02:25.694Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1454
+2025-05-09T18:02:26.239Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=6b81406b94b36ad9
+2025-05-09T18:02:26.702Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:27.303Z INFO  [api-gateway-1] GET /api/v1/items 200 24ms rps=204 trace=6e321560884ef1b1
+2025-05-09T18:02:27.448Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=225 trace=9e9912b79bfe4162
+2025-05-09T18:02:28.015Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=196 trace=5285f17c3b83aff8
+2025-05-09T18:02:28.262Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=199 trace=f797461680d38c5c
+2025-05-09T18:02:28.810Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1685
+2025-05-09T18:02:29.404Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=0d241e1e7e20afa1
+2025-05-09T18:02:29.821Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:29.929Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=185 trace=e1617dd000a2c867
+2025-05-09T18:02:30.331Z INFO  [api-gateway-0] GET /api/v1/items 200 27ms rps=185 trace=f2b3766d3427eb81
+2025-05-09T18:02:30.814Z INFO  [api-gateway-0] GET /api/v1/items 200 19ms rps=192 trace=88cdc10e5bf9b696
+2025-05-09T18:02:31.159Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=236 trace=ced6cd86196e3533
+2025-05-09T18:02:31.467Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1311
+2025-05-09T18:02:31.756Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=64abf40393862c98
+2025-05-09T18:02:32.067Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:32.664Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=248 trace=b6fd3dc23db7c0b7
+2025-05-09T18:02:33.163Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=208 trace=32f4e8eafa805d26
+2025-05-09T18:02:33.330Z INFO  [api-gateway-1] GET /api/v1/items 200 23ms rps=208 trace=fd024cb28da26675
+2025-05-09T18:02:33.461Z INFO  [api-gateway-2] GET /api/v1/items 200 27ms rps=233 trace=0ccb5ea9dc4a1f95
+2025-05-09T18:02:34.042Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1010
+2025-05-09T18:02:34.728Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=7671fa33d9615b74
+2025-05-09T18:02:35.167Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:35.381Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=251 trace=feddcfa035673da8
+2025-05-09T18:02:35.425Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=240 trace=58ac8a4e15640991
+2025-05-09T18:02:36.085Z INFO  [api-gateway-1] GET /api/v1/items 200 31ms rps=194 trace=a479ced0f4f79168
+2025-05-09T18:02:36.139Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=197 trace=9805847a062b76aa
+2025-05-09T18:02:36.440Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1361
+2025-05-09T18:02:37.079Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=73932d3d4dd40597
+2025-05-09T18:02:37.266Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:37.808Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=260 trace=28da35fcde1cc620
+2025-05-09T18:02:38.348Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=207 trace=586a399d512b56a0
+2025-05-09T18:02:38.594Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=238 trace=7073135e7932219c
+2025-05-09T18:02:38.772Z INFO  [api-gateway-1] GET /api/v1/items 200 22ms rps=235 trace=ddcd86d0c4d9b7c7
+2025-05-09T18:02:39.111Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1912
+2025-05-09T18:02:39.460Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=8d38aad29de4b548
+2025-05-09T18:02:39.565Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:40.188Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=251 trace=88f8e90891b6f372
+2025-05-09T18:02:40.295Z INFO  [api-gateway-1] GET /api/v1/items 200 34ms rps=190 trace=6adc47bec182b162
+2025-05-09T18:02:40.826Z INFO  [api-gateway-0] GET /api/v1/items 200 10ms rps=228 trace=8136f71275177943
+2025-05-09T18:02:41.317Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=252 trace=686e81e19f205d99
+2025-05-09T18:02:41.505Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2678
+2025-05-09T18:02:41.609Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=1eb4942d23241cfc
+2025-05-09T18:02:42.169Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:42.644Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=193 trace=13c2e7d6d3cadc63
+2025-05-09T18:02:43.308Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=250 trace=28dfe3e4ae31f09c
+2025-05-09T18:02:43.630Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=186 trace=332381ec05c11f55
+2025-05-09T18:02:44.025Z INFO  [api-gateway-1] GET /api/v1/items 200 11ms rps=197 trace=1103f7c397548571
+2025-05-09T18:02:44.330Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=990
+2025-05-09T18:02:44.592Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=583f59008f0e7847
+2025-05-09T18:02:45.050Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:45.301Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=207 trace=697ce9ae040fe775
+2025-05-09T18:02:45.370Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=199 trace=03eeed45a59a2471
+2025-05-09T18:02:45.769Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=211 trace=9d520c272f93f098
+2025-05-09T18:02:46.014Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=215 trace=9b4c23c2ba5d4dc5
+2025-05-09T18:02:46.629Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1876
+2025-05-09T18:02:46.871Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=be40866b42160ee4
+2025-05-09T18:02:47.127Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:47.521Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=254 trace=41dc057006c04806
+2025-05-09T18:02:47.599Z INFO  [api-gateway-1] GET /api/v1/items 200 12ms rps=185 trace=9c4561ad950c536d
+2025-05-09T18:02:47.892Z INFO  [api-gateway-0] GET /api/v1/items 200 9ms rps=192 trace=c6d3674330de8f73
+2025-05-09T18:02:48.077Z INFO  [api-gateway-1] GET /api/v1/items 200 22ms rps=204 trace=e295186b5d070d7c
+2025-05-09T18:02:48.118Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1508
+2025-05-09T18:02:48.776Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=ef6c280d94a52e46
+2025-05-09T18:02:49.064Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:49.341Z INFO  [api-gateway-2] GET /api/v1/items 200 25ms rps=192 trace=9aa0dca261171258
+2025-05-09T18:02:49.964Z INFO  [api-gateway-1] GET /api/v1/items 200 20ms rps=230 trace=2a8afd0bdd307f0a
+2025-05-09T18:02:50.234Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=211 trace=1e0b25485def1012
+2025-05-09T18:02:50.718Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=217 trace=e3fee83284964b15
+2025-05-09T18:02:51.378Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=944
+2025-05-09T18:02:51.593Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=c95939ff8ec4f96b
+2025-05-09T18:02:52.198Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:52.479Z INFO  [api-gateway-1] GET /api/v1/items 200 12ms rps=253 trace=4fedfe05708c8835
+2025-05-09T18:02:52.627Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=253 trace=84b3938a657edcea
+2025-05-09T18:02:53.131Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=258 trace=b1a69b6615d6d918
+2025-05-09T18:02:53.404Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=205 trace=3182761501e8aa99
+2025-05-09T18:02:53.525Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2944
+2025-05-09T18:02:53.741Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=a480804d95cd4226
+2025-05-09T18:02:54.395Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:54.926Z INFO  [api-gateway-1] GET /api/v1/items 200 14ms rps=217 trace=76c67fe981b7465d
+2025-05-09T18:02:55.503Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=207 trace=bbbb5bb046b4f822
+2025-05-09T18:02:55.645Z INFO  [api-gateway-2] GET /api/v1/items 200 24ms rps=258 trace=8c81ae9444ee2a87
+2025-05-09T18:02:55.898Z INFO  [api-gateway-1] GET /api/v1/items 200 24ms rps=227 trace=6eb1c6b9c348fe8d
+2025-05-09T18:02:56.442Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1558
+2025-05-09T18:02:56.846Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=257835ccf43981b3
+2025-05-09T18:02:57.402Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:02:57.973Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=229 trace=16432a33704fce03
+2025-05-09T18:02:58.135Z INFO  [api-gateway-0] GET /api/v1/items 200 25ms rps=255 trace=b7f10b0ec0aff896
+2025-05-09T18:02:58.805Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=242 trace=d67d06b89a9c3167
+2025-05-09T18:02:59.494Z INFO  [api-gateway-2] GET /api/v1/items 200 40ms rps=226 trace=d8ce0650aac69074
+2025-05-09T18:03:00.107Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1170
+2025-05-09T18:03:00.708Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=0cc914cbb42349a2
+2025-05-09T18:03:01.186Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:01.718Z INFO  [api-gateway-2] GET /api/v1/items 200 15ms rps=230 trace=9ec1b4c682e92ba1
+2025-05-09T18:03:02.124Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=183 trace=275c4ce2e377047e
+2025-05-09T18:03:02.345Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=201 trace=845d749291032b11
+2025-05-09T18:03:02.612Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=237 trace=8c86426a0186fac3
+2025-05-09T18:03:02.856Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1117
+2025-05-09T18:03:03.548Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=75baf8cbc9095e09
+2025-05-09T18:03:03.755Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:04.173Z INFO  [api-gateway-1] GET /api/v1/items 200 23ms rps=194 trace=8a054c559d05a37c
+2025-05-09T18:03:04.695Z INFO  [api-gateway-2] GET /api/v1/items 200 5ms rps=252 trace=6cbb065d996f0bb1
+2025-05-09T18:03:05.066Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=223 trace=83c917f88c25a9f1
+2025-05-09T18:03:05.709Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=242 trace=49b97c5a582c3998
+2025-05-09T18:03:06.254Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2614
+2025-05-09T18:03:06.531Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=70024f9f3568b1e1
+2025-05-09T18:03:06.807Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:07.205Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=239 trace=a357a0cd9eb95d38
+2025-05-09T18:03:07.729Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=210 trace=fa14c9ac9e8d4f78
+2025-05-09T18:03:08.328Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=226 trace=6f3693ba412c5a52
+2025-05-09T18:03:08.815Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=257 trace=9f616a27dc3857d7
+2025-05-09T18:03:09.125Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2595
+2025-05-09T18:03:09.568Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=6c37441666a89699
+2025-05-09T18:03:10.199Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:10.774Z INFO  [api-gateway-2] GET /api/v1/items 200 32ms rps=251 trace=f33224303bfd8bd7
+2025-05-09T18:03:10.969Z INFO  [api-gateway-2] GET /api/v1/items 200 17ms rps=191 trace=fce471785b3410c9
+2025-05-09T18:03:11.135Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=186 trace=d1864e31dfaac08a
+2025-05-09T18:03:11.457Z INFO  [api-gateway-0] GET /api/v1/items 200 16ms rps=243 trace=d7ffadc51af56e2c
+2025-05-09T18:03:11.969Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1477
+2025-05-09T18:03:12.343Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=af38d8b803411b60
+2025-05-09T18:03:12.437Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:12.799Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=258 trace=baa81a88a5ee1692
+2025-05-09T18:03:13.084Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=184 trace=99452349ac5afc8c
+2025-05-09T18:03:13.369Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=226 trace=b88bb3de7aca6ccd
+2025-05-09T18:03:13.521Z INFO  [api-gateway-1] GET /api/v1/items 200 32ms rps=241 trace=3342794339662c79
+2025-05-09T18:03:13.723Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2791
+2025-05-09T18:03:14.042Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=966a38723b76422e
+2025-05-09T18:03:14.141Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:14.809Z INFO  [api-gateway-0] GET /api/v1/items 200 8ms rps=203 trace=816578d454b2583e
+2025-05-09T18:03:15.256Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=209 trace=b052c0eb02ce0c6c
+2025-05-09T18:03:15.896Z INFO  [api-gateway-1] GET /api/v1/items 200 7ms rps=222 trace=ff133a043dc0fa5b
+2025-05-09T18:03:16.429Z INFO  [api-gateway-1] GET /api/v1/items 200 17ms rps=245 trace=2d78d167a07ccf34
+2025-05-09T18:03:16.726Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1221
+2025-05-09T18:03:16.801Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=158c545f1c151c63
+2025-05-09T18:03:16.885Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:16.955Z INFO  [api-gateway-0] GET /api/v1/items 200 21ms rps=255 trace=53ebb5b27244a86d
+2025-05-09T18:03:17.145Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=259 trace=71ee8f203b6db981
+2025-05-09T18:03:17.736Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=247 trace=04d963f23f8c1ab5
+2025-05-09T18:03:17.882Z INFO  [api-gateway-0] GET /api/v1/items 200 10ms rps=244 trace=2f400ea8390eb26a
+2025-05-09T18:03:18.561Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1836
+2025-05-09T18:03:18.891Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=f183a41a01f968da
+2025-05-09T18:03:19.310Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:19.813Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=243 trace=663cc86efb9cc923
+2025-05-09T18:03:20.123Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=221 trace=684312b1b014513a
+2025-05-09T18:03:20.487Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=225 trace=642bd183d86cb004
+2025-05-09T18:03:20.751Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=241 trace=830aa5434ccd8967
+2025-05-09T18:03:20.941Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1838
+2025-05-09T18:03:21.394Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=3f71e0220480aa34
+2025-05-09T18:03:21.761Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:22.334Z INFO  [api-gateway-1] GET /api/v1/items 200 39ms rps=234 trace=c89c0ea985302bc2
+2025-05-09T18:03:22.751Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=242 trace=9acb52537df830de
+2025-05-09T18:03:23.050Z INFO  [api-gateway-1] GET /api/v1/items 200 32ms rps=256 trace=1416513b7add6504
+2025-05-09T18:03:23.453Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=230 trace=d87acdf538b8f898
+2025-05-09T18:03:23.623Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=901
+2025-05-09T18:03:23.802Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=8eaf829fe84b0a4b
+2025-05-09T18:03:24.151Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:24.203Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=201 trace=8c5ac09b0ba5d835
+2025-05-09T18:03:24.722Z INFO  [api-gateway-0] GET /api/v1/items 200 33ms rps=209 trace=c759fce6050ab6eb
+2025-05-09T18:03:25.278Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=245 trace=cce68ca704786c25
+2025-05-09T18:03:25.901Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=247 trace=2f563dde85a0f7d9
+2025-05-09T18:03:26.170Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1569
+2025-05-09T18:03:26.504Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=c9cfa12a8641416a
+2025-05-09T18:03:27.154Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:27.665Z INFO  [api-gateway-1] GET /api/v1/items 200 35ms rps=232 trace=d78f4d8a76217119
+2025-05-09T18:03:28.249Z INFO  [api-gateway-1] GET /api/v1/items 200 17ms rps=190 trace=dd17a1f3d3ebb75a
+2025-05-09T18:03:28.854Z INFO  [api-gateway-2] GET /api/v1/items 200 20ms rps=254 trace=11c0bd3b1a36b799
+2025-05-09T18:03:29.188Z INFO  [api-gateway-0] GET /api/v1/items 200 14ms rps=250 trace=9b70803d6fbc60a4
+2025-05-09T18:03:29.589Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1780
+2025-05-09T18:03:29.805Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=e6f021f64dbbfc2f
+2025-05-09T18:03:29.851Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:30.217Z INFO  [api-gateway-1] GET /api/v1/items 200 25ms rps=244 trace=110e906872a2e610
+2025-05-09T18:03:30.696Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=250 trace=e3ef5f83cf1e1dc2
+2025-05-09T18:03:31.334Z INFO  [api-gateway-1] GET /api/v1/items 200 33ms rps=237 trace=a6c475188407860b
+2025-05-09T18:03:31.664Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=214 trace=3b8913316af7264f
+2025-05-09T18:03:32.274Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2557
+2025-05-09T18:03:32.686Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=02b3465647f76323
+2025-05-09T18:03:33.010Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:33.537Z INFO  [api-gateway-2] GET /api/v1/items 200 13ms rps=189 trace=ff268f3be7219cc0
+2025-05-09T18:03:33.655Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=182 trace=e1691139a790deeb
+2025-05-09T18:03:33.853Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=224 trace=a44d7296f057b564
+2025-05-09T18:03:34.428Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=244 trace=1830bd56e74b013e
+2025-05-09T18:03:34.855Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2830
+2025-05-09T18:03:35.236Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=bd4467abd1336550
+2025-05-09T18:03:35.572Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:35.756Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=187 trace=94b1d556fbe97635
+2025-05-09T18:03:36.412Z INFO  [api-gateway-2] GET /api/v1/items 200 31ms rps=241 trace=6127daacefd3862b
+2025-05-09T18:03:36.522Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=246 trace=bfc40f364acbde12
+2025-05-09T18:03:37.126Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=243 trace=fea88a7c0bea88fc
+2025-05-09T18:03:37.516Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1739
+2025-05-09T18:03:37.766Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=c323d887de7623f7
+2025-05-09T18:03:38.336Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:38.514Z INFO  [api-gateway-2] GET /api/v1/items 200 40ms rps=214 trace=94d5c45a416ab8e2
+2025-05-09T18:03:39.035Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=185 trace=8d351f5a5a19d508
+2025-05-09T18:03:39.669Z INFO  [api-gateway-1] GET /api/v1/items 200 14ms rps=212 trace=1e537dce30d94550
+2025-05-09T18:03:40.107Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=238 trace=b3e71640bccfc425
+2025-05-09T18:03:40.559Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2335
+2025-05-09T18:03:40.933Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=ae466bc14943fae2
+2025-05-09T18:03:41.329Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:41.618Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=231 trace=16cde37b2dac7b02
+2025-05-09T18:03:41.770Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=229 trace=60e774d85e55fe8f
+2025-05-09T18:03:42.061Z INFO  [api-gateway-1] GET /api/v1/items 200 24ms rps=226 trace=291e5c443e3269e5
+2025-05-09T18:03:42.262Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=217 trace=c9025bb3cbb2eb15
+2025-05-09T18:03:42.664Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1523
+2025-05-09T18:03:43.142Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=f97ccf77ec5ae371
+2025-05-09T18:03:43.393Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:43.940Z INFO  [api-gateway-1] GET /api/v1/items 200 29ms rps=237 trace=2b2525cd69c1a124
+2025-05-09T18:03:44.587Z INFO  [api-gateway-1] GET /api/v1/items 200 9ms rps=183 trace=910dc6295d48195d
+2025-05-09T18:03:44.962Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=180 trace=c1118280f816019e
+2025-05-09T18:03:45.502Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=181 trace=b98d57c67c283675
+2025-05-09T18:03:45.595Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1130
+2025-05-09T18:03:45.786Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=aa99f420ef5b5dd9
+2025-05-09T18:03:46.152Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:46.823Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=253 trace=bf00b024f4b42dfd
+2025-05-09T18:03:47.322Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=247 trace=da3c82d24f6224d0
+2025-05-09T18:03:47.702Z INFO  [api-gateway-1] GET /api/v1/items 200 25ms rps=211 trace=88f96d8a0f998c70
+2025-05-09T18:03:47.823Z INFO  [api-gateway-1] GET /api/v1/items 200 36ms rps=191 trace=0cde5ab09f494469
+2025-05-09T18:03:48.505Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2342
+2025-05-09T18:03:48.856Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=2ea5c6c43baee8ab
+2025-05-09T18:03:49.325Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:49.482Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=247 trace=c203e5d3c1478ed4
+2025-05-09T18:03:49.685Z INFO  [api-gateway-2] GET /api/v1/items 200 11ms rps=242 trace=886ef3be14540ca1
+2025-05-09T18:03:49.868Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=200 trace=6fbd73f04c105b70
+2025-05-09T18:03:50.435Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=219 trace=4839e3755fc79a31
+2025-05-09T18:03:50.503Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=943
+2025-05-09T18:03:50.941Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=d3b5f76d312ad21c
+2025-05-09T18:03:51.089Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:51.571Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=199 trace=1302eb2db61f9339
+2025-05-09T18:03:52.077Z INFO  [api-gateway-1] GET /api/v1/items 200 32ms rps=249 trace=bb99cd572293dc86
+2025-05-09T18:03:52.390Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=241 trace=2bfcce181aabde11
+2025-05-09T18:03:53.087Z INFO  [api-gateway-1] GET /api/v1/items 200 33ms rps=248 trace=01f8f9ec0ac09dd4
+2025-05-09T18:03:53.428Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1262
+2025-05-09T18:03:53.867Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=52975a217aa62fd0
+2025-05-09T18:03:54.200Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:54.563Z INFO  [api-gateway-2] GET /api/v1/items 200 23ms rps=223 trace=77aa84f0647634ab
+2025-05-09T18:03:54.604Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=184 trace=f63837a162c8b1f1
+2025-05-09T18:03:54.954Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=249 trace=ae7b7a97cda2f269
+2025-05-09T18:03:55.101Z INFO  [api-gateway-2] GET /api/v1/items 200 32ms rps=258 trace=68b646f5a0a90299
+2025-05-09T18:03:55.240Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2206
+2025-05-09T18:03:55.740Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=acf1d1f9a7a297a6
+2025-05-09T18:03:55.993Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:56.534Z INFO  [api-gateway-1] GET /api/v1/items 200 19ms rps=247 trace=0e188ff2d647e817
+2025-05-09T18:03:56.822Z INFO  [api-gateway-2] GET /api/v1/items 200 15ms rps=240 trace=fe953c5ef82584c9
+2025-05-09T18:03:57.486Z INFO  [api-gateway-1] GET /api/v1/items 200 37ms rps=245 trace=bf39f332f7e6259c
+2025-05-09T18:03:57.922Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=237 trace=b08ae65106877f88
+2025-05-09T18:03:58.441Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1911
+2025-05-09T18:03:59.051Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=bb8d7baab3673d26
+2025-05-09T18:03:59.244Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:03:59.803Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=190 trace=a8ddeaaee18802c8
+2025-05-09T18:03:59.889Z INFO  [api-gateway-2] GET /api/v1/items 200 36ms rps=216 trace=0c7465a782cdaec4
+2025-05-09T18:04:00.350Z INFO  [api-gateway-0] GET /api/v1/items 200 25ms rps=205 trace=cb6dac3be985d920
+2025-05-09T18:04:00.901Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=258 trace=d4a4b43eb5cc5d00
+2025-05-09T18:04:01.340Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1538
+2025-05-09T18:04:01.864Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=1bd70618f3ae797f
+2025-05-09T18:04:02.090Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:02.306Z INFO  [api-gateway-1] GET /api/v1/items 200 18ms rps=201 trace=44515fab751b85b4
+2025-05-09T18:04:02.851Z INFO  [api-gateway-0] GET /api/v1/items 200 15ms rps=220 trace=e75c6e410a88ae6a
+2025-05-09T18:04:02.952Z INFO  [api-gateway-2] GET /api/v1/items 200 18ms rps=212 trace=f3a21c4abaf976cd
+2025-05-09T18:04:03.425Z INFO  [api-gateway-1] GET /api/v1/items 200 14ms rps=195 trace=8af8b149a62a4728
+2025-05-09T18:04:03.942Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2062
+2025-05-09T18:04:04.053Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=bb6d20a0488af0ce
+2025-05-09T18:04:04.180Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:04.834Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=203 trace=4c1da2c7be8b64f4
+2025-05-09T18:04:05.053Z INFO  [api-gateway-0] GET /api/v1/items 200 16ms rps=189 trace=5d6d8081fce6b549
+2025-05-09T18:04:05.671Z INFO  [api-gateway-0] GET /api/v1/items 200 7ms rps=228 trace=1f7b9c3d69ce6a16
+2025-05-09T18:04:06.355Z INFO  [api-gateway-2] GET /api/v1/items 200 19ms rps=213 trace=c4d501a914ec78dd
+2025-05-09T18:04:06.789Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1647
+2025-05-09T18:04:07.228Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=7b1c5a8bc033aedd
+2025-05-09T18:04:07.278Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:07.645Z INFO  [api-gateway-0] GET /api/v1/items 200 15ms rps=228 trace=3922121ebbe64ac2
+2025-05-09T18:04:08.133Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=189 trace=da98b3197509b714
+2025-05-09T18:04:08.254Z INFO  [api-gateway-1] GET /api/v1/items 200 12ms rps=252 trace=15c2ac21d0b94194
+2025-05-09T18:04:08.882Z INFO  [api-gateway-2] GET /api/v1/items 200 33ms rps=244 trace=fa05d8c777d9c180
+2025-05-09T18:04:08.928Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2486
+2025-05-09T18:04:09.424Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=a321ab7b2de6c58c
+2025-05-09T18:04:09.806Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:10.294Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=236 trace=7eca487ae57b4fdd
+2025-05-09T18:04:10.688Z INFO  [api-gateway-0] GET /api/v1/items 200 24ms rps=256 trace=9ea75d3176702b96
+2025-05-09T18:04:11.299Z INFO  [api-gateway-2] GET /api/v1/items 200 38ms rps=208 trace=fdaae00e2b247a19
+2025-05-09T18:04:11.787Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=226 trace=bc166d25ea5953ad
+2025-05-09T18:04:12.122Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1138
+2025-05-09T18:04:12.490Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=0e261ddcf27829df
+2025-05-09T18:04:12.673Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:13.000Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=218 trace=d2e84ac57a319784
+2025-05-09T18:04:13.249Z INFO  [api-gateway-2] GET /api/v1/items 200 5ms rps=225 trace=6fa66835737ee416
+2025-05-09T18:04:13.340Z INFO  [api-gateway-0] GET /api/v1/items 200 6ms rps=257 trace=9aba172e9d05bf1d
+2025-05-09T18:04:13.933Z INFO  [api-gateway-2] GET /api/v1/items 200 9ms rps=242 trace=70595f918f88724e
+2025-05-09T18:04:14.508Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2047
+2025-05-09T18:04:14.679Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=8e5b56ea391e7ee6
+2025-05-09T18:04:14.878Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:15.412Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=241 trace=fdaa227395e053b1
+2025-05-09T18:04:15.734Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=213 trace=bee303865fe5d943
+2025-05-09T18:04:15.982Z INFO  [api-gateway-2] GET /api/v1/items 200 37ms rps=228 trace=a15135edcca5c8eb
+2025-05-09T18:04:16.565Z INFO  [api-gateway-2] GET /api/v1/items 200 24ms rps=220 trace=011cfdf15bd64261
+2025-05-09T18:04:16.877Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1365
+2025-05-09T18:04:17.048Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=2d4b365df8b1abe2
+2025-05-09T18:04:17.184Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:17.620Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=242 trace=5fdac4ea572f5c1e
+2025-05-09T18:04:17.988Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=194 trace=df322689616ffd32
+2025-05-09T18:04:18.358Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=235 trace=4e8c08edfaeb2a0a
+2025-05-09T18:04:18.787Z INFO  [api-gateway-2] GET /api/v1/items 200 18ms rps=237 trace=f7eac5b7d8e5a123
+2025-05-09T18:04:18.909Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2738
+2025-05-09T18:04:19.007Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=48e5ad2da5b5834c
+2025-05-09T18:04:19.072Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:19.209Z INFO  [api-gateway-2] GET /api/v1/items 200 10ms rps=260 trace=bc599d9a1414cc07
+2025-05-09T18:04:19.337Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=260 trace=c5ad858fea7dedae
+2025-05-09T18:04:19.920Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=217 trace=1f57e0d4c6f7aa91
+2025-05-09T18:04:20.479Z INFO  [api-gateway-0] GET /api/v1/items 200 18ms rps=241 trace=ddc55c7c90f7018b
+2025-05-09T18:04:20.694Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1385
+2025-05-09T18:04:21.333Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=647bfb2614e60b63
+2025-05-09T18:04:21.815Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:22.150Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=231 trace=1dc62c0ac25b7939
+2025-05-09T18:04:22.312Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=240 trace=6bd38da9ec3fe2b8
+2025-05-09T18:04:22.576Z INFO  [api-gateway-0] GET /api/v1/items 200 18ms rps=231 trace=5999856f25fc597f
+2025-05-09T18:04:22.759Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=181 trace=7ab7969699d1ba57
+2025-05-09T18:04:22.876Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2534
+2025-05-09T18:04:23.557Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=0ee32e625a5716c2
+2025-05-09T18:04:24.199Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:24.690Z INFO  [api-gateway-0] GET /api/v1/items 200 29ms rps=238 trace=03baae1724fb4cb5
+2025-05-09T18:04:25.256Z INFO  [api-gateway-1] GET /api/v1/items 200 9ms rps=220 trace=65ed03d523528f80
+2025-05-09T18:04:25.816Z INFO  [api-gateway-2] GET /api/v1/items 200 39ms rps=254 trace=7e8197a7367d05bf
+2025-05-09T18:04:26.453Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=186 trace=d765ae897b3e250f
+2025-05-09T18:04:27.103Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1389
+2025-05-09T18:04:27.320Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=4a7a141e6650fcc9
+2025-05-09T18:04:28.002Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:28.139Z INFO  [api-gateway-2] GET /api/v1/items 200 32ms rps=208 trace=691e5a1bb249879c
+2025-05-09T18:04:28.253Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=203 trace=9c86f372f626ff78
+2025-05-09T18:04:28.484Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=249 trace=a3d78543411505a1
+2025-05-09T18:04:29.169Z INFO  [api-gateway-0] GET /api/v1/items 200 19ms rps=180 trace=312655509aa8ef1a
+2025-05-09T18:04:29.454Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=913
+2025-05-09T18:04:30.049Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=21f6e255b1ccf398
+2025-05-09T18:04:30.397Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:30.654Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=258 trace=a0473a248196ed43
+2025-05-09T18:04:30.966Z INFO  [api-gateway-2] GET /api/v1/items 200 19ms rps=231 trace=7c42eb853d0c61b7
+2025-05-09T18:04:31.092Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=216 trace=77a31d7994c7f1d0
+2025-05-09T18:04:31.220Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=215 trace=7397e73625767c41
+2025-05-09T18:04:31.775Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=823
+2025-05-09T18:04:32.248Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=6d5c4dad62201e67
+2025-05-09T18:04:32.657Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:33.013Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=241 trace=0144a0cc046e689f
+2025-05-09T18:04:33.512Z INFO  [api-gateway-2] GET /api/v1/items 200 35ms rps=220 trace=bbaf7b363b4f195a
+2025-05-09T18:04:34.031Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=238 trace=ea3e526c5a76be81
+2025-05-09T18:04:34.419Z INFO  [api-gateway-0] GET /api/v1/items 200 27ms rps=198 trace=20fc90b7bd82a025
+2025-05-09T18:04:34.818Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2516
+2025-05-09T18:04:35.295Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=4ac748771d18c9ce
+2025-05-09T18:04:35.366Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:35.895Z INFO  [api-gateway-1] GET /api/v1/items 200 7ms rps=256 trace=e8a7337086313134
+2025-05-09T18:04:36.057Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=240 trace=02b79595bda60565
+2025-05-09T18:04:36.583Z INFO  [api-gateway-2] GET /api/v1/items 200 40ms rps=238 trace=5dd48e6f88b32370
+2025-05-09T18:04:37.163Z INFO  [api-gateway-1] GET /api/v1/items 200 20ms rps=204 trace=8048a9800fe98fff
+2025-05-09T18:04:37.794Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1706
+2025-05-09T18:04:38.208Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=7efe3f56a2d4a8ca
+2025-05-09T18:04:38.250Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:38.503Z INFO  [api-gateway-0] GET /api/v1/items 200 30ms rps=243 trace=b89422f6ae1351a0
+2025-05-09T18:04:39.023Z INFO  [api-gateway-1] GET /api/v1/items 200 12ms rps=229 trace=5420bc89f9388e8b
+2025-05-09T18:04:39.157Z INFO  [api-gateway-2] GET /api/v1/items 200 33ms rps=258 trace=9cd64b67d401ddaa
+2025-05-09T18:04:39.362Z INFO  [api-gateway-2] GET /api/v1/items 200 37ms rps=213 trace=b10ecaf7fd455aa9
+2025-05-09T18:04:39.847Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2735
+2025-05-09T18:04:39.960Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=36508afcfcb95955
+2025-05-09T18:04:40.038Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:40.464Z INFO  [api-gateway-2] GET /api/v1/items 200 19ms rps=256 trace=e5ee2f937c4746f1
+2025-05-09T18:04:40.670Z INFO  [api-gateway-2] GET /api/v1/items 200 19ms rps=255 trace=e4b14507e02d597e
+2025-05-09T18:04:41.350Z INFO  [api-gateway-0] GET /api/v1/items 200 9ms rps=187 trace=2141a4634a96a80b
+2025-05-09T18:04:42.019Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=217 trace=4e6cf8a580ee1be4
+2025-05-09T18:04:42.371Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1512
+2025-05-09T18:04:42.945Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=d7c828d1180015c7
+2025-05-09T18:04:43.626Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:43.947Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=218 trace=f3f6940119d24da2
+2025-05-09T18:04:44.164Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=253 trace=529ce45f9c7cc035
+2025-05-09T18:04:44.582Z INFO  [api-gateway-0] GET /api/v1/items 200 8ms rps=191 trace=af7edba962ee3bd1
+2025-05-09T18:04:45.094Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=245 trace=faef9b6c089af5ae
+2025-05-09T18:04:45.413Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1137
+2025-05-09T18:04:46.000Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=cf8f00bfa92527a5
+2025-05-09T18:04:46.129Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:46.714Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=198 trace=e8ee4c887de2725f
+2025-05-09T18:04:47.273Z INFO  [api-gateway-0] GET /api/v1/items 200 37ms rps=190 trace=a3df4146cbc86144
+2025-05-09T18:04:47.465Z INFO  [api-gateway-2] GET /api/v1/items 200 17ms rps=238 trace=c9fb7d28094f3e86
+2025-05-09T18:04:47.749Z INFO  [api-gateway-2] GET /api/v1/items 200 23ms rps=248 trace=994b82d60d4594fa
+2025-05-09T18:04:47.993Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2113
+2025-05-09T18:04:48.126Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=1732951ae0b0c94f
+2025-05-09T18:04:48.228Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:48.454Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=253 trace=95dde31f2b92eea7
+2025-05-09T18:04:48.569Z INFO  [api-gateway-0] GET /api/v1/items 200 9ms rps=257 trace=ff202b87eb4ec9c4
+2025-05-09T18:04:48.738Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=204 trace=c0898deed8d7bc52
+2025-05-09T18:04:49.390Z INFO  [api-gateway-2] GET /api/v1/items 200 14ms rps=197 trace=7005f00c3a8b7ad2
+2025-05-09T18:04:49.646Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1718
+2025-05-09T18:04:49.701Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=d87cebcfb2d4924f
+2025-05-09T18:04:50.105Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:50.152Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=194 trace=3a6c4a6744bda0f0
+2025-05-09T18:04:50.724Z INFO  [api-gateway-1] GET /api/v1/items 200 8ms rps=194 trace=b343be4cc5ae31df
+2025-05-09T18:04:50.884Z INFO  [api-gateway-2] GET /api/v1/items 200 30ms rps=196 trace=87c97e2a13904c87
+2025-05-09T18:04:51.464Z INFO  [api-gateway-0] GET /api/v1/items 200 8ms rps=216 trace=734543c7e65ca6b4
+2025-05-09T18:04:52.041Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2630
+2025-05-09T18:04:52.490Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=c271215e55d13827
+2025-05-09T18:04:52.888Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:53.142Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=185 trace=075d47d7363c049f
+2025-05-09T18:04:53.378Z INFO  [api-gateway-1] GET /api/v1/items 200 31ms rps=241 trace=a4160638d61f61a2
+2025-05-09T18:04:53.866Z INFO  [api-gateway-2] GET /api/v1/items 200 19ms rps=240 trace=94e0ca3b374162a0
+2025-05-09T18:04:54.167Z INFO  [api-gateway-1] GET /api/v1/items 200 33ms rps=212 trace=b89b68561593039f
+2025-05-09T18:04:54.671Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1835
+2025-05-09T18:04:54.821Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=0702a5d64a711b04
+2025-05-09T18:04:55.207Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:55.449Z INFO  [api-gateway-1] GET /api/v1/items 200 29ms rps=185 trace=3cf9f78f37d3c229
+2025-05-09T18:04:55.758Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=199 trace=ebc7733fafb9d366
+2025-05-09T18:04:55.808Z INFO  [api-gateway-0] GET /api/v1/items 200 7ms rps=204 trace=503b717f01d9d6e9
+2025-05-09T18:04:56.428Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=202 trace=e2eddb0bd5a4f14e
+2025-05-09T18:04:56.546Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1031
+2025-05-09T18:04:56.613Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=562dfd4def8ed6ff
+2025-05-09T18:04:56.840Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:57.214Z INFO  [api-gateway-0] GET /api/v1/items 200 25ms rps=224 trace=20b9d2439cb63f65
+2025-05-09T18:04:57.268Z INFO  [api-gateway-2] GET /api/v1/items 200 18ms rps=232 trace=0f37f2e95191e879
+2025-05-09T18:04:57.487Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=194 trace=70873e284cf8b9c8
+2025-05-09T18:04:57.850Z INFO  [api-gateway-0] GET /api/v1/items 200 20ms rps=192 trace=2012f34dfe9c2522
+2025-05-09T18:04:58.215Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2254
+2025-05-09T18:04:58.323Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=f6624784fa3a70c0
+2025-05-09T18:04:58.957Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:04:59.229Z INFO  [api-gateway-2] GET /api/v1/items 200 8ms rps=231 trace=1c25a5488b6b1376
+2025-05-09T18:04:59.767Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=260 trace=8622d57bd11f2e2d
+2025-05-09T18:05:00.054Z INFO  [api-gateway-0] GET /api/v1/items 200 5ms rps=258 trace=09c10e5a174bb5e8
+2025-05-09T18:05:00.306Z INFO  [api-gateway-2] GET /api/v1/items 200 24ms rps=182 trace=efcfea68fe6bd4a3
+2025-05-09T18:05:00.651Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2841
+2025-05-09T18:05:01.190Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=86b899f316ae0617
+2025-05-09T18:05:01.232Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:01.899Z INFO  [api-gateway-0] GET /api/v1/items 200 16ms rps=224 trace=5222ebf3ba7c6160
+2025-05-09T18:05:01.987Z INFO  [api-gateway-1] GET /api/v1/items 200 5ms rps=234 trace=cc9e99e4d1518464
+2025-05-09T18:05:02.517Z INFO  [api-gateway-0] GET /api/v1/items 200 8ms rps=213 trace=c5cb5154c3ddd7e0
+2025-05-09T18:05:02.857Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=234 trace=9404239af614208f
+2025-05-09T18:05:03.534Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=2857
+2025-05-09T18:05:03.960Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=8e7ff58ed34ddb67
+2025-05-09T18:05:04.345Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:04.801Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=247 trace=cbaccfa8144b3fef
+2025-05-09T18:05:05.109Z INFO  [api-gateway-2] GET /api/v1/items 200 16ms rps=225 trace=963375c8d09d419d
+2025-05-09T18:05:05.349Z INFO  [api-gateway-0] GET /api/v1/items 200 35ms rps=225 trace=ca5d27667f5f5dac
+2025-05-09T18:05:05.845Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=220 trace=d0dfa6405edd9b29
+2025-05-09T18:05:06.260Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1079
+2025-05-09T18:05:06.883Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=b4a6d25d230b3f03
+2025-05-09T18:05:07.241Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:07.439Z INFO  [api-gateway-0] GET /api/v1/items 200 10ms rps=218 trace=436a550ec7e336fc
+2025-05-09T18:05:07.819Z INFO  [api-gateway-2] GET /api/v1/items 200 33ms rps=191 trace=b905142a1ed049c9
+2025-05-09T18:05:08.305Z INFO  [api-gateway-2] GET /api/v1/items 200 29ms rps=239 trace=f3ed80e0c1a21174
+2025-05-09T18:05:08.670Z INFO  [api-gateway-2] GET /api/v1/items 200 10ms rps=243 trace=23a3be9b31bb9c66
+2025-05-09T18:05:09.127Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1996
+2025-05-09T18:05:09.825Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=b2e5e8427f970753
+2025-05-09T18:05:10.463Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:10.721Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=191 trace=6852d7b9b9551f90
+2025-05-09T18:05:10.823Z INFO  [api-gateway-1] GET /api/v1/items 200 11ms rps=198 trace=1863ad855f6d5c71
+2025-05-09T18:05:11.112Z INFO  [api-gateway-0] GET /api/v1/items 200 7ms rps=248 trace=5630334834b8356c
+2025-05-09T18:05:11.516Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=235 trace=2854ad32e9f62139
+2025-05-09T18:05:12.009Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1124
+2025-05-09T18:05:12.392Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=cce37d8c9caf5904
+2025-05-09T18:05:12.938Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:13.496Z INFO  [api-gateway-0] GET /api/v1/items 200 31ms rps=213 trace=94d8c1a4e807054d
+2025-05-09T18:05:13.592Z INFO  [api-gateway-2] GET /api/v1/items 200 19ms rps=238 trace=cb3768e2cb464ba2
+2025-05-09T18:05:13.954Z INFO  [api-gateway-1] GET /api/v1/items 200 10ms rps=235 trace=4bc73d20b673dc97
+2025-05-09T18:05:14.511Z INFO  [api-gateway-0] GET /api/v1/items 200 22ms rps=251 trace=b6e31f400d905f8e
+2025-05-09T18:05:14.902Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1806
+2025-05-09T18:05:15.305Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=9f68efa4b8fc0995
+2025-05-09T18:05:15.883Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:16.159Z INFO  [api-gateway-1] GET /api/v1/items 200 15ms rps=251 trace=9c86b82061a9e2c6
+2025-05-09T18:05:16.673Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=229 trace=fa9166928a0c3eb3
+2025-05-09T18:05:16.991Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=259 trace=3b685061fc3d4101
+2025-05-09T18:05:17.135Z INFO  [api-gateway-0] GET /api/v1/items 200 9ms rps=259 trace=e1c482fab0cd9b02
+2025-05-09T18:05:17.654Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1899
+2025-05-09T18:05:18.324Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=15afb94b618ae2e7
+2025-05-09T18:05:18.764Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:19.460Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=191 trace=54515c38f58fe200
+2025-05-09T18:05:19.564Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=260 trace=e93d9e6c42111561
+2025-05-09T18:05:19.604Z INFO  [api-gateway-0] GET /api/v1/items 200 18ms rps=247 trace=2a357bf5198e1eaf
+2025-05-09T18:05:20.022Z INFO  [api-gateway-0] GET /api/v1/items 200 34ms rps=203 trace=5abb7b91ebb11afe
+2025-05-09T18:05:20.212Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1772
+2025-05-09T18:05:20.626Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=f7f4c9f9996d2dd0
+2025-05-09T18:05:20.684Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:21.092Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=228 trace=474f8604f2fb53ea
+2025-05-09T18:05:21.703Z INFO  [api-gateway-2] GET /api/v1/items 200 12ms rps=241 trace=9f92388c89852936
+2025-05-09T18:05:22.125Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=215 trace=4a8e51b0d73b9c1d
+2025-05-09T18:05:22.397Z INFO  [api-gateway-2] GET /api/v1/items 200 26ms rps=191 trace=1dfa18777e1c98e0
+2025-05-09T18:05:22.956Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1603
+2025-05-09T18:05:23.411Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=c4337d0434d93a8f
+2025-05-09T18:05:23.973Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:24.030Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=194 trace=1ee8407174d10653
+2025-05-09T18:05:24.113Z INFO  [api-gateway-1] GET /api/v1/items 200 35ms rps=189 trace=895bad2437e03d4f
+2025-05-09T18:05:24.232Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=180 trace=39c4cd3ff3315711
+2025-05-09T18:05:24.928Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=205 trace=e101af8800ef38f8
+2025-05-09T18:05:25.218Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1409
+2025-05-09T18:05:25.720Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=64de0d7fa625b73b
+2025-05-09T18:05:26.292Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:26.414Z INFO  [api-gateway-2] GET /api/v1/items 200 40ms rps=222 trace=08a48bd1e6526d0c
+2025-05-09T18:05:27.064Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=234 trace=92b2bdecc0f40514
+2025-05-09T18:05:27.555Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=183 trace=7289a1f73961f826
+2025-05-09T18:05:27.896Z INFO  [api-gateway-1] GET /api/v1/items 200 35ms rps=233 trace=e2dca8a7c1978e35
+2025-05-09T18:05:28.165Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=827
+2025-05-09T18:05:28.657Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=15957ceeefe01e2b
+2025-05-09T18:05:29.139Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:29.282Z INFO  [api-gateway-0] GET /api/v1/items 200 12ms rps=220 trace=4dc527e8a3d779d7
+2025-05-09T18:05:29.533Z INFO  [api-gateway-0] GET /api/v1/items 200 13ms rps=185 trace=b087effbe8f12f00
+2025-05-09T18:05:29.689Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=250 trace=bfcf70c1caf56a9a
+2025-05-09T18:05:30.159Z INFO  [api-gateway-0] GET /api/v1/items 200 39ms rps=247 trace=bd50be0c79f9be5a
+2025-05-09T18:05:30.731Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1078
+2025-05-09T18:05:31.119Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=fa2c1eb02841f81c
+2025-05-09T18:05:31.189Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:31.480Z INFO  [api-gateway-0] GET /api/v1/items 200 16ms rps=225 trace=b9882d1f2a147332
+2025-05-09T18:05:31.678Z INFO  [api-gateway-2] GET /api/v1/items 200 28ms rps=259 trace=28f04b6bf4994cf2
+2025-05-09T18:05:32.207Z INFO  [api-gateway-0] GET /api/v1/items 200 36ms rps=182 trace=6d52ca0d1eec3a84
+2025-05-09T18:05:32.793Z INFO  [api-gateway-2] GET /api/v1/items 200 32ms rps=191 trace=a4fe0eea719e6fc5
+2025-05-09T18:05:33.254Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1239
+2025-05-09T18:05:33.621Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=e941717f9e08fadb
+2025-05-09T18:05:34.290Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:34.389Z INFO  [api-gateway-0] GET /api/v1/items 200 23ms rps=187 trace=6622b17c524d9a1d
+2025-05-09T18:05:35.034Z INFO  [api-gateway-2] GET /api/v1/items 200 31ms rps=188 trace=d6cf62968ea3adf7
+2025-05-09T18:05:35.563Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=184 trace=29bf3b8576422db0
+2025-05-09T18:05:35.671Z INFO  [api-gateway-0] GET /api/v1/items 200 6ms rps=200 trace=5840a23505f62bcc
+2025-05-09T18:05:35.733Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2347
+2025-05-09T18:05:35.889Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=9eea4a7262f72f0f
+2025-05-09T18:05:36.049Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:36.334Z INFO  [api-gateway-2] GET /api/v1/items 200 27ms rps=232 trace=6e16514ec42c6703
+2025-05-09T18:05:37.032Z INFO  [api-gateway-0] GET /api/v1/items 200 11ms rps=240 trace=6c679ec79feadef5
+2025-05-09T18:05:37.542Z INFO  [api-gateway-1] GET /api/v1/items 200 40ms rps=239 trace=51160da5b0cf3279
+2025-05-09T18:05:37.993Z INFO  [api-gateway-2] GET /api/v1/items 200 35ms rps=187 trace=63803bffae493584
+2025-05-09T18:05:38.230Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=1364
+2025-05-09T18:05:38.285Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=3326e05c4584f80f
+2025-05-09T18:05:38.721Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:39.249Z INFO  [api-gateway-1] GET /api/v1/items 200 28ms rps=200 trace=63d36de5beb94e3d
+2025-05-09T18:05:39.802Z INFO  [api-gateway-2] GET /api/v1/items 200 37ms rps=260 trace=2d98828bd716a140
+2025-05-09T18:05:40.423Z INFO  [api-gateway-0] GET /api/v1/items 200 32ms rps=249 trace=95472469ae22724c
+2025-05-09T18:05:40.674Z INFO  [api-gateway-1] GET /api/v1/items 200 6ms rps=212 trace=f62443ef9024168c
+2025-05-09T18:05:41.216Z WARN  [api-gateway-1] CPU throttled 97% (limit 500m) queue_depth=2642
+2025-05-09T18:05:41.556Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=e3a0f30af6f97ad7
+2025-05-09T18:05:41.836Z ERROR [api-gateway-0] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:42.391Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=238 trace=74e91f065f449a95
+2025-05-09T18:05:42.516Z INFO  [api-gateway-1] GET /api/v1/items 200 30ms rps=183 trace=c565ec54736faa4f
+2025-05-09T18:05:43.047Z INFO  [api-gateway-1] GET /api/v1/items 200 26ms rps=248 trace=2a74c091172ac62a
+2025-05-09T18:05:43.433Z INFO  [api-gateway-0] GET /api/v1/items 200 38ms rps=232 trace=7e5ef251d5b90250
+2025-05-09T18:05:43.892Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1827
+2025-05-09T18:05:44.538Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=0c70a79a0002e793
+2025-05-09T18:05:44.786Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:45.377Z INFO  [api-gateway-1] GET /api/v1/items 200 13ms rps=239 trace=c2c8fabcbc76e422
+2025-05-09T18:05:45.965Z INFO  [api-gateway-2] GET /api/v1/items 200 27ms rps=244 trace=1cf6d49e22d763e9
+2025-05-09T18:05:46.612Z INFO  [api-gateway-2] GET /api/v1/items 200 34ms rps=205 trace=612e2c70b4801f21
+2025-05-09T18:05:47.075Z INFO  [api-gateway-2] GET /api/v1/items 200 5ms rps=213 trace=dcfcece90019f5a1
+2025-05-09T18:05:47.660Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=2871
+2025-05-09T18:05:48.288Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=485e63b605b47246
+2025-05-09T18:05:48.803Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:49.173Z INFO  [api-gateway-2] GET /api/v1/items 200 13ms rps=255 trace=f094564f768d9821
+2025-05-09T18:05:49.664Z INFO  [api-gateway-0] GET /api/v1/items 200 28ms rps=250 trace=a0d0457bbff04993
+2025-05-09T18:05:50.271Z INFO  [api-gateway-2] GET /api/v1/items 200 22ms rps=208 trace=132f8e8757e0b9c0
+2025-05-09T18:05:50.742Z INFO  [api-gateway-2] GET /api/v1/items 200 6ms rps=258 trace=64d33864d0f9deac
+2025-05-09T18:05:51.407Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1990
+2025-05-09T18:05:51.615Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=71651eb813602600
+2025-05-09T18:05:51.990Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:52.597Z INFO  [api-gateway-0] GET /api/v1/items 200 39ms rps=220 trace=922d5a8f97538683
+2025-05-09T18:05:53.064Z INFO  [api-gateway-1] GET /api/v1/items 200 16ms rps=243 trace=8e8624295c32b28f
+2025-05-09T18:05:53.362Z INFO  [api-gateway-1] GET /api/v1/items 200 31ms rps=244 trace=a180c9ff88c99e7b
+2025-05-09T18:05:53.812Z INFO  [api-gateway-1] GET /api/v1/items 200 21ms rps=241 trace=6320bfcf71799738
+2025-05-09T18:05:53.923Z WARN  [api-gateway-2] CPU throttled 97% (limit 500m) queue_depth=1196
+2025-05-09T18:05:54.060Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=826c83dc883ea441
+2025-05-09T18:05:54.386Z ERROR [api-gateway-1] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:54.528Z INFO  [api-gateway-0] GET /api/v1/items 200 40ms rps=218 trace=4083b507cc36fc74
+2025-05-09T18:05:54.719Z INFO  [api-gateway-1] GET /api/v1/items 200 34ms rps=252 trace=dcfe7e81c318c7b6
+2025-05-09T18:05:55.140Z INFO  [api-gateway-2] GET /api/v1/items 200 7ms rps=248 trace=2c86ecf7c2f7d1f8
+2025-05-09T18:05:55.580Z INFO  [api-gateway-1] GET /api/v1/items 200 32ms rps=191 trace=024a99de34ea3e32
+2025-05-09T18:05:56.251Z WARN  [api-gateway-0] CPU throttled 97% (limit 500m) queue_depth=1066
+2025-05-09T18:05:56.826Z ERROR [ingress] HTTP 504 GET /api/v1/items upstream api-gateway timed out after 30s req=b2d234f239547b11
+2025-05-09T18:05:56.999Z ERROR [api-gateway-2] worker pool exhausted: 64/64 busy, rejecting request
+2025-05-09T18:05:57.670Z INFO  [api-gateway-1] GET /api/v1/items 200 27ms rps=217 trace=146136582de8a219
+2025-05-09T18:05:58.332Z INFO  [api-gateway-2] GET /api/v1/items 200 21ms rps=248 trace=82eee184f4c670a3
+2025-05-09T18:05:58.553Z INFO  [api-gateway-2] GET /api/v1/items 200 35ms rps=228 trace=93233d93b4b79d75

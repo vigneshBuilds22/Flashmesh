@@ -1,0 +1,228 @@
+{
+  "upload_id": "aee2f36a6ce1",
+  "filename": "k8s_redis_oom.log",
+  "mock": false,
+  "log_preview": "2025-03-14T09:00:00.194Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6469 200 86ms trace=128b2f330c5c7fd0\n2025-03-14T09:00:01.074Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=9531985d5d9dc9f81818e811892f902b\n2025-03-14T09:00:01.173Z INFO  [redis-master-0] DB 0: 876946 keys, used_memory=444MB\n2025-03-14T09:00:01.251Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1409 200 58ms trace=11e20b8f6b0d549b\n2025-03-14T09:00:01.383Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9029 200 57ms trace=d3ac94af0f21ddb6\n2025-03-14T09:00:01.549Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3658 200 83ms trace=953f48f1a09f76b5\n2025-03-14T09:00:02.179Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9594 200 53ms trace=f9ebdacc0cb1e29c\n2025-03-14T09:00:02.266Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9121 200 20ms trace=6b4cb2424a23d596\n2025-03-14T09:00:02.859Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1930 200 76ms trace=8f6d05584ef8aa38\n2025-03-14T09:00:03.084Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1689 200 77ms trace=a38fd547923a7369\n2025-03-14T09:00:03.316Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=b64ce4228c38fb2918f135d25f557203\n2025-03-14T09:00:03.933Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/977 200 82ms trace=7f15052434b9b5df\n2025-03-14T09:00:04.517Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7006 200 43ms trace=95e761d17731af10\n2025-03-14T09:00:04.927Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4912 200 34ms trace=2e05319acb5c7427\n2025-03-14T09:00:05.765Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/4000 200 13ms trace=4cdd2055930d6eaf\n2025-03-14T09:00:06.342Z INFO  [redis-master-0] DB 0: 659583 keys, used_memory=492MB\n2025-03-14T09:00:07.128Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7354 200 39ms trace=faecbd389be4bcfc\n2025-03-14T09:00:07.288Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/8388 200 56ms trace=c1d3fcff2a3af4d4\n2025-03-14T09:00:07.483Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/8012 200 56ms trace=f646e1f40a097c97\n2025-03-14T09:00:08.207Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=92b1d3f28ede0d7ac3baea9e13deef86\n2025-03-14T09:00:08.595Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/5738 200 79ms trace=9474031b7f26144b\n2025-03-14T09:00:08.705Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/1534 200 37ms trace=b2715945795e8229\n2025-03-14T09:00:08.811Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/995 200 42ms trace=93f448b3a5aa3c81\n2025-03-14T09:00:09.692Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/7302 200 39ms trace=62c33a4fb774eb52\n2025-03-14T09:00:10.087Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/370 200 62ms trace=2b0537e65affb229\n2025-03-14T09:00:10.246Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/8089 200 10ms trace=c4aaeac137dc76fb\n2025-03-14T09:00:10.418Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4057 200 53ms trace=eab477d26415479c\n2025-03-14T09:00:10.966Z DEBUG [kubelet] SyncLoop (PLEG): event for pod celery-worker-5c6d7f8b9-q8w2z containerID=66d2287672fdf2022a96fb1a14a0f9e7\n2025-03-14T09:00:11.290Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2244 200 58ms trace=8cdb305fdd2e1609\n2025-03-14T09:00:11.615Z INFO  [redis-master-0] DB 0: 770355 keys, used_memory=433MB\n2025-03-14T09:00:12.354Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6234 200 32ms trace=153e7c2a26a2c0bd\n2025-03-14T09:00:12.548Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3801 200 87ms trace=0316909e3bbbe9ea\n2025-03-14T09:00:13.439Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/9653 200 26ms trace=482c9cbc43435cc5\n2025-03-14T09:00:13.628Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/6865 200 71ms trace=9c1caaf75e8766ed\n2025-03-14T09:00:13.994Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2057 200 68ms trace=9e1a8ef4f341e07a\n2025-03-14T09:00:14.726Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/885 200 61ms trace=def88334e647cb8f\n2025-03-14T09:00:15.564Z DEBUG [kubelet] SyncLoop (PLEG): event for pod checkout-svc-6b7c8d9e4-m3n5v containerID=cc4169a3ae3a2b7fdfe01893f3aed0b6\n2025-03-14T09:00:16.005Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/6522 200 54ms trace=1a81682c64e50cad\n2025-03-14T09:00:16.694Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/6561 200 10ms trace=113db17d30cbc97d\n2025-03-14T09:00:17.185Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/2660 200 17ms trace=99c94309570dc195\n2025-03-14T09:00:17.329Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/4 200 75ms trace=895fd7b326b94c7f\n2025-03-14T09:00:17.741Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/418 200 12ms trace=353c631cdfd43f37\n2025-03-14T09:00:18.409Z INFO  [redis-master-0] DB 0: 597252 keys, used_memory=399MB\n2025-03-14T09:00:18.707Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/5692 200 80ms trace=7961fd925d39d0a8\n2025-03-14T09:00:18.865Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/7997 200 62ms trace=7bdc968b7afb2c68\n2025-03-14T09:00:19.224Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=bfeaa1551a28f7b324e4e25a15fc899e\n2025-03-14T09:00:20.022Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/4338 200 64ms trace=b12aa1f6d42fddbb\n2025-03-14T09:00:20.590Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/379 200 29ms trace=f3b7a50df373ca53\n2025-03-14T09:00:21.000Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/2402 200 72ms trace=06ec41adea057543\n2025-03-14T09:00:21.345Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/1492 200 36ms trace=5de0099784b5a818\n2025-03-14T09:00:21.749Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3651 200 71ms trace=c77024208aa4248c\n2025-03-14T09:00:22.126Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/3655 200 81ms trace=c9d488b1cfbf3360\n2025-03-14T09:00:22.991Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/3923 200 54ms trace=cda6c6fdbd685167\n2025-03-14T09:00:23.263Z DEBUG [kubelet] SyncLoop (PLEG): event for pod api-gateway-7d9f8b6c5-x2k4p containerID=5b06258e7e26f36a8483f8b8332dd331\n2025-03-14T09:00:23.332Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/458 200 38ms trace=4259405278e4b98d\n2025-03-14T09:00:24.081Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/9915 200 47ms trace=cefe2a1f727d8349\n2025-03-14T09:00:24.861Z INFO  [redis-master-0] DB 0: 583248 keys, used_memory=426MB\n2025-03-14T09:00:25.126Z INFO  [api-gateway-7d9f8b6c5-x2k4p] GET /api/v1/items/1674 200 32ms trace=325b55dd78572976\n2025-03-14T09:00:25.375Z INFO  [celery-worker-5c6d7f8b9-q8w2z] GET /api/v1/items/7908 200 82ms trace=e67a9b75fc394724\n2025-03-14T09:00:26.275Z INFO  [checkout-svc-6b7c8d9e4-m3n5v] GET /api/v1/items/32 200 64ms trace=a72991b9e8c14743",
+  "state_graph": {
+    "state": {
+      "primary_root_cause": "Redis master pod exceeded its 512Mi memory limit, causing OOMKill, service termination, and subsequent Connection refused errors cascading to dependent services.",
+      "secondary_effects": [
+        "Connection refused to redis-master:6379",
+        "Celery workers unable to connect to redis",
+        "Checkout service returning HTTP 503",
+        "Task retry storms in orders.process",
+        "API gateway degraded functionality",
+        "Redis pod restart loop with back-off"
+      ],
+      "dependency_chain": [
+        "Redis master pod memory limit exceeded",
+        "OOMKill of redis container",
+        "Redis service becomes unavailable",
+        "Celery workers fail with ConnectionError",
+        "Checkout service returns 503 upstream unavailable",
+        "User-visible request failures and task retries"
+      ],
+      "severity": "critical",
+      "recommended_search_query": "redis-master pod OOMKilled fork Cannot allocate memory Connection refused Error 111 celery-worker checkout-svc 503"
+    },
+    "nodes": [
+      {
+        "id": "root",
+        "label": "Redis master pod exceeded its 512Mi memory limit, causing OOMKill, service termination, and subsequent Connection refused errors cascading to dependent services.",
+        "kind": "root_cause"
+      },
+      {
+        "id": "dep0",
+        "label": "Redis master pod memory limit exceeded",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep1",
+        "label": "OOMKill of redis container",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep2",
+        "label": "Redis service becomes unavailable",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep3",
+        "label": "Celery workers fail with ConnectionError",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep4",
+        "label": "Checkout service returns 503 upstream unavailable",
+        "kind": "dependency"
+      },
+      {
+        "id": "dep5",
+        "label": "User-visible request failures and task retries",
+        "kind": "dependency"
+      },
+      {
+        "id": "eff0",
+        "label": "Connection refused to redis-master:6379",
+        "kind": "effect"
+      },
+      {
+        "id": "eff1",
+        "label": "Celery workers unable to connect to redis",
+        "kind": "effect"
+      },
+      {
+        "id": "eff2",
+        "label": "Checkout service returning HTTP 503",
+        "kind": "effect"
+      },
+      {
+        "id": "eff3",
+        "label": "Task retry storms in orders.process",
+        "kind": "effect"
+      },
+      {
+        "id": "eff4",
+        "label": "API gateway degraded functionality",
+        "kind": "effect"
+      },
+      {
+        "id": "eff5",
+        "label": "Redis pod restart loop with back-off",
+        "kind": "effect"
+      }
+    ],
+    "edges": [
+      {
+        "source": "root",
+        "target": "dep0",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep0",
+        "target": "dep1",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep1",
+        "target": "dep2",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep2",
+        "target": "dep3",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep3",
+        "target": "dep4",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep4",
+        "target": "dep5",
+        "relation": "propagates_to"
+      },
+      {
+        "source": "dep5",
+        "target": "eff0",
+        "relation": "causes"
+      },
+      {
+        "source": "dep5",
+        "target": "eff1",
+        "relation": "causes"
+      },
+      {
+        "source": "dep5",
+        "target": "eff2",
+        "relation": "causes"
+      },
+      {
+        "source": "dep5",
+        "target": "eff3",
+        "relation": "causes"
+      },
+      {
+        "source": "dep5",
+        "target": "eff4",
+        "relation": "causes"
+      },
+      {
+        "source": "dep5",
+        "target": "eff5",
+        "relation": "causes"
+      }
+    ]
+  },
+  "grounding": {
+    "provider": "tavily",
+    "query": "redis-master pod OOMKilled fork Cannot allocate memory Connection refused Error 111 celery-worker checkout-svc 503",
+    "answer": "The sources indicate that the celery worker may experience issues connecting to Redis due to connection refusals (Error 111), which can be resolved by checking network connectivity, ensuring the Redis service is up and running, and verifying that the broker URL and credentials are correct. Additionally, the sources suggest that resource limits may cause the celery-worker pod to be OOMKilled, which can be addressed by increasing the memory and CPU limits in the deployment configuration. For Redis, the sources recommend checking the maximum client limit and connection timeouts, and implementing retry logic for transient failures.",
+    "results": [
+      {
+        "title": "worker stops consuming tasks after redis reconnection on celery 5 · celery/celery · Discussion #7276 · GitHub",
+        "url": "https://github.com/celery/celery/discussions/7276",
+        "snippet": "again in 6.00 seconds... (3/100) [2022-09-19 23:58:15,866: ERROR/MainProcess] consumer: Cannot connect to redis://:@accurate-axis-9558-redis:6379/0: Error 111 connecting to accurate-axis-9558-redis:6379. Connection refused.. Trying again in 8.00 seconds... (4/100) [2022-09-19 23:58:24,890: ERROR/MainProcess] consumer: Cannot connect to redis://:@accurate-axis-9558-redis:6379/0: Error 111 connecting to accurate-axis-9558-redis:6379. Connection refused.. Trying again in 10.00 seconds... (5/100) [2022-09-19 23:58:34,907: INFO/MainProcess] Connected to redis://:@accurate-axis-9558-redis:6379/0 [20",
+        "score": 0.486015
+      },
+      {
+        "title": "Celery Workers Won’t Start? Check These 5 Things First",
+        "url": "https://medium.com/@mathumathiv247/celery-workers-wont-start-check-these-5-things-first-c999215b57c5",
+        "snippet": "env:  \n - name: CELERY_BROKER_URL  \n value: \"amqp://user:pass@rabbitmq:5672/\"  \n - name: CELERY_RESULT_BACKEND  \n value: \"redis://redis:6379/0\"\nFor Redis Sentinel:\n\n- name: CELERY_BROKER_URL  \n value: \"sentinel://redis-sentinel:26379/0\"  \n - name: CELERY_RESULT_BACKEND   \n value: \"sentinel://redis-sentinel:26379/1\"\nFix with secretRef:\n\nenvFrom:  \n - secretRef:  \n name: celery-broker-secret  \n - configMapRef:  \n name: celery-config\n\n## 4. Network Connectivity Issues\n\nCredentials are correct, but workers can’t reach the broker.\n\nThe error:\n\n[ERROR] Cannot connect to amqp://rabbitmq:5672//: Conne",
+        "score": 0.40768766
+      },
+      {
+        "title": "How to Fix 'Connection refused' Errors in Redis",
+        "url": "https://oneuptime.com/blog/post/2026-01-25-redis-connection-refused-fix/view",
+        "snippet": "``` [...] ``` [...] Redis has a maximum client limit:\n\n```\n# Check current connections redis-cli CLIENT LIST | wc -l # Check maxclients setting redis-cli CONFIG GET maxclients # Increase if needed redis-cli CONFIG SET maxclients 20000 # Runtime change only; also update redis.conf or run CONFIG REWRITE # Or in redis.conf maxclients 20000\n```\n\n## Robust Connection Handling\n\nImplement retry logic for transient failures:",
+        "score": 0.39312926
+      },
+      {
+        "title": "Using Redis — Celery 5.7.0rc1 documentation",
+        "url": "https://docs.celeryq.dev/en/main/getting-started/backends-and-brokers/redis.html",
+        "snippet": "#### Additional connection errors¶\n\nAdded in version 5.7.\n\nSome Redis proxies or cloud providers may raise custom exceptions that Celery does not recognize as connection errors. To have these retried automatically, use the `additional_connection_errors` key under `result_backend_transport_options`:\n\n```\n app. conf. result_backend_transport_options ={'additional_connection_errors':('my_redis_proxy.CustomConnectionError',),}\n```\n\nBoth dotted import strings and exception classes are supported.\n\n## How Celery uses Redis¶ [...] To configure the global keyprefix for the Redis result backend, use the",
+        "score": 0.36745238
+      },
+      {
+        "title": "Redis Labs Recognized in the Latest Independent In-Memory Database Platforms Report",
+        "url": "https://finance.yahoo.com/news/redis-labs-recognized-latest-independent-224057051.html",
+        "snippet": "Oops, something went wrong\n\nSkip to navigation  Skip to right column \n\nSign in",
+        "score": 0.2662355
+      }
+    ]
+  },
+  "reasoning": {
+    "root_cause_analysis": "Redis master pod exceeded its 512Mi memory limit, causing OOMKill, service termination, and subsequent Connection refused errors cascading to dependent services.",
+    "remediation_plan": [
+      "Increase Redis master pod memory limit above current 512Mi threshold to prevent OOMKill",
+      "Review and adjust Redis maxclients configuration to handle expected connection volume",
+      "Implement connection retry and circuit breaker logic in Celery workers",
+      "Add resource monitoring and alerting for pod memory utilization",
+      "Restart Redis pod with updated configuration and verify service restoration"
+    ],
+    "fix_recommendation": "Increase Redis master pod memory limit, adjust maxclients setting, and implement connection retry logic in Celery configuration to prevent cascading failures.",
+    "confidence_score": 0.95
+  },
+  "metrics": {
+    "original_tokens": 57290,
+    "state_tokens": 161,
+    "tokens_saved": 57129,
+    "reduction_pct": 99.7,
+    "compression_ratio": 355.8,
+    "baseline_cost_usd": 0.03545,
+    "flashmesh_cost_usd": 0.0018,
+    "cost_saved_usd": 0.03365,
+    "cost_reduction_pct": 94.9,
+    "pipeline_tokens_used": 29600,
+    "dedup_lines_removed": 811,
+    "stage_latency_ms": {
+      "preprocess": 36,
+      "state_extraction": 26107,
+      "state_graph": 8,
+      "grounding": 7576,
+      "reasoning": 8530
+    },
+    "note": "Cost figures are estimates from configured per-token prices."
+  }
+}

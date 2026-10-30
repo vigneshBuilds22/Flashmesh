@@ -1,0 +1,964 @@
+2025-04-02T14:00:00.503Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=8201e2bd73ab4876
+2025-04-02T14:00:01.144Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=cdcc69292f45e678
+2025-04-02T14:00:01.708Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=9d2c67eda13ffe79
+2025-04-02T14:00:01.938Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=4dabb4817253edc6
+2025-04-02T14:00:02.123Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=cf44dd3f89e7d15f
+2025-04-02T14:00:02.812Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 25ms trace=fb710734986e86cb
+2025-04-02T14:00:03.257Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=bd299753a7677796
+2025-04-02T14:00:03.927Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=03d716849f8558a6
+2025-04-02T14:00:04.508Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=09208a650f3ebdd3
+2025-04-02T14:00:04.742Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=07b37e1499809225
+2025-04-02T14:00:05.257Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=97491e2370c6a5b8
+2025-04-02T14:00:05.497Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=a3ea284d3bd03346
+2025-04-02T14:00:05.838Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=a9964aef012d0ea6
+2025-04-02T14:00:05.965Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=4735af1ca7a11490
+2025-04-02T14:00:06.421Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=ee82ec3ffee5a5b2
+2025-04-02T14:00:06.546Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=c20ba2c250b601fc
+2025-04-02T14:00:06.821Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=079dd25a49fe85b0
+2025-04-02T14:00:06.932Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=1b98fbe466809a11
+2025-04-02T14:00:07.269Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=f542441d111b8aaa
+2025-04-02T14:00:07.326Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=35b00a5436a80bdf
+2025-04-02T14:00:07.419Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=faf8cda9601e5b45
+2025-04-02T14:00:07.865Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=90f5380e12b2a414
+2025-04-02T14:00:08.549Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=acc6d8f2c74c7ccf
+2025-04-02T14:00:08.865Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=4fab6f3e164f1513
+2025-04-02T14:00:09.245Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=68f918d8f6cdb2f8
+2025-04-02T14:00:09.405Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=b4ff00ae3f1347de
+2025-04-02T14:00:09.548Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=77064c2c0f552c94
+2025-04-02T14:00:10.086Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=8f2df760ae9ca08b
+2025-04-02T14:00:10.318Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=30d0b19482450164
+2025-04-02T14:00:10.492Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=623d8eb7a4ca83b2
+2025-04-02T14:00:10.651Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=fd7410696bb6a3de
+2025-04-02T14:00:10.908Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=dd44fd3645114889
+2025-04-02T14:00:11.554Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=e286852cff769e37
+2025-04-02T14:00:11.614Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=64ef2ebe2ff36007
+2025-04-02T14:00:12.270Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=fd42e0440ac793f5
+2025-04-02T14:00:12.459Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=421e7a607108e022
+2025-04-02T14:00:12.508Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=4bdbf090d48dd9f3
+2025-04-02T14:00:12.943Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=1711eb5713041452
+2025-04-02T14:00:13.196Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=99edbce703f8670d
+2025-04-02T14:00:13.613Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=740572419f452c07
+2025-04-02T14:00:13.783Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=931719fdd5157e9d
+2025-04-02T14:00:13.961Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=a0931ed42ecdcc0a
+2025-04-02T14:00:14.158Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=3a775505e88e752f
+2025-04-02T14:00:14.823Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=3096c6c8b9b338eb
+2025-04-02T14:00:15.025Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=afdd87333253b562
+2025-04-02T14:00:15.462Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=14186ebf9a8137e9
+2025-04-02T14:00:15.933Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=1bea85931a953cca
+2025-04-02T14:00:16.012Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=41536363f6724ba0
+2025-04-02T14:00:16.296Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=6bba8d2141c9886e
+2025-04-02T14:00:16.946Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 82ms trace=852395744b1e943e
+2025-04-02T14:00:17.165Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=3a782ebb205bc308
+2025-04-02T14:00:17.695Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=365fdcd647bc7548
+2025-04-02T14:00:17.943Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=44e9e4a511b41900
+2025-04-02T14:00:18.404Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=0f7a04433fc2a908
+2025-04-02T14:00:18.491Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=5e68b7ca482ea760
+2025-04-02T14:00:19.074Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=5cb58b8e1799e728
+2025-04-02T14:00:19.255Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=54ba1e74fb019df4
+2025-04-02T14:00:19.829Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=08fb09a0970216fc
+2025-04-02T14:00:19.887Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=5b8349cee903aefa
+2025-04-02T14:00:20.246Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=992ef43805713dc6
+2025-04-02T14:00:20.937Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=1138a4e47b73ccf8
+2025-04-02T14:00:21.295Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=ffd5e6d822f89909
+2025-04-02T14:00:21.409Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=8bcce7cd73fdc194
+2025-04-02T14:00:21.825Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 25ms trace=efae0b46e6733cb8
+2025-04-02T14:00:21.997Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=15bdc39d5a11cca5
+2025-04-02T14:00:22.521Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=db77b923df007dfa
+2025-04-02T14:00:22.988Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=7ffb20e6dd0c8b94
+2025-04-02T14:00:23.614Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=a98a372e9ffd6a18
+2025-04-02T14:00:24.045Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=032fbce3952a71b2
+2025-04-02T14:00:24.708Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=1734bc4414881edc
+2025-04-02T14:00:25.402Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=41d812cdfe4a5ce0
+2025-04-02T14:00:25.868Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=ef2b1ae56370903f
+2025-04-02T14:00:26.502Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=766e690070c61508
+2025-04-02T14:00:27.096Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=c00dc63d84c955f1
+2025-04-02T14:00:27.662Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=99edd4d14f6b8f60
+2025-04-02T14:00:27.791Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=3aefce2e05b4d756
+2025-04-02T14:00:27.946Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=9d5015e5c7aa8cf3
+2025-04-02T14:00:28.483Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=02e50777e57bae11
+2025-04-02T14:00:28.899Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=ad9a629624aa1734
+2025-04-02T14:00:29.565Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=2b6b5fce84b58297
+2025-04-02T14:00:29.955Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=e448373c7f914fe8
+2025-04-02T14:00:30.242Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=aa785c61679e2a61
+2025-04-02T14:00:30.538Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=6e4f2724a2592b9d
+2025-04-02T14:00:30.783Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=38363a3c62694354
+2025-04-02T14:00:31.420Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=22dc73ab35bb8498
+2025-04-02T14:00:31.597Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=d64be5f059ca6ef0
+2025-04-02T14:00:31.678Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=faf8dfcdf33335b6
+2025-04-02T14:00:32.001Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 41ms trace=735dc3271ce262d6
+2025-04-02T14:00:32.523Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=36cdf8a1ecfcc396
+2025-04-02T14:00:32.986Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=851d1a33a0301309
+2025-04-02T14:00:33.531Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=d6d076d0b75de6f2
+2025-04-02T14:00:34.210Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=131e2d48520235bc
+2025-04-02T14:00:34.282Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=9b88b1e5df71b994
+2025-04-02T14:00:34.364Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=5aadd0d29211a8d8
+2025-04-02T14:00:34.720Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=22c91b83a417a0fe
+2025-04-02T14:00:35.174Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=065479e4309e7f98
+2025-04-02T14:00:35.486Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=24105a49c77d357f
+2025-04-02T14:00:35.574Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=1be8bf7c724c9052
+2025-04-02T14:00:36.259Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=a3d1863ba7b0e693
+2025-04-02T14:00:36.676Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=32b36d01af3aeaa3
+2025-04-02T14:00:36.920Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=2dbe5f3d418bfbb0
+2025-04-02T14:00:36.971Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=b6d3e87988ebd524
+2025-04-02T14:00:37.048Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=45b90d8c39f90f81
+2025-04-02T14:00:37.442Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=f262b76db28302c1
+2025-04-02T14:00:38.014Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 84ms trace=ff2edc179d4c712e
+2025-04-02T14:00:38.217Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=cabc1222d94874ac
+2025-04-02T14:00:38.486Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=eebf1fce69155cca
+2025-04-02T14:00:38.923Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=741af2157354293c
+2025-04-02T14:00:39.164Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=8ccda80c60762560
+2025-04-02T14:00:39.786Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 84ms trace=d1c778e6cbf8f01a
+2025-04-02T14:00:40.177Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=a6bd134853935c55
+2025-04-02T14:00:40.426Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=ddbc8dddb8d0c65d
+2025-04-02T14:00:41.123Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=3e06d750369a9ad7
+2025-04-02T14:00:41.562Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=4f52d3fefa342b15
+2025-04-02T14:00:42.151Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=e8f51608430ac631
+2025-04-02T14:00:42.207Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 64ms trace=1530959b813547e2
+2025-04-02T14:00:42.285Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=8ce096585790db4f
+2025-04-02T14:00:42.756Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=eb7544127cc95bc2
+2025-04-02T14:00:42.825Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=de17b009cf23cf20
+2025-04-02T14:00:42.930Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 74ms trace=08fc9878ccc39dd2
+2025-04-02T14:00:43.147Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=afc3eec055c2d7f4
+2025-04-02T14:00:43.330Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=fff47593260f99dd
+2025-04-02T14:00:43.898Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=ad89f4a1d708b232
+2025-04-02T14:00:44.388Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=f2fbc7f994362459
+2025-04-02T14:00:44.516Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 48ms trace=86d369a0707df76f
+2025-04-02T14:00:45.128Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 57ms trace=ba9577c2d4c6e1b8
+2025-04-02T14:00:45.743Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 41ms trace=83a3980885d516a8
+2025-04-02T14:00:46.356Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=abda3a974fcb694e
+2025-04-02T14:00:46.786Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=d9cc24c34df0d47a
+2025-04-02T14:00:46.970Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=45e0dd428633abf8
+2025-04-02T14:00:47.596Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=693cc50d3372969f
+2025-04-02T14:00:48.184Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=014378ff80d004b2
+2025-04-02T14:00:48.843Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=89cf6d5a071afc55
+2025-04-02T14:00:48.928Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=668cab3cead7af87
+2025-04-02T14:00:49.525Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=17dd66217db4d3b5
+2025-04-02T14:00:49.735Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=89e9414eee4a9a3b
+2025-04-02T14:00:50.244Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=f4f51c13ebb86ee2
+2025-04-02T14:00:50.697Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=79211cb23f0c0a29
+2025-04-02T14:00:51.241Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=6f057e9556f55245
+2025-04-02T14:00:51.768Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 87ms trace=1bce1a9b5134fab7
+2025-04-02T14:00:52.004Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=0787b26d9e2e5be5
+2025-04-02T14:00:52.310Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=c77f7935b3bd4390
+2025-04-02T14:00:52.373Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=27d0c0a431b0f869
+2025-04-02T14:00:52.645Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=48b988aaafe17664
+2025-04-02T14:00:53.014Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=9ea901ac3e955df7
+2025-04-02T14:00:53.564Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=bb1bda5d7feacb06
+2025-04-02T14:00:54.200Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=82ae1988da1757a5
+2025-04-02T14:00:54.878Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=329e5b83b7baf0a6
+2025-04-02T14:00:55.461Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 75ms trace=60303f4505f3b66c
+2025-04-02T14:00:56.149Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=878354acd33efae9
+2025-04-02T14:00:56.819Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=344acadf89c666c4
+2025-04-02T14:00:57.505Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=37e56031a3729599
+2025-04-02T14:00:58.087Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=8afe332dd9ec0e3d
+2025-04-02T14:00:58.753Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=ea31df803b8f801c
+2025-04-02T14:00:59.435Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 64ms trace=2e5edcf4e715dfe5
+2025-04-02T14:00:59.798Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=ec3a74cde401278a
+2025-04-02T14:01:00.037Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=ff941dcdc73f9f68
+2025-04-02T14:01:00.276Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=e3939895224961dc
+2025-04-02T14:01:00.561Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=1690a1f7ba00eb1b
+2025-04-02T14:01:00.866Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=6f4edf0818d6084d
+2025-04-02T14:01:01.337Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=b47053deca393bf1
+2025-04-02T14:01:01.506Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=a0c4214d671c82fb
+2025-04-02T14:01:01.564Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=91e4f83433706a35
+2025-04-02T14:01:01.970Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=b467fb8a1d8b8694
+2025-04-02T14:01:02.527Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=ffa3601380b68be5
+2025-04-02T14:01:02.760Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=1b2e2cd77b692cda
+2025-04-02T14:01:02.824Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=8d3a57efc3123f99
+2025-04-02T14:01:03.492Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=9199165ce7b4b57e
+2025-04-02T14:01:04.024Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 38ms trace=2f3dc5543087bbf9
+2025-04-02T14:01:04.181Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=d71848a12c2869b6
+2025-04-02T14:01:04.382Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 56ms trace=ac45a7a5ed48d09d
+2025-04-02T14:01:04.519Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=f3952c0b226b5501
+2025-04-02T14:01:05.032Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=18c23ef0c3c4b8a0
+2025-04-02T14:01:05.406Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=6d2b653f778aae87
+2025-04-02T14:01:05.973Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=35c823a26e19ce13
+2025-04-02T14:01:06.628Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=a24e3cd303641712
+2025-04-02T14:01:06.709Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=686fcb682e67a853
+2025-04-02T14:01:07.213Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=5ec50631bd450232
+2025-04-02T14:01:07.668Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=2a4276e79ad8e8b1
+2025-04-02T14:01:07.805Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=03f26964cad764c4
+2025-04-02T14:01:08.176Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=d7872ca2cd3c9d6e
+2025-04-02T14:01:08.860Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=997fb91691d6cedc
+2025-04-02T14:01:09.095Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 84ms trace=fb90eed495a951a0
+2025-04-02T14:01:09.484Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=e94ae4a7478e5850
+2025-04-02T14:01:09.643Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=ef0d3b89d08c5c0a
+2025-04-02T14:01:10.098Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=54750733e583fa5d
+2025-04-02T14:01:10.689Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=6e803472c46bcb23
+2025-04-02T14:01:10.914Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=b8fe90a634f2bae5
+2025-04-02T14:01:11.143Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=577adfd3cc1e0437
+2025-04-02T14:01:11.491Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=02b653e419d22b97
+2025-04-02T14:01:11.895Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=45e1b9523b6b6092
+2025-04-02T14:01:12.241Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=a8e61cb5374ee8d7
+2025-04-02T14:01:12.696Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=13ab64108877e8e7
+2025-04-02T14:01:13.134Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=7f6262b4fff8987d
+2025-04-02T14:01:13.831Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=1e9eca4fb3852a64
+2025-04-02T14:01:14.275Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=9d8a9ea91d617a4c
+2025-04-02T14:01:14.425Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=7192d0d741b2bb99
+2025-04-02T14:01:14.876Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 84ms trace=c2e4e6be0ceabec7
+2025-04-02T14:01:15.116Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=1933f5a302c27e4b
+2025-04-02T14:01:15.420Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=e7d83cb64693bb1f
+2025-04-02T14:01:15.809Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=820074248a5d63c3
+2025-04-02T14:01:16.274Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=d8acacfd91670a0b
+2025-04-02T14:01:16.416Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=a5081794cf3d3dcd
+2025-04-02T14:01:16.534Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=ab1e2d9198f8285a
+2025-04-02T14:01:16.620Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=f0484de3ee1e8faf
+2025-04-02T14:01:16.823Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=f85680d178c55d1f
+2025-04-02T14:01:17.036Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=9c75bdf38abd7a2f
+2025-04-02T14:01:17.686Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=f1fd70376df8d816
+2025-04-02T14:01:18.232Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=86d9a0d348d0ca3e
+2025-04-02T14:01:18.680Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=87c8d1985d965853
+2025-04-02T14:01:19.012Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=450eb763a7b563e5
+2025-04-02T14:01:19.626Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 56ms trace=b77336dfa9e1374e
+2025-04-02T14:01:19.969Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=c5c1c59f03965226
+2025-04-02T14:01:20.259Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 25ms trace=28161d1ba20bcd9c
+2025-04-02T14:01:20.717Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=e5c551f80d83bd85
+2025-04-02T14:01:21.079Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=94ed581c0cd72b2b
+2025-04-02T14:01:21.445Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=e7d22e79cc2ef6d4
+2025-04-02T14:01:21.714Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 74ms trace=7a448c01b8188fd9
+2025-04-02T14:01:22.010Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=85fae26b0ba18f33
+2025-04-02T14:01:22.150Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=fa93ffce24f51339
+2025-04-02T14:01:22.441Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=9fceb71a0ce6ff6c
+2025-04-02T14:01:22.908Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=3422dc671e32f289
+2025-04-02T14:01:23.001Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=279c003c87318ae1
+2025-04-02T14:01:23.168Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=23c881e9715f8ae1
+2025-04-02T14:01:23.634Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=431ae9a999de7a2f
+2025-04-02T14:01:24.328Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=c728d4205d3068a3
+2025-04-02T14:01:24.911Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=4a45e625f3dfe313
+2025-04-02T14:01:25.082Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=1d267d547b299f4a
+2025-04-02T14:01:25.637Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=81e1d213c8c87666
+2025-04-02T14:01:26.316Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=4581ccd946565bb6
+2025-04-02T14:01:26.980Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=4754feb6a212e20c
+2025-04-02T14:01:27.265Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=3fbbe91bf3af6fdb
+2025-04-02T14:01:27.819Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=aee4438ee0f77d81
+2025-04-02T14:01:27.899Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=455c49ac026d0148
+2025-04-02T14:01:28.204Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 74ms trace=9f93cf9c06e32b27
+2025-04-02T14:01:28.282Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=8aa9746638f9c638
+2025-04-02T14:01:28.606Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=16210cc5c17b558b
+2025-04-02T14:01:28.810Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=a1901fe23c18d810
+2025-04-02T14:01:29.232Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=5aa640157a829d0a
+2025-04-02T14:01:29.487Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=7e91601b57fcc1f1
+2025-04-02T14:01:29.663Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=1eaa75e2cd606cdb
+2025-04-02T14:01:30.161Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=6ca2e0f971c02d3e
+2025-04-02T14:01:30.465Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=26934caccf5418e9
+2025-04-02T14:01:30.882Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=d61aa2f7a7561c51
+2025-04-02T14:01:31.532Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=8c71eebf4a777bc4
+2025-04-02T14:01:31.760Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 74ms trace=5e87db5aa75fdb6e
+2025-04-02T14:01:32.394Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=e00bad837646b25e
+2025-04-02T14:01:32.765Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=1540e4678b2b8834
+2025-04-02T14:01:33.247Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 82ms trace=af7195dcd0b78bc4
+2025-04-02T14:01:33.761Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=c687605dd2d0a678
+2025-04-02T14:01:33.810Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=36983b204f65b718
+2025-04-02T14:01:34.468Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=4dc62e13b1f266ea
+2025-04-02T14:01:35.014Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=e1b7cc2e486d2107
+2025-04-02T14:01:35.200Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 48ms trace=a84266115b98e36a
+2025-04-02T14:01:35.574Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=1e0cc26ce801c67e
+2025-04-02T14:01:35.944Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=9842bdd191bbfa2b
+2025-04-02T14:01:36.269Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=cd94a5b187bbec70
+2025-04-02T14:01:36.621Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=38a17111514f7eb0
+2025-04-02T14:01:37.070Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=1593d7243f90ee4f
+2025-04-02T14:01:37.480Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=5d020032062c8cac
+2025-04-02T14:01:37.925Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=31e8ed0dcbcf3248
+2025-04-02T14:01:38.542Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=63e7281ccc0d9ea1
+2025-04-02T14:01:39.135Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=975508c4d61cc2ca
+2025-04-02T14:01:39.751Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=16f92d8e2d35256c
+2025-04-02T14:01:40.256Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 56ms trace=05b0df09cfd589bd
+2025-04-02T14:01:40.522Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=8b4d861b0ec73bf6
+2025-04-02T14:01:40.724Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 57ms trace=05b816d3f7670afa
+2025-04-02T14:01:41.196Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=8bfc23a794fb5751
+2025-04-02T14:01:41.548Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=55a32d7215840cb1
+2025-04-02T14:01:41.671Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=1afbdbfdbcaff59d
+2025-04-02T14:01:42.032Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=a25636a306a54dcb
+2025-04-02T14:01:42.219Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=d0f5e23dbeec31bd
+2025-04-02T14:01:42.691Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=386f66b4b652f089
+2025-04-02T14:01:43.231Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=c3c3fd2856923185
+2025-04-02T14:01:43.741Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=567af36a59b676c2
+2025-04-02T14:01:44.121Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=7cf043d77e60a159
+2025-04-02T14:01:44.711Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=9e3fa055b548b46d
+2025-04-02T14:01:44.798Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=d383f380c1cdcb4d
+2025-04-02T14:01:45.195Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=60c311e0ce4ff021
+2025-04-02T14:01:45.326Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=8a955f72f531835b
+2025-04-02T14:01:46.021Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=5caf7c5c861b6fd3
+2025-04-02T14:01:46.071Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=ec6e8dac6beeb176
+2025-04-02T14:01:46.541Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 38ms trace=bdc165763ee7878b
+2025-04-02T14:01:46.747Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=2aeb77bdaf1f1a32
+2025-04-02T14:01:47.115Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=6cc934e163aaef93
+2025-04-02T14:01:47.696Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 57ms trace=f842359946277d8d
+2025-04-02T14:01:47.796Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=bb13c04c4ef639bc
+2025-04-02T14:01:47.953Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=27cfd9eea5e209d6
+2025-04-02T14:01:48.176Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=757143b0c0cd76a8
+2025-04-02T14:01:48.233Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=cce7406ee8c78d6d
+2025-04-02T14:01:48.310Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=329781d81bd22f34
+2025-04-02T14:01:48.538Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=969e272137a5307a
+2025-04-02T14:01:48.819Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=823444ef9843e602
+2025-04-02T14:01:49.088Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=e4ff53ee2f5b4f60
+2025-04-02T14:01:49.415Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=e92234f12c29d5e5
+2025-04-02T14:01:49.774Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=d12f5382f126abd5
+2025-04-02T14:01:50.377Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=42adcbd2da77c86b
+2025-04-02T14:01:50.913Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=f4a88795ea0c7c14
+2025-04-02T14:01:51.303Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=f4ff3847c58cd890
+2025-04-02T14:01:51.437Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=3893cca7dcd1debb
+2025-04-02T14:01:51.886Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=f290ae9637a8d7e7
+2025-04-02T14:01:52.063Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=870fe3aaf9dd055b
+2025-04-02T14:01:52.631Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=fd80bd72c9a548e1
+2025-04-02T14:01:52.730Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=02c8d84be466e9d8
+2025-04-02T14:01:53.253Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=cbf9512c73346f53
+2025-04-02T14:01:53.545Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=dff4c1539b279d75
+2025-04-02T14:01:53.746Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=c59d5725282b4370
+2025-04-02T14:01:54.115Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 38ms trace=e879989242699143
+2025-04-02T14:01:54.683Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=bdde6946a3103d72
+2025-04-02T14:01:55.357Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=88da007284146a53
+2025-04-02T14:01:55.451Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=c537799292666db7
+2025-04-02T14:01:55.673Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=d248745a344d2a42
+2025-04-02T14:01:55.865Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=5a0ad3aa1519e708
+2025-04-02T14:01:56.181Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 87ms trace=e3c0626d18dfef15
+2025-04-02T14:01:56.712Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=f49b41e215363de7
+2025-04-02T14:01:57.352Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=81872b09db7afedd
+2025-04-02T14:01:57.702Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=30113672ca10fbe8
+2025-04-02T14:01:58.168Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=aea69667eab0a8cc
+2025-04-02T14:01:58.301Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=09876038355a3f30
+2025-04-02T14:01:58.897Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=7e82c90f86927da0
+2025-04-02T14:01:59.098Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=4f8d182d50ebd1a6
+2025-04-02T14:01:59.553Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=4e4271c58e6f9f1c
+2025-04-02T14:02:00.071Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=1308416a5c15ebe0
+2025-04-02T14:02:00.254Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=64ecabc0aaebd456
+2025-04-02T14:02:00.766Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=71ffe40ea768614d
+2025-04-02T14:02:00.818Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=b5c2f75cb635ddda
+2025-04-02T14:02:01.344Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=9069e6794b20bce5
+2025-04-02T14:02:01.500Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=02ae3ce5c5960b2e
+2025-04-02T14:02:01.751Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=a0b5a8534a573d47
+2025-04-02T14:02:02.176Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=4c5738d4bfee52c6
+2025-04-02T14:02:02.561Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=aaac1e2c8e3ab724
+2025-04-02T14:02:02.690Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=332f92ed304bd907
+2025-04-02T14:02:03.115Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=4f49769b54536dc8
+2025-04-02T14:02:03.435Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=a3ec6c73b94a6f6b
+2025-04-02T14:02:03.814Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=61e7768ed3aebcb1
+2025-04-02T14:02:03.948Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=9f2914ca240cf0ef
+2025-04-02T14:02:04.084Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=a161660aad7d71ae
+2025-04-02T14:02:04.307Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=66fbc20131734cef
+2025-04-02T14:02:04.384Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=b435311497bdc76a
+2025-04-02T14:02:04.516Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=0848a1e53a015797
+2025-04-02T14:02:04.716Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=6826bd576f0e7c6c
+2025-04-02T14:02:04.830Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=d2c0fd63ebad7550
+2025-04-02T14:02:05.307Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=a5b203de239908e9
+2025-04-02T14:02:05.557Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 38ms trace=b0fa66fed2342198
+2025-04-02T14:02:05.992Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=ebdbee4e54d751b9
+2025-04-02T14:02:06.454Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=6694ce5bba18a1ca
+2025-04-02T14:02:07.121Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=c9ebdf9bfb61256f
+2025-04-02T14:02:07.411Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 87ms trace=42be2d5304bf22ea
+2025-04-02T14:02:07.789Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=4e89021c579cd2d5
+2025-04-02T14:02:08.280Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=60ab34bc8ea4dd51
+2025-04-02T14:02:08.529Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=c9deb1ad552f70b9
+2025-04-02T14:02:08.869Z INFO  [deploy] Rolling out checkout-svc release v2.4.0 (previous: v2.3.9)
+2025-04-02T14:02:09.014Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:09.680Z ERROR [kubelet] Container checkout-svc in pod checkout-svc-v2-4-0-abc12 CrashLoopBackOff exitCode=1
+2025-04-02T14:02:09.882Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=89f14b62c43a2d2d
+2025-04-02T14:02:10.227Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=5a416f043be1dd1d
+2025-04-02T14:02:10.893Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=83712c1f801b3cc2
+2025-04-02T14:02:11.078Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:11.705Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:11.947Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=b7238b1cff948c0f
+2025-04-02T14:02:12.188Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=a8d13f0aa08aa16d
+2025-04-02T14:02:12.430Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=3e9e105b22e2f303
+2025-04-02T14:02:12.959Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=55655edfb2753bab
+2025-04-02T14:02:13.336Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=edd6e10b177d678b
+2025-04-02T14:02:13.745Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:14.057Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:14.571Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=f93c6dd373c915e7
+2025-04-02T14:02:14.749Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=91bf3cbde7704d12
+2025-04-02T14:02:15.345Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=10473e148f8bde60
+2025-04-02T14:02:15.958Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=e8c9ea0b2b251667
+2025-04-02T14:02:16.340Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=25489de799fc4c53
+2025-04-02T14:02:16.505Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:16.548Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:16.883Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=c2219f283da91979
+2025-04-02T14:02:17.510Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=2a76d3bdd4ac5762
+2025-04-02T14:02:17.740Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=138684f6cfae2b02
+2025-04-02T14:02:18.245Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=2e18ecb86744959e
+2025-04-02T14:02:18.426Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=c1901f2c4ec2205b
+2025-04-02T14:02:18.856Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:19.525Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:20.171Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=3314b3052896b929
+2025-04-02T14:02:20.632Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=249ac6580876b34d
+2025-04-02T14:02:21.212Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=91cbe42e1e475ace
+2025-04-02T14:02:21.667Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=850fb0605613f869
+2025-04-02T14:02:21.841Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=3e7f6eab437f1a93
+2025-04-02T14:02:22.462Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:22.842Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:22.936Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=abc64d2db8bcad8e
+2025-04-02T14:02:23.124Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=7f5f9647f596aab2
+2025-04-02T14:02:23.778Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=586f1a06784c0240
+2025-04-02T14:02:24.239Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=4814c6e8c0707264
+2025-04-02T14:02:24.776Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=fe9f144fe3a13044
+2025-04-02T14:02:25.290Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:25.748Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:26.232Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=1d582a2a90e33137
+2025-04-02T14:02:26.810Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=854b10e9866679c4
+2025-04-02T14:02:27.292Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=0632c4b5e77f2770
+2025-04-02T14:02:27.660Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=b9bfccad4bc9a816
+2025-04-02T14:02:28.330Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=6ee78a04e66f6dd4
+2025-04-02T14:02:28.755Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:29.406Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:29.775Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=97eb8333e1f1e310
+2025-04-02T14:02:29.886Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=d8296b5c1fdb9a59
+2025-04-02T14:02:30.383Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=df8041ff80aca7b7
+2025-04-02T14:02:30.829Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=b1e5457c79c86032
+2025-04-02T14:02:30.976Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e8f2441686b652fb
+2025-04-02T14:02:31.260Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:31.858Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:32.211Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=3c6212bcf0b3aec7
+2025-04-02T14:02:32.321Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=8bd0ea9dddd26366
+2025-04-02T14:02:32.792Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 41ms trace=a6460c0638c68670
+2025-04-02T14:02:33.263Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=125d9e53e7462beb
+2025-04-02T14:02:33.403Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=cad7efd085074b55
+2025-04-02T14:02:33.576Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:33.742Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:34.332Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=4bcd9eb30025c96c
+2025-04-02T14:02:34.621Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=5323c0cc061fe816
+2025-04-02T14:02:34.837Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=e526f05b70d6586a
+2025-04-02T14:02:35.337Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 87ms trace=242adc5565b27c94
+2025-04-02T14:02:35.742Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=95e3e9d7b1390f31
+2025-04-02T14:02:36.018Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:36.104Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:36.457Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=e604e4c57472aafb
+2025-04-02T14:02:36.818Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=7f9851af5308acc4
+2025-04-02T14:02:37.004Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=34ddb7e0e0f471c5
+2025-04-02T14:02:37.251Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 57ms trace=ec32b9eedbe7da18
+2025-04-02T14:02:37.351Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=50dd5090320c9690
+2025-04-02T14:02:37.753Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:38.276Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:38.332Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=e1352b64a2a82435
+2025-04-02T14:02:38.945Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=a1e4960c8879093f
+2025-04-02T14:02:39.226Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=e152c9b0f30fd360
+2025-04-02T14:02:39.317Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=b9cc95204e5b3beb
+2025-04-02T14:02:39.677Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e67a796af61b8542
+2025-04-02T14:02:39.997Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:40.467Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:40.645Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=f4fa868bb229d593
+2025-04-02T14:02:41.140Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 73ms trace=2b5d5f281438a8e1
+2025-04-02T14:02:41.408Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=b5e5ae841ee36b4a
+2025-04-02T14:02:41.649Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=b85b61c32e570fec
+2025-04-02T14:02:41.930Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=aa22ac0b805d9772
+2025-04-02T14:02:42.272Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:42.591Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:43.012Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 87ms trace=1da26c6ee26ab1fa
+2025-04-02T14:02:43.656Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=fa257a763a9f6b2c
+2025-04-02T14:02:44.004Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=39d7f891aac2b4d4
+2025-04-02T14:02:44.327Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=aaf4fd5ca3d27710
+2025-04-02T14:02:44.459Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=fba7b8d37674ef3b
+2025-04-02T14:02:44.577Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:45.067Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:45.647Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=e84b12bd87e35323
+2025-04-02T14:02:45.733Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=9628e80d9985eaf0
+2025-04-02T14:02:46.064Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=6c6710ed403b322a
+2025-04-02T14:02:46.686Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=48ffd5612a1d87b1
+2025-04-02T14:02:46.920Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=2de8859a3ef33577
+2025-04-02T14:02:47.245Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:47.846Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:47.915Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=e5a3da14ca55658a
+2025-04-02T14:02:48.109Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=762d88df9f35ac0e
+2025-04-02T14:02:48.747Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=ede43a5600ae3de8
+2025-04-02T14:02:49.298Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=1064120d2e0d9a7f
+2025-04-02T14:02:49.907Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=a51c822ac6da3d4b
+2025-04-02T14:02:50.315Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:50.683Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:51.218Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=4a9c443f8448c03e
+2025-04-02T14:02:51.775Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=f3977c1bbe8ea956
+2025-04-02T14:02:52.359Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=c7976afb98080ef7
+2025-04-02T14:02:52.568Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=6f81716d9bab11bb
+2025-04-02T14:02:52.848Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=70c03c24ab1ed25e
+2025-04-02T14:02:53.448Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:53.750Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:54.031Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=8b4e007a7d36d211
+2025-04-02T14:02:54.297Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=090b9b3342e6f857
+2025-04-02T14:02:54.544Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=72c9021e92988e58
+2025-04-02T14:02:54.768Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=9bb999f826dd101e
+2025-04-02T14:02:54.826Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=7f00b43d9bca26c9
+2025-04-02T14:02:55.311Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:55.866Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:56.358Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=cc6bc3d9db4eddb7
+2025-04-02T14:02:56.429Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=e84537921d420712
+2025-04-02T14:02:56.651Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=caa6cccd945975b4
+2025-04-02T14:02:56.934Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 38ms trace=4f9e51a10dd1924c
+2025-04-02T14:02:57.409Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=b215eab10ad564c8
+2025-04-02T14:02:57.770Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:02:58.446Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:02:59.024Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=96b4b32ec3ea68e8
+2025-04-02T14:02:59.574Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=d2107331a66ad438
+2025-04-02T14:03:00.136Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 41ms trace=413cdff560fd1791
+2025-04-02T14:03:00.430Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=b0cf8c9d7f32eceb
+2025-04-02T14:03:01.080Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=745c6b53c9657c6e
+2025-04-02T14:03:01.182Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:01.545Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:02.005Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=b2dae5535d4aae39
+2025-04-02T14:03:02.266Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 25ms trace=7d525f5d20dff701
+2025-04-02T14:03:02.921Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=be9e5a852503044d
+2025-04-02T14:03:03.427Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=fc52ea94beb476a9
+2025-04-02T14:03:03.507Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=3d993cdb00db3cad
+2025-04-02T14:03:03.966Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:04.544Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:04.728Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=8e5bf71a64966f84
+2025-04-02T14:03:05.073Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=ef8142c56ca8086e
+2025-04-02T14:03:05.191Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=ff01e1e6ae0ae965
+2025-04-02T14:03:05.858Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 49ms trace=40d24dfb4bb315c6
+2025-04-02T14:03:06.019Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=daf8f37f8d48737a
+2025-04-02T14:03:06.306Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:06.774Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:07.286Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=3a2c3b1eeeb53e3e
+2025-04-02T14:03:07.698Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=f2481fb25648a407
+2025-04-02T14:03:08.363Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=2910a96a0a2818e1
+2025-04-02T14:03:08.815Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=57dc16f8bcc8516e
+2025-04-02T14:03:09.436Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e978ab45b1d6c49f
+2025-04-02T14:03:10.080Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:10.301Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:10.814Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=d7d1fa25ef78da44
+2025-04-02T14:03:11.072Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=c8063cf060f45290
+2025-04-02T14:03:11.162Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=58efff6b6b204def
+2025-04-02T14:03:11.454Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=8caf5394cb144114
+2025-04-02T14:03:11.661Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=34220a167aed9c15
+2025-04-02T14:03:12.110Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:12.369Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:13.017Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=4efc89d1c27517c1
+2025-04-02T14:03:13.540Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=fe4a11507d7ebfac
+2025-04-02T14:03:14.221Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=7cb2d605dcdb8433
+2025-04-02T14:03:14.470Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=6b4f43c56209b621
+2025-04-02T14:03:14.584Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=b0fca62a0c12d8f5
+2025-04-02T14:03:14.907Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:15.318Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:15.639Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=2e9abe2284d6d1d4
+2025-04-02T14:03:15.947Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=913f5fa76498f6ab
+2025-04-02T14:03:16.209Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=5c70e55d1a790535
+2025-04-02T14:03:16.307Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=efc71236ba6313d1
+2025-04-02T14:03:16.715Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=c404189223185644
+2025-04-02T14:03:17.001Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:17.163Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:17.223Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=6268bcbbd6bcedab
+2025-04-02T14:03:17.723Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=e1e41582dac3bb65
+2025-04-02T14:03:18.153Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=c54d7d96419b3d53
+2025-04-02T14:03:18.724Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=64db61104d5f783d
+2025-04-02T14:03:19.386Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=7d0981bf3d013e85
+2025-04-02T14:03:19.467Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:19.699Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:19.893Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=20acfbf1986b9a41
+2025-04-02T14:03:19.965Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=69228d2f4ff19555
+2025-04-02T14:03:20.439Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=b1aafa0a8b42ba37
+2025-04-02T14:03:20.618Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=8c534a24b4e42b0c
+2025-04-02T14:03:20.924Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=b9b914935059398d
+2025-04-02T14:03:21.426Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:21.852Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:22.042Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=47c499d2d5a843ee
+2025-04-02T14:03:22.629Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=22fde80767c26059
+2025-04-02T14:03:23.064Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 86ms trace=5b099107ddb04f03
+2025-04-02T14:03:23.335Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=5ed6b1f74ac55ecf
+2025-04-02T14:03:23.728Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=373bbd489c7eb0fd
+2025-04-02T14:03:23.911Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:23.992Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:24.057Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=02e8b1cc90e159a0
+2025-04-02T14:03:24.402Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 28ms trace=da5aed7beb484ea4
+2025-04-02T14:03:24.663Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=1f421646aaa5e49f
+2025-04-02T14:03:25.086Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=a1ecca3ac886e5c3
+2025-04-02T14:03:25.391Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=ccaf68bc17032089
+2025-04-02T14:03:25.868Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:26.030Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:26.471Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=7d6adc200f63209c
+2025-04-02T14:03:26.903Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=7f42dc1448d93f3b
+2025-04-02T14:03:27.229Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 48ms trace=ececef872899a68e
+2025-04-02T14:03:27.681Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=c4aeecda79a8290f
+2025-04-02T14:03:27.891Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=aa4ad76d59c8ae31
+2025-04-02T14:03:28.176Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:28.748Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:28.883Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=6c1c29dce852c892
+2025-04-02T14:03:29.077Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=41cb0d9c9527bdb4
+2025-04-02T14:03:29.683Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=ea20a998b33f4153
+2025-04-02T14:03:29.746Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=5d4258f21ecea1d5
+2025-04-02T14:03:29.850Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=67844060e9945e49
+2025-04-02T14:03:30.168Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:30.263Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:30.689Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=95fc6875d8c79b35
+2025-04-02T14:03:31.036Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=535607fab81d1113
+2025-04-02T14:03:31.335Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=090cdb100605d0df
+2025-04-02T14:03:31.730Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=5f8eb49ee44a832d
+2025-04-02T14:03:32.349Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=430bc5414c1c9bd9
+2025-04-02T14:03:32.579Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:33.276Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:33.796Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=57688ee79d819680
+2025-04-02T14:03:34.207Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=b510c539937ff029
+2025-04-02T14:03:34.468Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 29ms trace=0c34915aa0995c4b
+2025-04-02T14:03:35.143Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=9ce15b4a693466df
+2025-04-02T14:03:35.608Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=46b34a8b1049ed29
+2025-04-02T14:03:35.717Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:36.232Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:36.732Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=e8dc611df7617a48
+2025-04-02T14:03:37.166Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=22c70030cdc7b8ac
+2025-04-02T14:03:37.725Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=7eba93f64f00e539
+2025-04-02T14:03:38.134Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=0566dd78fa1b3fec
+2025-04-02T14:03:38.327Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=3144a9259afc6b89
+2025-04-02T14:03:38.643Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:38.916Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:39.220Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 48ms trace=8545a5fe3c0b828c
+2025-04-02T14:03:39.260Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=64d6f0d3fad3a609
+2025-04-02T14:03:39.303Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=7e5d55718c091074
+2025-04-02T14:03:39.904Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 30ms trace=d2ced6d39fd7d024
+2025-04-02T14:03:40.518Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=d4c2e33ce257b77b
+2025-04-02T14:03:40.899Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:41.209Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:41.603Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=04f527a6e2e6b240
+2025-04-02T14:03:41.963Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=656f6f84b204d4e9
+2025-04-02T14:03:42.163Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=29394dfed30b2bda
+2025-04-02T14:03:42.366Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=b073563a9f22051a
+2025-04-02T14:03:42.908Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=905636e3ce13e754
+2025-04-02T14:03:43.248Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:43.666Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:44.130Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 56ms trace=bfbc40fc5de9e15e
+2025-04-02T14:03:44.716Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=a570e3b33cadf9ba
+2025-04-02T14:03:45.011Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=b4c80ff553324dfe
+2025-04-02T14:03:45.233Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=2041832ebcce00b0
+2025-04-02T14:03:45.337Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=1194ccacfd3a233d
+2025-04-02T14:03:45.481Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:45.838Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:45.993Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 77ms trace=c5a8e39d8329b268
+2025-04-02T14:03:46.525Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 25ms trace=9f1fc94c299e28e8
+2025-04-02T14:03:46.987Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=583a72c80dae5910
+2025-04-02T14:03:47.286Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=bd4dae5081e83b85
+2025-04-02T14:03:47.727Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=b74875c040c0ea5d
+2025-04-02T14:03:48.417Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:48.714Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:49.130Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=557682aa2eff15ab
+2025-04-02T14:03:49.379Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=fbc02fd09145a172
+2025-04-02T14:03:49.849Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=bd80f0599f7c60ba
+2025-04-02T14:03:50.164Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=336b7b3a200e6993
+2025-04-02T14:03:50.589Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=ab5b2e079f060196
+2025-04-02T14:03:50.927Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:51.203Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:51.432Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=95e512e078ca2b0b
+2025-04-02T14:03:51.608Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=4567226cb005c3e3
+2025-04-02T14:03:52.077Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=aa702c65a1a7a343
+2025-04-02T14:03:52.523Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=ade6b275eef1d7a0
+2025-04-02T14:03:52.705Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=284524020c77ac90
+2025-04-02T14:03:52.866Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:52.949Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:53.187Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 56ms trace=bb3260555b412b77
+2025-04-02T14:03:53.778Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=547eab4e67923e81
+2025-04-02T14:03:53.845Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=7ba8c7bfdb05dfdf
+2025-04-02T14:03:54.060Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=4f27c645113fcc7c
+2025-04-02T14:03:54.549Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=deabd99accec2485
+2025-04-02T14:03:54.879Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:55.148Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:55.589Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=245a12afc3ef7a9a
+2025-04-02T14:03:56.219Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=b1ad1c92acca0702
+2025-04-02T14:03:56.480Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=ccd7cc23485e6611
+2025-04-02T14:03:56.670Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=d57655a52cd24474
+2025-04-02T14:03:56.819Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=eefcdc808e6206ab
+2025-04-02T14:03:57.116Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:03:57.655Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:03:58.138Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=52db101126e04c1d
+2025-04-02T14:03:58.197Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=919f339390e0240b
+2025-04-02T14:03:58.384Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 55ms trace=667017e7a01325ed
+2025-04-02T14:03:58.704Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=14bca3c73a41a33c
+2025-04-02T14:03:59.237Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=5da7fea5337b4a7a
+2025-04-02T14:03:59.841Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:00.146Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:00.758Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=107b003f26d0387e
+2025-04-02T14:04:00.805Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=141350bcab95cebe
+2025-04-02T14:04:00.849Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=7bc28907561795eb
+2025-04-02T14:04:01.032Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=de042167fddc2adb
+2025-04-02T14:04:01.490Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=0838d3467bf81a35
+2025-04-02T14:04:01.954Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:02.353Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:02.966Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=0ec1c5498eafba1e
+2025-04-02T14:04:03.226Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=a829b1e89de08bbf
+2025-04-02T14:04:03.903Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=3049e8c746f07d4b
+2025-04-02T14:04:04.240Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=ce1e8d63fe89ff33
+2025-04-02T14:04:04.733Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=d56e8eb1923dbee6
+2025-04-02T14:04:04.821Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:05.041Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:05.108Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 41ms trace=1e681d1889fc7375
+2025-04-02T14:04:05.224Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=06244c3d5be2b0f6
+2025-04-02T14:04:05.833Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=83a598fc101d7319
+2025-04-02T14:04:06.350Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=35cbccc1e2ef51d7
+2025-04-02T14:04:06.455Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=5d50fe87f5924fef
+2025-04-02T14:04:06.506Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:07.085Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:07.396Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=ecadaa04cad37952
+2025-04-02T14:04:07.942Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=cd969dcb4ed5b30f
+2025-04-02T14:04:08.526Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=f34c0c20efa6b517
+2025-04-02T14:04:09.059Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=b48c0896d705424a
+2025-04-02T14:04:09.517Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e625a6a34020340d
+2025-04-02T14:04:10.195Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:10.259Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:10.308Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 38ms trace=52d8c0253a2bcad7
+2025-04-02T14:04:10.745Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=a82f00418194797d
+2025-04-02T14:04:11.068Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=a355cf7fa07cf779
+2025-04-02T14:04:11.568Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 65ms trace=477aa7c34fe95b66
+2025-04-02T14:04:11.676Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=a74010c7e7b7b8c8
+2025-04-02T14:04:12.045Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:12.693Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:12.829Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=36af43a255b59b31
+2025-04-02T14:04:13.053Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=be422bec0c026a5c
+2025-04-02T14:04:13.226Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=ae22fe444df2b2f8
+2025-04-02T14:04:13.476Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=1b1735fa58f43958
+2025-04-02T14:04:13.675Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=5f6fc5242497c482
+2025-04-02T14:04:14.073Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:14.299Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:14.780Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=66547263026abf72
+2025-04-02T14:04:15.334Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=1840c04d67422196
+2025-04-02T14:04:15.703Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=f3c982ded7012537
+2025-04-02T14:04:15.952Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=2cb02336e1673346
+2025-04-02T14:04:16.320Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=c10ee522110673b6
+2025-04-02T14:04:16.963Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:17.113Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:17.745Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=792d2d6d6e1b90cf
+2025-04-02T14:04:18.009Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=c7c9547c6880e41d
+2025-04-02T14:04:18.231Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=ad5dfa7b11e83bbe
+2025-04-02T14:04:18.670Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=2ef62e7be1a7abc2
+2025-04-02T14:04:19.075Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=fd4dedf5866c23c5
+2025-04-02T14:04:19.125Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:19.316Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:20.005Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=a4d51c7fe93b16f7
+2025-04-02T14:04:20.101Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=9dc3eb689dcfd8b1
+2025-04-02T14:04:20.493Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=b6ea2040db3a4054
+2025-04-02T14:04:21.176Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 74ms trace=f8275b3b813dd720
+2025-04-02T14:04:21.797Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=1d381e91ecc08211
+2025-04-02T14:04:21.961Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:22.465Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:22.951Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=d62bcd216b5bc901
+2025-04-02T14:04:23.384Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 84ms trace=601de4fe3ae303f8
+2025-04-02T14:04:24.039Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=0ae5016692a09317
+2025-04-02T14:04:24.606Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=a098d15a8738f34d
+2025-04-02T14:04:25.108Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=48bfc94e72627625
+2025-04-02T14:04:25.755Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:25.842Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:26.490Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=5321e13fee7dfbc6
+2025-04-02T14:04:26.685Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=5400e35c77fba7fe
+2025-04-02T14:04:26.987Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 60ms trace=bc9bac6e30341358
+2025-04-02T14:04:27.507Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=0d6e60f266efcf8e
+2025-04-02T14:04:27.676Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=fd754c69c0bab817
+2025-04-02T14:04:28.218Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:28.371Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:28.650Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=ec85f464d71875fa
+2025-04-02T14:04:28.835Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=1aac7ed1cc346177
+2025-04-02T14:04:29.398Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=42f0cc98fe621d37
+2025-04-02T14:04:29.504Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=09cc5f91debeb4a5
+2025-04-02T14:04:29.894Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=84856d15402e93f5
+2025-04-02T14:04:30.291Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:30.795Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:31.047Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=dd94a46c03aceed9
+2025-04-02T14:04:31.524Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=4795369c7d332c7a
+2025-04-02T14:04:32.223Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 50ms trace=1b760c4412d41aff
+2025-04-02T14:04:32.831Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=c1cec6f8c9813f46
+2025-04-02T14:04:33.373Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=3de6f0e0e075781b
+2025-04-02T14:04:33.486Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:34.034Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:34.131Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=e7db455cf90393f8
+2025-04-02T14:04:34.238Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=5da862fccfc9257e
+2025-04-02T14:04:34.460Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=096bf49355709601
+2025-04-02T14:04:34.854Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 48ms trace=49dbd1fcd5790372
+2025-04-02T14:04:35.014Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=2e841f856a8120fb
+2025-04-02T14:04:35.683Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:36.120Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:36.191Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=7d3a1071e6dbf329
+2025-04-02T14:04:36.304Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 31ms trace=a6230bb2fce490ed
+2025-04-02T14:04:36.555Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=50ffeaffa113e465
+2025-04-02T14:04:36.796Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 75ms trace=03ef2faf60d2d964
+2025-04-02T14:04:37.183Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=50b98101b329e807
+2025-04-02T14:04:37.867Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:38.192Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:38.849Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 46ms trace=35a7426ab1e1f9d2
+2025-04-02T14:04:39.074Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=b199ee532be8761f
+2025-04-02T14:04:39.708Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=210cf4190a960b76
+2025-04-02T14:04:40.032Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=f0e75be042330fc9
+2025-04-02T14:04:40.424Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=9f7307f79c2a7a44
+2025-04-02T14:04:40.830Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:41.184Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:41.424Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=11ab7b62feadad5a
+2025-04-02T14:04:41.674Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=4f6dc135ded5b65a
+2025-04-02T14:04:42.132Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=124aa4282572055f
+2025-04-02T14:04:42.818Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=5fe6c3e56cba8f47
+2025-04-02T14:04:43.485Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=477c6a5068b3af8a
+2025-04-02T14:04:43.992Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:44.168Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:44.726Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=1855b106f1104848
+2025-04-02T14:04:45.120Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=6af910ddb4208fe9
+2025-04-02T14:04:45.400Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=1e18614c944af399
+2025-04-02T14:04:45.731Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=e0751bb6df657069
+2025-04-02T14:04:46.064Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=dabeb09af3b72cb2
+2025-04-02T14:04:46.184Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:46.689Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:46.960Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 81ms trace=32dfb2cd633bbb50
+2025-04-02T14:04:47.423Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 48ms trace=a3c0a19f72caf56a
+2025-04-02T14:04:47.528Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=5552a4f26b4a1631
+2025-04-02T14:04:47.856Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 76ms trace=f45acc44a8936192
+2025-04-02T14:04:48.170Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=a966b7914aff238b
+2025-04-02T14:04:48.222Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:48.887Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:49.177Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 21ms trace=5ff50941695a0546
+2025-04-02T14:04:49.352Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=6baf5122635a2ce7
+2025-04-02T14:04:49.677Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 63ms trace=d20d654b1a212df2
+2025-04-02T14:04:50.321Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=a84dc8328bc1d374
+2025-04-02T14:04:50.462Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e5823bd57400102d
+2025-04-02T14:04:50.716Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:50.846Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:51.258Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=07bf840c5fde3f09
+2025-04-02T14:04:51.902Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 64ms trace=e5dd78c5fd694faa
+2025-04-02T14:04:51.965Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=129203a9781cca9e
+2025-04-02T14:04:52.375Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 41ms trace=81790cc876ffdaaa
+2025-04-02T14:04:52.738Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=abbe0eef7ac9811b
+2025-04-02T14:04:53.398Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:53.500Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:53.767Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=ca39d06cfe1b4ca6
+2025-04-02T14:04:54.211Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 75ms trace=3ade3b18d423b215
+2025-04-02T14:04:54.805Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=0eb8331eff64b0ee
+2025-04-02T14:04:54.913Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=66baee95a7fbde7b
+2025-04-02T14:04:55.176Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=fd60c17084924159
+2025-04-02T14:04:55.814Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:56.068Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:56.617Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=249937b3d492cd0f
+2025-04-02T14:04:57.184Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=bde6ff62188e059b
+2025-04-02T14:04:57.309Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 20ms trace=f555d68d2ab6c551
+2025-04-02T14:04:57.986Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=cfad1e60a9d1fffe
+2025-04-02T14:04:58.511Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e24ef475c6a86e95
+2025-04-02T14:04:58.673Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:04:59.156Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:04:59.675Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 39ms trace=5ef45898040b7e6f
+2025-04-02T14:05:00.089Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 23ms trace=59e205251be066e3
+2025-04-02T14:05:00.551Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 88ms trace=889e7e808fa32444
+2025-04-02T14:05:00.704Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=ffb883d54d32e9fc
+2025-04-02T14:05:01.263Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=1fe52d27906342ce
+2025-04-02T14:05:01.372Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:01.993Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:02.276Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=169ecd22a9a63cc8
+2025-04-02T14:05:02.837Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=4b41b4e44ef7496f
+2025-04-02T14:05:03.238Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 51ms trace=973d80723f2ca930
+2025-04-02T14:05:03.701Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=fd62c60d0de68b78
+2025-04-02T14:05:03.963Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=73a1ed8e96c048db
+2025-04-02T14:05:04.177Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:04.788Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:04.935Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=d9ca171a233d3b6c
+2025-04-02T14:05:05.081Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 84ms trace=24da784e27a3ed81
+2025-04-02T14:05:05.698Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 87ms trace=680ca2162c737c6b
+2025-04-02T14:05:06.370Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=d2808a5a69d32c35
+2025-04-02T14:05:06.420Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=275bf43f3a981f38
+2025-04-02T14:05:06.572Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:06.997Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:07.197Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 57ms trace=9e5d4db887f4801d
+2025-04-02T14:05:07.266Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 71ms trace=7e51effc1c39ab0c
+2025-04-02T14:05:07.613Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 89ms trace=c3339b5da49ed517
+2025-04-02T14:05:07.700Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=4caaf3ee6a880739
+2025-04-02T14:05:07.820Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=42c578ef36f3fc68
+2025-04-02T14:05:08.409Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:08.563Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:09.032Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=7d2ead5be5492d6c
+2025-04-02T14:05:09.280Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=fb473ff59162b2e7
+2025-04-02T14:05:09.832Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=a02b42db64fa7de6
+2025-04-02T14:05:10.178Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=998a5a99bd44767b
+2025-04-02T14:05:10.482Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=5e2bf42d38551bdb
+2025-04-02T14:05:10.608Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:11.087Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:11.615Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=a6125d575bc54ae3
+2025-04-02T14:05:12.095Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=1de68cbc7368d8cd
+2025-04-02T14:05:12.185Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 59ms trace=87f56ad9d5ed2aec
+2025-04-02T14:05:12.288Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=61d5edfa8722ac82
+2025-04-02T14:05:12.888Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=665561ef529c4d96
+2025-04-02T14:05:13.156Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:13.297Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:13.717Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 24ms trace=5c0eb2a6507d73f1
+2025-04-02T14:05:14.252Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 49ms trace=bfdc58ae851660bd
+2025-04-02T14:05:14.831Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 82ms trace=024b2632bbaec27a
+2025-04-02T14:05:15.253Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 72ms trace=f75f839597e1b81b
+2025-04-02T14:05:15.400Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=b004f06d01cfd8a5
+2025-04-02T14:05:16.047Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:16.452Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:16.744Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=991a5322f69d0c7b
+2025-04-02T14:05:17.161Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=9bf443a835b519f9
+2025-04-02T14:05:17.804Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 27ms trace=2f0738f850ac851a
+2025-04-02T14:05:18.353Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 35ms trace=c22a6ba3842514d0
+2025-04-02T14:05:18.745Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=db1489ef0d94528f
+2025-04-02T14:05:18.880Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:19.138Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:19.436Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=cbafa772cec4ff6c
+2025-04-02T14:05:19.911Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 67ms trace=16fc000266fc8f71
+2025-04-02T14:05:20.243Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=658d222a15e0e569
+2025-04-02T14:05:20.513Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=085452465403fc07
+2025-04-02T14:05:20.877Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=d1c19ccb263d33ea
+2025-04-02T14:05:21.076Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:21.408Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:22.105Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 56ms trace=ffedf3cb0e868a47
+2025-04-02T14:05:22.647Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 26ms trace=9fec7658652c7f84
+2025-04-02T14:05:22.772Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=ed649a0a23750cf0
+2025-04-02T14:05:23.160Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=ef301b409df36fca
+2025-04-02T14:05:23.416Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=8bfeb3f6946fbf5f
+2025-04-02T14:05:23.461Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:23.991Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:24.459Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 62ms trace=a01b690badfd283a
+2025-04-02T14:05:24.575Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 42ms trace=155dbd75c8098bb1
+2025-04-02T14:05:25.066Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 37ms trace=c1c593ae60b9f186
+2025-04-02T14:05:25.564Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 75ms trace=1e33d738cd191b9e
+2025-04-02T14:05:26.059Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e5b43c4f51e63545
+2025-04-02T14:05:26.172Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:26.330Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:26.734Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 90ms trace=1cfd1a18b643dcda
+2025-04-02T14:05:26.895Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 70ms trace=b0e1102a4f5fe3f8
+2025-04-02T14:05:27.508Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=de315fdeec19b0c0
+2025-04-02T14:05:27.764Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 32ms trace=52fb14036a31a124
+2025-04-02T14:05:28.353Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=d6d9b5e723d63fa0
+2025-04-02T14:05:28.519Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:28.717Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:29.037Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 80ms trace=080857a06858ae71
+2025-04-02T14:05:29.519Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 68ms trace=aca3386c33464260
+2025-04-02T14:05:30.065Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 83ms trace=b08761376fce6992
+2025-04-02T14:05:30.502Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=7b51ec02c7517d38
+2025-04-02T14:05:30.649Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=be0a25e48caecc72
+2025-04-02T14:05:30.859Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:31.498Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:31.869Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 45ms trace=58a4fdff03c5ba00
+2025-04-02T14:05:32.076Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 64ms trace=97664eaa608364a9
+2025-04-02T14:05:32.648Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 69ms trace=9303716173ea2819
+2025-04-02T14:05:33.290Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 79ms trace=c55844a75bb73796
+2025-04-02T14:05:33.927Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=7b0076d225d8739f
+2025-04-02T14:05:34.372Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:34.747Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:34.879Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 82ms trace=a1e3de453bcc1f27
+2025-04-02T14:05:35.186Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 64ms trace=692b6adfbafc1bad
+2025-04-02T14:05:35.814Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 25ms trace=ebf4d27c41ce67a2
+2025-04-02T14:05:35.919Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 52ms trace=3e444b8860a889b4
+2025-04-02T14:05:36.177Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=e877609e6ec76c2e
+2025-04-02T14:05:36.849Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:36.955Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:37.567Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 43ms trace=69ec4df7f9ca5b9f
+2025-04-02T14:05:38.150Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 78ms trace=7c9f029c63006987
+2025-04-02T14:05:38.310Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 49ms trace=c0ccd6182fac5c5b
+2025-04-02T14:05:38.984Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 33ms trace=4e7a0428adef787e
+2025-04-02T14:05:39.536Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=2677e97cd8f1598c
+2025-04-02T14:05:39.611Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:40.011Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:40.632Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=7d7f22758d2f706b
+2025-04-02T14:05:41.013Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 82ms trace=725b7a8726cc6590
+2025-04-02T14:05:41.418Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 58ms trace=3f3f35551901880c
+2025-04-02T14:05:41.617Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 47ms trace=3302eab7fc6e204b
+2025-04-02T14:05:42.204Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=9c1ddafdbcd24821
+2025-04-02T14:05:42.596Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:42.759Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:42.966Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 44ms trace=2b1c7ace951b0a1f
+2025-04-02T14:05:43.383Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 61ms trace=1be3763b5d3073b1
+2025-04-02T14:05:43.720Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=3fcb79e61c44f238
+2025-04-02T14:05:44.126Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 22ms trace=8986823b2c288fff
+2025-04-02T14:05:44.425Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=4b047813aaf2f4f6
+2025-04-02T14:05:44.758Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:45.056Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:45.670Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 36ms trace=7c206342433af9c6
+2025-04-02T14:05:45.787Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=48f8eee5076c9ade
+2025-04-02T14:05:46.111Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 85ms trace=dfb260c026f4e796
+2025-04-02T14:05:46.550Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=dc0f94ffd2690ac9
+2025-04-02T14:05:47.147Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=2182d579dad00218
+2025-04-02T14:05:47.811Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:47.942Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:48.538Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 40ms trace=c019389e88d88055
+2025-04-02T14:05:49.181Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 53ms trace=0de8ac904e72f20d
+2025-04-02T14:05:49.658Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 66ms trace=c98b6109a6dddd10
+2025-04-02T14:05:50.253Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 49ms trace=73ecd6c37b23cc75
+2025-04-02T14:05:50.672Z ERROR [ingress] HTTP 502 POST /checkout upstream checkout-svc has no healthy endpoints req=baaefc67587be29f
+2025-04-02T14:05:50.933Z WARN  [kubelet] Back-off restarting failed container checkout-svc (release v2.4.0)
+2025-04-02T14:05:51.628Z ERROR [checkout-svc-v2-4-0] KeyError: 'PAYMENT_GATEWAY_URL' (config.py line 41, load_settings)
+2025-04-02T14:05:52.185Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 54ms trace=ba04844d90e6a689
+2025-04-02T14:05:52.582Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 49ms trace=f32ac924134abe22
+2025-04-02T14:05:53.185Z INFO  [checkout-svc-v2-3-9] POST /checkout 200 34ms trace=f0c4102d9329164f
